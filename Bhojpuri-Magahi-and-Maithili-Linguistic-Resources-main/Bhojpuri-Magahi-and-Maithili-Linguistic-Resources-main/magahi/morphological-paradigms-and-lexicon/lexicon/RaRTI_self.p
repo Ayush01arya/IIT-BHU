@@ -1,0 +1,10 @@
+RaRTI_self
+wU
+apanekaV
+apanekaV
+apanekaV
+apanekaV
+apanekaV
+apanekaV
+apanekaV
+apanekaV

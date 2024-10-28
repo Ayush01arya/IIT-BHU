@@ -1,0 +1,5 @@
+Adj_m_e_vAlA
+kariyakkA
+kariyakkai/kariyekkai/karikkai/kariyakke
+kariyavA
+kariyavai/kariavai/kariyavE/kariyave

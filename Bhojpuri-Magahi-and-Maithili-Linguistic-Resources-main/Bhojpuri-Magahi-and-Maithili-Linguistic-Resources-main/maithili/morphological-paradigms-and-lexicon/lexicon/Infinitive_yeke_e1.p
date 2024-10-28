@@ -1,0 +1,17 @@
+Infinitive_yeke_e1
+KA
+KevAko/Kaiyo/KAyo/KebAko/Kaiyeko/KaViyahiMko/KAiyo/KAio/KanAi/KenAio
+kara
+karaiyo/karavAko/karabAko/karaViyahiMko/kariyo/karnAi/kenAio/karenAio
+uTa
+uTaiyo/uTavAko/uTabAko/uTaViyahiMko/uTiyo/uTanAi/uTenAio/uTanAio
+ho
+hovAko/hobAko/hoViyahiMko/hoiyo/honAi/honAio
+pI
+pibAko/pIvAko/piViyahiMko/pIViyahiMko/pIiyo/piiyo/pInAi/pinAi/pInAio
+CU
+CuvAko/CUvAko/CubAko/CUbAko/CuViyahiMko/CUViyahiMko/CUiyo/Cuiyo/CUnAi/CunAi/CUnAio/CunAio
+so
+sobAko/sovAko/soViyahiMko/soiyo/sonAi/sonAio
+se
+sebAko/sevAko/seViyahiMko/seiyo/senAi/senAio

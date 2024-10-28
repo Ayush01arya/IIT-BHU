@@ -1,0 +1,7 @@
+Adj_f_e1_vAlI
+kariyakkI
+karIkiyo/kariyakkio/kariyakkiZWNJseho/karikiyo/karIyakkio/karIyakkiZWNJseho/karIkiyahuz/karikiyahuz/kariyakkihuz/karIyakkihuz/kariyakkIo
+kariyaI
+kariaVyo
+kariyai
+kariaVyo

@@ -1,0 +1,14 @@
+Pres_Prog_Asp_Aux_A
+wa
+rahali/rahalai/hiyaV
+rahali/rahalai/hiyaV
+rahale/rahali/hiyaV
+rahaliye/rahali/rahalaWina/hiyaV
+rahale/rahalai/hiyaV
+rahale/rahalaWina/hiyaV
+rahali/rahale/hiyaV
+rahale/rahali/hiyaV
+rahale/rahali/hiyaV
+rahaliye/rahali/rahalaWina/hiyaV
+rahale/rahali/hiyaV
+rahale/rahali/hiyaV

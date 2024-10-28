@@ -1,0 +1,14 @@
+Pres_Prog_Asp_Aux_A
+wa
+wAni/wAnI/wAdZi/Wai
+wAni/wAnI/wAdZi/Wai
+wAdZaV/WavaV
+wAdZaV/wAni/wAnI/WavaV/WavazV
+wA/WaV
+wAne/wAdZe/Wauvana/Wavazna
+wAni/wAnI/wAdZi/Wai
+wAni/wAnI/wAdZi/Wai
+wAdZU/Wayu/WauV
+wAdZU/Wayu/WauV/wAni/Waina/wAdZiM
+wiyA/WiyA/wAdZi
+wAni/wAdZina/wAina/Waina/wAdZi

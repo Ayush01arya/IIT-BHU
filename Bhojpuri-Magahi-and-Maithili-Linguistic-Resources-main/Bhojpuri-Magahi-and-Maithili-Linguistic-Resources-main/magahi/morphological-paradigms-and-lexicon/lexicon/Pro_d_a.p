@@ -1,0 +1,16 @@
+Pro_d_a
+u
+u/U/o/vo
+u/U
+je
+je/javana
+je/javana
+kavana
+ke/kavana
+ke/kavana
+kehu
+kehU/koi/koI/kehu
+kehU/koi/koI/kehu
+i
+i
+e/ye/ehana/yehana

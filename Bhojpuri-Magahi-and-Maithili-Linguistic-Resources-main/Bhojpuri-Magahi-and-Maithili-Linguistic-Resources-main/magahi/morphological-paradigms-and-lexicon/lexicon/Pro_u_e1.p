@@ -1,0 +1,14 @@
+Pro_u_e1
+hama
+hamahUM/hamahUz
+-
+hamaroZWNJke
+hamaroZWNJse
+hamaroZWNJmeM
+hamaroZWNJpara
+hammano/hamano/hamahano/hamanio/hamanIo
+-
+hammanoke/hamanoke/hamahanoke/hamanioke/hamanIoke/hammanoZWNJke/hamanoZWNJke/hamahanoZWNJke/hamanioZWNJke/hamanIoZWNJke
+hammanose/hamanose/hamahanose/hamaniose/hamanIose/hammanoZWNJse/hamanoZWNJse/hamahanoZWNJse/hamanioZWNJse/hamanIoZWNJse
+hammanomeM/hamanomeM/hamahanomeM/hamaniomeM/hamanIomeM/hammanoZWNJmeM/hamanoZWNJmeM/hamahanoZWNJmeM/hamanioZWNJmeM/hamanIoZWNJmeM
+hammanopara/hamanopara/hamahanopara/hamaniopara/hamanIopara/hammanoZWNJpara/hamanoZWNJpara/hamahanoZWNJpara/hamanioZWNJpara/hamanIoZWNJpara/hahammanope/hamanope/hamahanope/hamaniope/hamanIope/hammanoZWNJpe/hamanoZWNJpe/hamahanoZWNJpe/hamanioZWNJpe/hamanIoZWNJpe

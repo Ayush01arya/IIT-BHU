@@ -1,0 +1,8 @@
+Pro_self
+wU
+Apa/rauzvA/raUzvA/raurA/rauvA/raUvA/rauMvA/raUMvA
+-
+Apake/rauzvAke/raUzvAke/raurAke/rauvAke/raUvAke/rauMvAke/raUMvAke/ApaZWNJke/rauzvAZWNJke/raUzvAZWNJke/raurAZWNJke/rauvAZWNJke/raUvAZWNJke/rauMvAZWNJke/raUMvAZWNJke
+Apase/rauzvAse/raUzvAse/raurAse/rauvAse/raUvAse/rauMvAse/raUMvAse/ApaZWNJse/rauzvAZWNJse/raUzvAZWNJse/raurAZWNJse/rauvAZWNJse/raUvAZWNJse/rauMvAZWNJse/raUMvAZWNJse
+ApameM/rauzvAmeM/raUzvAmeM/raurAmeM/rauvAmeM/raUvAmeM/rauMvAmeM/raUMvAmeM/ApaZWNJmeM/rauzvAZWNJmeM/raUzvAZWNJmeM/raurAZWNJmeM/rauvAZWNJmeM/raUvAZWNJmeM/rauMvAZWNJmeM/raUMvAZWNJmeM
+Apapara/rauzvApara/raUzvApara/raurApara/rauvApara/raUvApara/rauMvApara/raUMvApara/ApaZWNJpara/rauzvAZWNJpara/raUzvAZWNJpara/raurAZWNJpara/rauvAZWNJpara/raUvAZWNJpara/rauMvAZWNJpara/raUMvAZWNJpara/Apape/rauzvApe/raUzvApe/raurApe/rauvApe/raUvApe/rauMvApe/raUMvApe/ApaZWNJpe/rauzvAZWNJpe/raUzvAZWNJpe/raurAZWNJpe/rauvAZWNJpe/raUvAZWNJpe/rauMvAZWNJpe/raUMvAZWNJpe

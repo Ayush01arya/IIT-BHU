@@ -1,0 +1,14 @@
+PstPerf_Minus_Aux_ila1
+jA
+geli/gelI/gaili/gayali/gayalI/geliyai/gela
+geli/gelI/gaili/gayali/gayalI/geliyai/gela
+gaila/gayala/gelahiM
+gaila/gailIM/gailiM/gelaTin
+gaila/gayala/gailo/gayalo/gelai/geila
+gaila/gayala/gailo/gayalo/gelai/geila/gelaTin
+geli/gelI/gaili/gayali/gayalI/geliyai
+geli/gelI/gaili/gayali/gayalI/geliyai
+gaila/gayala/gelahiM
+gaila/gailIM/gailiM/gelaTin
+gaila/gayala/gailo/gayalo/gelai/geila
+gaila/gayala/gailo/gayalo/gelai/geila/gelaTin

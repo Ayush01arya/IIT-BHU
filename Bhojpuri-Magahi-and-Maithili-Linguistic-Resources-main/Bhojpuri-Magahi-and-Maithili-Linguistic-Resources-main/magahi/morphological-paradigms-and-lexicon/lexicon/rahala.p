@@ -1,0 +1,14 @@
+rahala
+rahala
+rahali/rahalI/haliai/haliE/haliyai
+rahali/rahalI/haliai/haliE/haliyai
+rahale/rahalA/halahIM
+rahaliM/rahaMlina/rahazlina/halaho/halahIM
+rahala/halai/halE/halaV/rahalaV
+rahala/halaKina/halaWina/halana/rahalaV
+rahali/rahalI/haliai
+rahalahU/rahalahu/haliM
+rahali/rahalI/halai
+rahaliM/rahaMlina/rahazlina/halaKina/halaWina
+rahalahU/rahalahu/halahIM
+rahaliM/rahaMlina/rahazlina/halaKina/halaWina

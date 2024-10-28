@@ -1,0 +1,16 @@
+Pro_d_a_e1
+u
+uho/Uho/oho
+uho/Uho
+je
+jeho/jevano
+jeho/javano
+kavana
+keho/kavano
+keho/kavano
+kehu
+kehU/koiyo/koyayo
+kehU/koiyo/koyayo
+i
+iho
+ihano/ehano

@@ -1,0 +1,14 @@
+Pro_m
+woz
+worAsaz/worAZWNJsaz/woz
+-
+worA
+worAsaz/worAZWNJsaz
+worAme/worAZWNJme/worAZWNJma
+worApara/worAZWNJpara
+wozsaBa/woMsaBa/wUzsaBa/wozZWNJsaBa/woMZWNJsaBa/wUzZWNjsaBa/wozsaba/woMsaba/wUzsaba/wozZWNJsaba/woMZWNJsaba/wUzZWNJsaba/wozAra/wozZWNJAra/woMAra/woMZWNJAra/wUzAra/wUzZWNJAra
+-
+worAsaBakez/worAsabakez/worAZWNJsaBakez/worAZWNJsabakez/worAZWNJsaBaZWNJkez/worAZWNJsabaZWNJkez/worAArakez/worAAraZWNJkez/worAZWNJAraZWNJkez
+worAsaBasaz/worAsabasaz/worAsaBaZWNJsaz/worAsabaZWNJsaz/worAZWNJsaBaZWNJsaz/worAZWNJsabaZWNJsaz/worAArasaz/worAAraZWNJsaz/worAZWNJAraZWNJsaz
+worAsaBame/worAsabame/worAZWNJsaBame/worAZWNJsabame/worAsaBaZWNJme/worAZWNJsabaZWNJme/worAArame/worAAraZWNJme/worAZWNJAraZWNJme/worAAraZWNJma/worAZWNJAraZWNJma/worAsaBaZWNJma/worAZWNJsaBaZWNJma/worAsabaZWNJma/worAZWNJsabaZWNJma
+worAsaBapara/worAsabapara/worAsaBaZWNJpara/worAsabaZWNJpara/worAZWNJsaBaZWNJpara/worAZWNJsabaZWNJpara/worAAraZWNJpara/worAZWNJAraZWNJpara

@@ -1,0 +1,4 @@
+Pro_d_u_e
+hama
+hamahIM/hamahIz
+hamahIMsaBa/hamahIzsaba/hamahIzZWNJsaBa/hamahIzZWNJsaba/hamahIMAra/hamahIzAra/hamahIMZWNJAra/hamahIzZWNJAra

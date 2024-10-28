@@ -1,0 +1,14 @@
+Pro_m
+wU
+woharA/wo/woha/wahi/worA/waharA/wU
+-
+woharAke/woke/wohake/wahike/worAke/woharAZWNJke/woZWNJke/wohaZWNJke/wahiZWNJke/worAZWNJke/waharAZWNJke/waharAke
+woharAse/wose/wohase/wahise/worAse/woharAZWNJse/woZWNJse/wohaZWNJse/wahiZWNJse/worAZWNJse/waharAZWNJse/waharAse
+woharAmeM/womeM/wohameM/wahimeM/worAmeM/woharAZWNJmeM/woZWNJmeM/wohaZWNJmeM/wahiZWNJmeM/worAZWNJmeM/waharAZWNJmeM/waharAmeM
+woharApara/wopara/wohapara/wahipara/worApara/woharAZWNJpara/woZWNJpara/wohaZWNJpara/wahiZWNJpara/worAZWNJpara/woharApe/wope/wohape/wahipe/worApe/woharAZWNJpe/woZWNJpe/wohaZWNJpe/wahiZWNJpe/worAZWNJpe/waharAZWNJpara/waharApara/waharAZWNJpe/waharApe
+wahana/wohana/wohani/wohanI/woiM/wumahana
+-
+wumahanake/wumahanaZWNJke/woke/wohake/wahake/wahanake/wohanake/wohanike/woiMke/wahanaZWNJke/wohanaZWNJke/wohaniZWNJke
+wose/wohase/wahase/wahanase/wohanase/wahanaZWNJse/wohanaZWNJse/wohaniZWNJse/woiMZWNJse/wahanise/wahanIse/wahaniZWNJse/wahanIZWNJse/wumahanase/wumahanaZWNJse
+womeM/wohameM/wahameM/wahanameM/wohanameM/wohanimeM/woiMmeM/wahanaZWNJmeM/wohanaZWNJmeM/wohaniZWNJmeM/woiMZWNJmeM/wahanimeM/wahanImeM/wahaniZWNJmeM/wahanIZWNJmeM/wumahanameM/wumahanaZWNJmeM
+worApara/worape/woharApara/wohape/wopara/wohapara/wahapara/wahanapara/wohanapara/wohanipara/woiMpara/wahanaZWNJpara/wohanaZWNJpara/wohaniZWNJpara/woiMZWNJpara/wahanipara/wahanIpara/wahaniZWNJpara/wahanIZWNJpara/wumahanapara/wumahanaZWNJpara/wumahanape/wumahanaZWNJpe

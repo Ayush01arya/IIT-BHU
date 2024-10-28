@@ -1,0 +1,5 @@
+Noun_f_e1
+ladZikI
+ladZikio/ladZikiahu/ladZikIZWNJseho/ladZikiahuz/ladZikiyo
+ladZikiosaBa/ladZikioZWNJsaBa/ladZikiosaba/ladZikioZWNJsaba/ladZikiahuzsaBa/ladZikiahuzZWNJsaBa/ladZikiahuzsaba/ladZikiahuzZWNJsaba/ladZikiahusaBa/ladZikiahuZWNJsaBa/ladZikiahusaba/ladZikiahuZWNJsaba/ladZikIsaBaZWNJseho/ladZikIZWNJsaBaZWNJseho/ladZikIsabaZWNJseho/ladZikIZWNJsabaZWNJseho/ladZikiyo/ladZikio
+ladZikio/ladZikiahu/ladZikIZWNJseho/ladZikiahuz

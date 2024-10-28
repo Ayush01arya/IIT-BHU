@@ -1,0 +1,10 @@
+RaRTI_self
+wU
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura

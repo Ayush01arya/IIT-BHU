@@ -1,0 +1,5 @@
+Adj_m_e1_vAlA
+kariyakkA
+kariyakko/kariyakkahuz/karIyakko/karIyakkahuz
+kariyavA
+kariyavo/kariyo

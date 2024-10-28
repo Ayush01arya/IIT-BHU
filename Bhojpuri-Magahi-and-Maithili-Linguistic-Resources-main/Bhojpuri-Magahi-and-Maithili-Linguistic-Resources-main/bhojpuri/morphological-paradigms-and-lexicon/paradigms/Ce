@@ -1,0 +1,131 @@
+Noun_m g_m case number
+Noun_m_rednt g_m case number
+Noun_m_e g_m case number e_y
+Noun_m_e1 g_m case number e_y1
+Noun_m_rednt_e1 g_m case number rednt_y1
+Noun_m_rednt_e g_m case number rednt_y
+Noun_f g_f case number
+Noun_f_rednt g_f case number
+Noun_f_e g_f case number e_y
+Noun_f_e1 g_f case number e_y1
+Noun_f_rednt_e g_f case number rednt_y
+Noun_f_rednt_e1 g_f case number rednt_y1
+subj subj_tam ANY_g number2 person1
+Future future_tam gender2 number person1
+Future_e future_tam ANY_g ANY_n ANY_p e_y
+Future_e1 future_tam ANY_g ANY_n ANY_p e_y1
+Gerund_ba ba_tam ANY_g ANY_n ANY_p
+Gerund_ba_e ba_tam ANY_g ANY_n ANY_p e_y
+Gerund_ba_e1 ba_tam ANY_g ANY_n ANY_p e_y1
+Infinitive_yeke yeke_tam ANY_p gender number
+Infinitive_yeke_e yeke_tam ANY_p g_m n_s e_y
+Infinitive_yeke_e1 yeke_tam ANY_p ANY_g ANY_n e_y1
+optative_ilA ilA_tam gender person number
+Pres_Prog_Asp_wa wa_tam ANY_g ANY_n ANY_p
+Pres_Prog_Asp_e_wa wa_tam ANY_g ANY_n ANY_p e_y
+Pres_Prog_Asp_e1_wa wa_tam ANY_g ANY_n ANY_p e_y1
+Pres_Prtcpl_wa1 wa1_tam ANY_g ANY_n ANY_p
+Pres_Prtcpl_e_wa1 wa1_tam ANY_g ANY_n ANY_p e_y
+Pres_Prtcpl_e1_wa1 wa1_tam ANY_g ANY_n ANY_p e_y1
+Adv_Time_e_wai wai_tam ANY_g ANY_n ANY_p e_y
+Adv_Time_e1_wai wai_tam ANY_g ANY_n ANY_p e_y1
+Pres_Prtcpl_rdp_wai1 wai1_tam ANY_g ANY_n ANY_p rdp_y
+Asp_Habitual_ala ala_tam ANY_g ANY_n ANY_p
+Pst_Perf_Prtcpl_yala1 yala1_tam ANY_g ANY_n ANY_p
+Pst_Perf_Prtcpl_yala yala_tam ANY_g ANY_n ANY_p
+Pres_Prog_Asp_Aux_A A_tam gender person number
+PstPerf_Minus_Aux_ila ila_tam gender person number
+PstPerf_Minus_Aux_ila1 ila1_tam gender person number
+PstPerf_Plus_Aux_yale yale_tam ANY_g ANY_n ANY_p
+PstPerf_Plus_Aux_e_yale yale_tam ANY_g ANY_n ANY_p e_y
+PstPerf_Plus_Aux_e1_yale yale_tam ANY_g ANY_n ANY_p e_y1
+PstPerf_Plus_Aux_yale1 yale1_tam ANY_g ANY_n ANY_p
+rahala WA_tam gender person number
+rahala_e WA_tam ANY_g ANY_n ANY_p e_y
+rahala_e1 WA_tam ANY_g ANY_n ANY_p e_y1
+Optative_Aux_ha hE_tam ANY_g n_s person_u m_y
+Optative1_Aux_ha hE_tam ANY_g n_s person_u m1_y
+yA yA_tam gender number ANY_p
+yA_p_h yA_tam ANY_g ANY_n ANY_p
+hE hE_tam ANY_g number person
+hE_e hE_tam ANY_g n_s person_a e_y
+hE_e1 hE_tam ANY_g n_s person_a e_y1
+hE_spl hE_tam ANY_g n_p ANY_p
+hE_spl_h hE_tam ANY_g number2 person_mh 
+hE_neg hE_tam ANY_g number person neg_y
+WA WA_tam gender number ANY_p
+yA1 yA1_tam gender number ANY_p
+kara kara_tam ANY_g ANY_n ANY_p
+kara_e kara_tam ANY_g ANY_n ANY_p e_y
+kara_e1 kara_tam ANY_g ANY_n ANY_p e_y1
+Parsarg
+Advrb 
+Advrb_e e_y
+Advrb_e1 e_y1
+Post_ptn
+Conjctn
+Intrjctn
+Pro_u person_u number ANY_g case_o case_pron
+Pro_u_e person_u number ANY_g case_o case_pron e_y
+Pro_u_e1 person_u number ANY_g case_o case_pron e_y1
+Pro_m person_m number ANY_g case_o case_pron
+Pro_m_e person_m number ANY_g case_o case_pron e_y
+Pro_m_e1 person_m number ANY_g case_o case_pron e_y1
+Pro_a person_a number ANY_g case_o case_pron
+Pro_a_e person_a number ANY_g case_o case_pron e_y
+Pro_a_e1 person_a number ANY_g case_o case_pron e_y1
+Pro_d_u person_u number ANY_g case_d blank_prsrg
+Pro_d_u_e person_u number ANY_g case_d blank_prsrg e_y
+Pro_d_u_e1 person_u number ANY_g case_d blank_prsrg e_y1
+Pro_d_m person_m number ANY_g case_d blank_prsrg
+Pro_d_m_e person_m number ANY_g case_d blank_prsrg e_y
+Pro_d_m_e1 person_m number ANY_g case_d blank_prsrg e_y1
+Pro_d_m_spl person_m number ANY_g case_o blank_prsrg
+Pro_d_a person_a number ANY_g case_d blank_prsrg
+Pro_o_u person_u number ANY_g case_o blank_prsrg
+Pro_o_a person_a number ANY_g case_o blank_prsrg
+Pro_spl_a person_a n_p ANY_g ANY_c blank_prsrg
+Pro_spl_a_e person_a n_p ANY_g case_d blank_prsrg e_y
+Pro_spl_a_e1 person_a n_p ANY_g case_d blank_prsrg e_y1
+Pro_d_a_e person_a number ANY_g case_d blank_prsrg e_y
+Pro_d_a_e1 person_a number ANY_g case_d blank_prsrg e_y1
+Pro_self person_mh ANY_n ANY_g case_o case_pron
+Pro_self_h person_mh ANY_n ANY_g case_d
+Pro_self_e_h person_mh ANY_n ANY_g case e_y
+Pro_self_e1_h person_mh ANY_n ANY_g case e_y1
+RaRTI_a person_a number ANY_g case_o fn_g fn_c fn_n vibhakti
+RaRTI_a_e person_a number ANY_g case_o fn_g fn_c fn_n vibhakti e_y
+RaRTI_a_e1 person_a number ANY_g case_o fn_g fn_c fn_n vibhakti e_y1
+RaRTI_m person_m number ANY_g case_o fn_g fn_c fn_n vibhakti
+RaRTI_m_e person_m number ANY_g case_o fn_g fn_c fn_n vibhakti e_y
+RaRTI_m_e1 person_m number ANY_g case_o fn_g fn_c fn_n vibhakti e_y1
+RaRTI_u person_u number ANY_g case_o fn_g fn_c fn_n vibhakti
+RaRTI_u_e person_u number ANY_g case_o fn_g fn_c fn_n vibhakti e_y
+RaRTI_u_e1 person_u number ANY_g case_o fn_g fn_c fn_n vibhakti e_y1
+RaRTI_self person_mh ANY_n ANY_g case_o fn_g fn_c fn_n vibhakti
+Adj_const ANY_g ANY_n ANY_c
+Adj_All ANY_g ANY_n ANY_c
+Adj_All_e ANY_g ANY_n ANY_c e_y
+Adj_All_e1 ANY_g ANY_n ANY_c e_y1
+Adj_m_s g_m n_s ANY_c
+Adj_f_s g_f n_s ANY_c
+Adj_f g_f ANY_n ANY_c
+Adj_m g_m number case
+Adj_f_vAlI g_f ANY_n ANY_c
+Adj_f_e_vAlI g_f ANY_n ANY_c e_y
+Adj_f_e1_vAlI g_f ANY_n ANY_c e_y1
+Adj_m_vAlA g_m ANY_n ANY_c
+Adj_m_e_vAlA g_m ANY_n ANY_c e_y
+Adj_m_e1_vAlA g_m ANY_n ANY_c e_y1
+Adj_case ANY_g n_p case
+Adj_case_e n_p ANY_g case e_y
+Adj_case_e1 n_p ANY_g case e_y1
+wA_nA wA_nA_tam gender number ANY_p
+Root root_tam ANY_g ANY_n ANY_p
+Noun_sh gender1 number1 case vibhakti
+Dexis_Pro ANY_g ANY_n ANY_c person_a blank_prsrg d_y
+Dexis_Pro_e ANY_g ANY_n ANY_c person_a blank_prsrg d_y e_y
+Dexis_Pro_e1 ANY_g ANY_n ANY_c person_a blank_prsrg d_y e_y1
+Dexis_Oblq_Pro ANY_g ANY_n case_o person_a blank_prsrg
+Dexis_Oblq_Pro_e ANY_g ANY_n case_o person_a blank_prsrg d_y e_y
+Dexis_Oblq_Pro_e1 ANY_g ANY_n case_o person_a blank_prsrg d_y e_y1

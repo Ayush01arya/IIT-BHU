@@ -1,0 +1,14 @@
+Pro_m_e1
+wU
+woharo/woro/woharau/worau/wohuM/wohuz/wohu/wohU/wohUM/wohUz
+-
+woharoke/woharoZWNJke/woroke/woroZWNJke
+woharose/woharoZWNJse/worose/woroZWNJse
+woharomeM/woharoZWNJmeM/woromeM/woroZWNJmeM
+woharopara/woharoZWNJpara/woropara/woroZWNJpara
+wohaniyo/wohanIyo
+-
+woharOke/woharOZWNJke/worOke/worOZWNJke/wuhaniOke/wuhaniOZWNJke/wohaniOke/wohaniOZWNJke
+woharOse/woharOZWNJse/worOse/worOZWNJse
+woharOmeM/woharOZWNJmeM/worOmeM/worOZWNJmeM
+woharEpara/woharEZWNJpara/woharEpe/woharEZWNJpe

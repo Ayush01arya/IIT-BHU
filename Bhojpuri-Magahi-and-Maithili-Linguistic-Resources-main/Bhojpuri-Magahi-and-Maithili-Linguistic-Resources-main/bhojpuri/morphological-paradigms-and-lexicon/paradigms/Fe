@@ -1,0 +1,66 @@
+case o d
+case_d d
+case_o o
+case_pron para meM se ko ne 0
+number pl sg
+number1 pl sg
+number2 any pl sg
+gender f m
+gender1 f m
+gender2 any f m
+person 3 2 1
+person1 3 2h 2 1 
+person_u 1
+person_m 2
+person_a 3
+g_m m
+g_f f
+n_s sg
+n_p pl
+yA_tam yA
+future_tam gA
+subj_tam e
+WA_tam WA
+ilA_tam ilA
+ila_tam ila
+ila1_tam ila1
+ala_tam ala
+yala1_tam yala1
+yala_tam yala
+yale_tam yale
+yale1_tam yale1
+A_tam A
+wa_tam wa
+wa1_tam wa1
+wai_tam wai
+wai1_tam wai1
+hE_tam hE
+yA1_tam yA1
+wA_nA_tam wA nA
+root_tam 0
+kara_tam kara
+vibhakti kA
+ANY_g any
+ANY_n any
+ANY_p any
+ANY_c any
+case_any any
+blank_prsrg 0
+e_y y
+m_y y
+m1_y y
+rdp_y y
+neg_y y
+e_y1 y
+rednt_y1 y
+rednt_y y
+E_y y
+d_y y
+d_y1 y
+ba_tam ba
+yeke_tam yeke
+fn_g f m
+fn_n pl sg
+fn_c o d
+person_mh 2h
+person_ah 3h

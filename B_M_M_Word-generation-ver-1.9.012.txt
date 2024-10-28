@@ -1,0 +1,7023 @@
+
+Noun_m
+<fs af='XX,n,m,sg,3,d,0,0'> 
+ 
+ 
+
+<fs af='XX,n,m,pl,3,d,0,0'>
+ 
+
+<fs af='XX,n,m,sg,3,o,0,0'>
+ 
+
+<fs af='XX,n,m,pl,3,o,0,0'>
+ 
+Noun_m_e
+<fs af='XX,n,m,sg,3,d,0,0' emph='y'> 
+ 
+
+<fs af='XX,n,m,pl,3,d,0,0' emph='y'>
+ 
+
+<fs af='XX,n,m,sg,3,o,0,0' emph='y'>
+ 
+
+<fs af='XX,n,m,pl,3,o,0,0' emph='y'>
+ 
+Noun_m_e1
+<fs af='XX,n,m,sg,3,d,0,0' emph1='y'> 
+ 
+
+<fs af='XX,n,m,pl,3,d,0,0' emph1='y'>
+ 
+
+<fs af='XX,n,m,sg,3,o,0,0' emph1='y'>
+ 
+
+<fs af='XX,n,m,pl,3,o,0,0' emph1='y'>
+Root will be substituted
+??
+Step1= Seperate out emph1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+????_??
+
+
+
+
+
+
+Noun_f
+<fs af='XX,n,f,sg,3,d,0,0'> 
+Root will be substituted
+???
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,n,f,pl,3,d,0,0'>
+Root will be substituted
+???
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+<fs af='XX,n,f,sg,3,o,0,0'>
+Root will be substituted
+???
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,n,f,pl,3,o,0,0'>
+Root will be substituted
+???
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+Noun_f_e
+<fs af='XX,n,f,sg,3,d,0,0' emph='y'> 
+Root will be substituted
+???
+Step1= Seperate out emph='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,d,0,0' emph='y'>
+Root will be substituted
+???
+Step1= Seperate out emph='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+?????_??
+
+<fs af='XX,n,f,sg,3,o,0,0' emph='y'>
+Root will be substituted
+???
+Step1= Seperate out emph='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,o,0,0' emph='y'>
+Root will be substituted
+???
+Step1= Seperate out emph='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+?????_??
+Noun_f_e1
+<fs af='XX,n,f,sg,3,d,0,0' emph1='y'> 
+Root will be substituted
+???
+Step1= Seperate out emph1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,d,0,0' emph1='y'>
+Root will be substituted
+???
+Step1= Seperate out emph1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+?????_??
+
+<fs af='XX,n,f,sg,3,o,0,0' emph1='y'>
+Root will be substituted
+???
+Step1= Seperate out emph1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,o,0,0' emph1='y'>
+Root will be substituted
+???
+Step1= Seperate out emph1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+?????_??
+
+
+
+
+
+
+Noun_m_rednt
+<fs af='XX,n,m,sg,3,d,0,0'> 
+Root will be substituted
+??
+It can be be generated like normal noun
+??
+
+<fs af='XX,n,m,pl,3,d,0,0'>
+Root will be substituted
+??
+It can be be generated like normal noun
+??
+
+<fs af='XX,n,m,sg,3,o,0,0'>
+Root will be substituted
+??
+It can be be generated like normal noun
+??
+
+<fs af='XX,n,m,pl,3,o,0,0'>
+Root will be substituted
+??
+It can be be generated like normal noun
+????
+
+
+
+
+
+
+Noun_m_rednt_e
+<fs af='XX,n,m,sg,3,d,0,0' rednt_e='y'> 
+Root will be substituted
+??
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+??_??
+
+<fs af='XX,n,m,pl,3,d,0,0' rednt_e='y'>
+Root will be substituted
+??
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+??_??
+
+<fs af='XX,n,m,sg,3,o,0,0' rednt_e='y'>
+Root will be substituted
+??
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+??_??
+
+<fs af='XX,n,m,pl,3,o,0,0' rednt_e='y'>
+Root will be substituted
+??
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+????_??
+
+
+
+
+
+
+Noun_m_rednt_e1
+<fs af='XX,n,m,sg,3,d,0,0' rednt_e1='y'> 
+Root will be substituted
+??
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+??_??
+
+<fs af='XX,n,m,pl,3,d,0,0' rednt_e1='y'>
+Root will be substituted
+??
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+??_??
+
+<fs af='XX,n,m,sg,3,o,0,0' rednt_e1='y'>
+Root will be substituted
+??
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+??_??
+
+<fs af='XX,n,m,pl,3,o,0,0' rednt_e1='y'>
+Root will be substituted
+??
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+????_??
+
+
+
+
+
+
+Noun_f_rednt
+<fs af='XX,n,f,sg,3,d,0,0'> 
+Root will be substituted
+???
+It can be be generated like normal noun
+???
+
+<fs af='XX,n,f,pl,3,d,0,0'>
+Root will be substituted
+???
+It can be be generated like normal noun
+?????
+
+<fs af='XX,n,f,sg,3,o,0,0'>
+Root will be substituted
+???
+It can be be generated like normal noun
+???
+
+<fs af='XX,n,f,pl,3,o,0,0'>
+Root will be substituted
+???
+It can be be generated like normal noun
+?????
+
+
+
+
+
+
+Noun_f_rednt_e
+<fs af='XX,n,f,sg,3,d,0,0' rednt_e='y'> 
+Root will be substituted
+???
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,d,0,0' rednt_e='y'>
+Root will be substituted
+???
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+?????_??
+
+<fs af='XX,n,f,sg,3,o,0,0' rednt_e='y'>
+Root will be substituted
+???
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,o,0,0' rednt='y' emph='y'>
+Root will be substituted
+???
+Step1= Seperate out  rednt_e='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+?????_??
+
+
+
+
+
+
+Noun_f_rednt_e1
+<fs af='XX,n,f,sg,3,d,0,0' rednt_e1='y'> 
+Root will be substituted
+???
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,d,0,0' rednt_e1='y'>
+Root will be substituted
+???
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+?????_??
+
+<fs af='XX,n,f,sg,3,o,0,0' rednt_e1='y'>
+Root will be substituted
+???
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+???_??
+
+<fs af='XX,n,f,pl,3,o,0,0' rednt_e1='y'>
+Root will be substituted
+???
+Step1= Seperate out  rednt_e1='y'
+Step2= Then generate remaning morph feature directly through Hindi Morph
+Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+?????_??
+
+
+
+
+
+
+Advrb
+<fs af='XX,adv,,,,,,'>
+Root will be substituted
+??
+ No need to generate
+??
+Advrb_e
+<fs af='XX,adv,,,,,,' emph='y'>
+Root will be substituted
+??
+Add emphatic value (i.e. emph=hI) directly to the substuted Hindi Root with underscore
+??_??
+Advrb_e1
+<fs af='XX,adv,,,,,,' emph1='y'>
+Root will be substituted
+??
+Add emphatic value (i.e. emph1=BI) directly to the substuted Hindi Root with underscore
+??_??
+Conjunction/Interjection
+<fs af='XX,avy,,,,,,'>
+Root will be substituted
+??
+ No need to generate
+??
+Post-position
+<fs af='XX,psp,,,,,,'>
+Root will be substituted
+??
+ No need to generate
+??
+Genitive-Postposition
+<fs af='XX,psp,m,sg,,d,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,psp,m,sg,,o,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,psp,m,pl,,d,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,psp,m,pl,,o,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,psp,f,sg,,d,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,psp,f,sg,,o,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,psp,f,pl,,d,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,psp,f,pl,,o,kA,kA'>
+Root and Suffix/TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+
+
+
+
+
+Adj_all
+<fs af='XX,adj,any,any,,any,,'>
+Root will be substituted
+????
+ No need to generate
+????
+Adj_all_e
+<fs af='XX,adj,any,any,,any,,' emph='y'>
+Root will be substituted
+????
+Step1= Seperate out emph='y'
+Step2= Add emphatic value (i.e. emph=hI) directly to the substuted Hindi Root with underscore
+????_??
+Adj_all_e1
+<fs af='XX,adj,any,any,,any,,' emph1='y'>
+Root will be substituted
+????
+Step1= Seperate out  emph1='y'
+Step2= Add emphatic value (i.e. emph1=BI) directly to the substuted Hindi Root with underscore
+????_??
+
+
+
+
+
+
+Adj_case
+<fs af='XX,adj,any,pl,,d,,'>
+Root will be substituted
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+ <fs af='XX,adj,any,pl,,o,,'>
+Root will be substituted
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+
+
+
+
+
+Adj_case_e
+<fs af='XX,adj,any,pl,,d,,' emph='y'>
+Root will be substituted
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+ <fs af='XX,adj,any,pl,,o,,' emph='y'>
+Root will be substituted
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+
+
+
+
+
+Adj_case_e1
+<fs af='XX,adj,any,pl,,d,,' emph1='y'>
+Root will be substituted
+????
+Step1= Change emph1='y' TO emph='y'
+Step2= Then generate modified morph feature directly through Hindi Morph
+??????
+
+ <fs af='XX,adj,any,pl,,o,,' emph1='y'>
+Root will be substituted
+????
+Step1= Change emph1='y' TO emph='y'
+Step2= Then generate modified morph feature directly through Hindi Morph
+??????
+
+
+
+
+
+
+Adj_f_s
+<fs af='XX,adj,f,sg,,any,,'>
+Root will be substituted
+??????
+ No need to generate
+??????
+Adj_m_s
+<fs af='XX,adj,m,sg,,any,,'>
+Root will be substituted
+????
+ No need to generate
+????
+
+
+
+
+
+
+Adj_m_vAlA
+<fs af='XX,adj,m,any,,any,,'>
+Root will be substituted
+????
+Step 1= Change the feature from <fs af='XX,adj,m,any,,any,,'> TO <fs af='XX,adj,m,sg,,d,,'>
+Step 2= Generate modified morph feature directly through inverted Hindi Morph
+????
+Agr_based_feature
+
+<fs af='XX,adj,m,sg,,d,,'>
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+Agr_based_feature
+
+<fs af='XX,adj,m,sg,,o,,'>
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+Agr_based_feature
+
+ <fs af='XX,adj,m,pl,,d,,'>
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+Agr_based_feature
+
+ <fs af='XX,adj,m,pl,,o,,'>
+????
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+
+
+
+
+
+Adj_m_e_vAlA
+<fs af='XX,adj,m,any,,any,,' emph='y'>
+Root will be substituted
+????
+Step 1= Change the feature from <fs af='XX,adj,m,any,,any,,' emph='y'> TO <fs af='XX,adj,m,sg,,d,,' emph='y'>
+Step 2= Remove emph='y' from feature
+Step 3= Generate remaining morph feature directly through inverted Hindi Morph
+????
+
+
+
+
+
+
+Agr_based_feature
+
+<fs af='XX,adj,m,sg,,d,,' emph='y'>
+????
+Step 1= Remove emph='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+Agr_based_feature
+
+<fs af='XX,adj,m,sg,,o,,' emph='y'>
+????
+Step 1= Remove emph='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+Agr_based_feature
+
+ <fs af='XX,adj,m,pl,,d,,' emph='y'>
+????
+Step 1= Remove emph='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+Agr_based_feature
+
+ <fs af='XX,adj,m,pl,,o,,' emph='y'>
+????
+Step 1= Remove emph='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+
+
+
+
+
+
+
+
+
+
+
+
+Adj_m_e1_vAlA
+<fs af='XX,adj,m,any,,any,,' emph1='y'>
+Root will be substituted
+????
+Step 1= Change the feature from <fs af='XX,adj,m,any,,any,,' emph1='y'> TO <fs af='XX,adj,m,sg,,d,,' emph1='y'>
+Step 2= Remove emph1='y' from feature
+Step 3= Generate remaining morph feature directly through inverted Hindi Morph
+????
+
+
+
+
+
+
+Agr_based_feature
+
+<fs af='XX,adj,m,sg,,d,,' emph1='y'>
+????
+Step 1= Remove emph1='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+Agr_based_feature
+
+<fs af='XX,adj,m,sg,,o,,' emph1='y'>
+????
+Step 1= Remove emph1='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+Agr_based_feature
+
+ <fs af='XX,adj,m,pl,,d,,' emph1='y'>
+????
+Step 1= Remove emph1='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+Agr_based_feature
+
+ <fs af='XX,adj,m,pl,,o,,' emph1='y'>
+????
+Step 1= Remove emph1='y' from feature
+Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+????
+
+
+
+
+
+
+Adj_f_vAlI
+<fs af='XX,adj,f,any,,any,,'>
+Root will be substituted
+????
+No need to generate
+????
+Adj_f_e_vAlI
+
+<fs af='XX,adj,f,any,,any,,' emph='y'>
+Root will be substituted
+????
+No need to generate
+????
+Adj_f_e1_vAlI
+<fs af='XX,adj,f,any,,any,,' emph1='y'>
+Root will be substituted
+????
+No need to generate
+????
+
+
+
+
+
+
+Pro_u
+<fs af='??,pn,any,sg,1,o,0,0'>
+<fs af='???,pn,any,sg,1,o,0,0'>
+
+???
+
+
+<fs af='??,pn,any,sg,1,o,ko,ko'>
+<fs af='???,pn,any,sg,1,o,ko,ko'>
+
+????|?????
+
+
+<fs af='??,pn,any,sg,1,o,se,se'>
+<fs af='???,pn,any,sg,1,o,se,se'>
+
+?????
+
+
+<fs af='??,pn,any,sg,1,o,meM,meM'>
+<fs af='???,pn,any,sg,1,o,meM,meM'>
+
+??????
+
+
+<fs af='??,pn,any,sg,1,o,para,para'>
+<fs af='???,pn,any,sg,1,o,para,para'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,0,0'> 
+<fs af='???,pn,any,pl,1,o,0,0'> 
+
+??
+
+
+<fs af='??,pn,any,pl,1,o,ko,ko'>
+<fs af='???,pn,any,pl,1,o,ko,ko'>
+
+????|????
+
+
+<fs af='??,pn,any,pl,1,o,se,se'>
+<fs af='???,pn,any,pl,1,o,se,se'>
+
+????
+
+
+<fs af='??,pn,any,pl,1,o,meM,meM'>
+<fs af='???,pn,any,pl,1,o,meM,meM'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,para,para'>
+<fs af='???,pn,any,pl,1,o,para,para'>
+
+????
+
+
+
+
+
+
+
+Pro_u_e
+<fs af='??,pn,any,sg,1,o,0,0' emph='y'>
+<fs af='???,pn,any,sg,1,o,0,0' emph='y'>
+
+????|???_??
+
+
+<fs af='??,pn,any,sg,1,o,ko,ko' emph='y'>
+<fs af='???,pn,any,sg,1,o,ko,ko' emph='y'>
+
+??????|???_??_??
+
+
+<fs af='??,pn,any,sg,1,o,se,se' emph='y'>
+<fs af='???,pn,any,sg,1,o,se,se' emph='y'>
+
+??????|???_??_??
+
+
+<fs af='??,pn,any,sg,1,o,meM,meM' emph='y'>
+<fs af='???,pn,any,sg,1,o,meM,meM' emph='y'>
+
+???????|???_??_???
+
+
+<fs af='??,pn,any,sg,1,o,para,para' emph='y'>
+<fs af='???,pn,any,sg,1,o,para,para' emph='y'>
+
+??????|???_??_??
+
+
+<fs af='??,pn,any,pl,1,o,0,0' emph='y'>
+<fs af='???,pn,any,pl,1,o,0,0' emph='y'>
+
+????|??_??
+
+
+<fs af='??,pn,any,pl,1,o,ko,ko' emph='y'>
+<fs af='???,pn,any,pl,1,o,ko,ko' emph='y'>
+
+??????|??_??_??
+
+
+<fs af='??,pn,any,pl,1,o,se,se' emph='y'>
+<fs af='???,pn,any,pl,1,o,se,se' emph='y'>
+
+??????|??_??_??
+
+
+<fs af='??,pn,any,pl,1,o,meM,meM' emph='y'>
+<fs af='???,pn,any,pl,1,o,meM,meM' emph='y'>
+
+???????|??_??_???
+
+
+<fs af='??,pn,any,pl,1,o,para,para' emph='y'>
+<fs af='???,pn,any,pl,1,o,para,para' emph='y'>
+
+??????|??_??_??
+
+
+
+
+
+
+
+Pro_u_e1
+<fs af='??,pn,any,sg,1,o,0,0' emph1='y'>
+<fs af='???,pn,any,sg,1,o,0,0' emph1='y'>
+
+???
+
+
+<fs af='??,pn,any,sg,1,o,ko,ko' emph1='y'>
+<fs af='???,pn,any,sg,1,o,ko,ko' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,1,o,se,se' emph1='y'>
+<fs af='???,pn,any,sg,1,o,se,se' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,1,o,meM,meM' emph1='y'>
+<fs af='???,pn,any,sg,1,o,meM,meM' emph1='y'>
+
+???_???_??
+
+
+<fs af='??,pn,any,sg,1,o,para,para' emph1='y'>
+<fs af='???,pn,any,sg,1,o,para,para' emph1='y'>
+
+???_??_??
+
+
+<fs af='??,pn,any,pl,1,o,0,0' emph1='y'>
+<fs af='???,pn,any,pl,1,o,0,0' emph1='y'>
+
+??
+
+
+<fs af='??,pn,any,pl,1,o,ko,ko' emph1='y'>
+<fs af='???,pn,any,pl,1,o,ko,ko' emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,1,o,se,se' emph1='y'>
+<fs af='???,pn,any,pl,1,o,se,se' emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,1,o,meM,meM' emph1='y'>
+<fs af='???,pn,any,pl,1,o,meM,meM' emph1='y'>
+
+??_???_??
+
+
+<fs af='??,pn,any,pl,1,o,para,para' emph1='y'>
+<fs af='???,pn,any,pl,1,o,para,para' emph1='y'>
+
+??_??_??
+
+
+
+
+
+
+
+Pro_d_u
+<fs af='??,pn,any,sg,1,d,0,0'>
+<fs af='???,pn,any,sg,1,d,0,0'>
+
+???
+
+
+<fs af='??,pn,any,pl,1,d,0,0'>
+<fs af='???,pn,any,pl,1,d,0,0'>
+
+??
+
+
+
+
+
+
+
+Pro_d_u_e
+<fs af='??,pn,any,sg,1,d,0,0' emph='y'>
+<fs af='???,pn,any,sg,1,d,0,0' emph='y'>
+
+???_??
+
+
+<fs af='??,pn,any,pl,1,d,0,0' emph='y'>
+<fs af='???,pn,any,pl,1,d,0,0' emph='y'>
+
+????|??_??
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro_d_u_e1
+<fs af='??,pn,any,sg,1,d,0,0' emph1='y'>
+<fs af='???,pn,any,sg,1,d,0,0' emph1='y'>
+
+???_??
+
+
+<fs af='??,pn,any,pl,1,d,0,0' emph1='y'>
+<fs af='???,pn,any,pl,1,d,0,0' emph1='y'>
+
+????|??_??
+
+
+
+
+
+
+
+Pro_o_u
+<fs af='???,pn,any,pl,1,o,0,0'>
+<fs af='????,pn,any,pl,1,o,0,0'>
+
+?????
+
+
+
+
+
+
+
+Pro_m
+<fs af='??,pn,any,sg,2,o,0,0'>
+<fs af='??,pn,any,sg,2,o,0,0'>
+
+???
+
+
+<fs af='??,pn,any,sg,2,o,ko,ko'>
+<fs af='??,pn,any,sg,2,o,ko,ko'>
+
+????|?????
+
+
+<fs af='??,pn,any,sg,2,o,se,se'>
+<fs af='??,pn,any,sg,2,o,se,se'>
+
+?????
+
+
+<fs af='??,pn,any,sg,2,o,meM,meM'>
+<fs af='??,pn,any,sg,2,o,meM,meM'>
+
+??????
+
+
+<fs af='??,pn,any,sg,2,o,para,para'>
+<fs af='??,pn,any,sg,2,o,para,para'>
+
+?????
+
+
+<fs af='??,pn,any,pl,2,o,0,0'>
+<fs af='??,pn,any,pl,2,o,0,0'>
+
+???
+
+
+<fs af='??,pn,any,pl,2,o,ko,ko'>
+<fs af='??,pn,any,pl,2,o,ko,ko'>
+
+???????|?????
+
+
+<fs af='??,pn,any,pl,2,o,se,se'>
+<fs af='??,pn,any,pl,2,o,se,se'>
+
+?????
+
+
+<fs af='??,pn,any,pl,2,o,meM,meM'>
+<fs af='??,pn,any,pl,2,o,meM,meM'>
+
+??????
+
+
+<fs af='??,pn,any,pl,2,o,para,para'>
+<fs af='??,pn,any,pl,2,o,para,para'>
+
+?????
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro_m_e
+<fs af='??,pn,any,sg,2,o,0,0' emph='y'>
+<fs af='??,pn,any,sg,2,o,0,0' emph='y'>
+
+????|???_??
+
+
+<fs af='??,pn,any,sg,2,o,ko,ko' emph='y'>
+<fs af='??,pn,any,sg,2,o,ko,ko' emph='y'>
+
+??????|???_??_??
+
+
+<fs af='??,pn,any,sg,2,o,se,se' emph='y'>
+<fs af='??,pn,any,sg,2,o,se,se' emph='y'>
+
+??????|???_??_??
+
+
+<fs af='??,pn,any,sg,2,o,meM,meM' emph='y'>
+<fs af='??,pn,any,sg,2,o,meM,meM' emph='y'>
+
+???????|???_??_???
+
+
+<fs af='??,pn,any,sg,2,o,para,para' emph='y'>
+<fs af='??,pn,any,sg,2,o,para,para' emph='y'>
+
+??????|???_??_??
+
+
+<fs af='??,pn,any,pl,2,o,0,0' emph='y'>
+<fs af='??,pn,any,pl,2,o,0,0' emph='y'>
+
+???????|???_??
+
+
+<fs af='??,pn,any,pl,2,o,ko,ko' emph='y'>
+<fs af='??,pn,any,pl,2,o,ko,ko' emph='y'>
+
+?????????|???_??_??
+
+
+<fs af='??,pn,any,pl,2,o,se,se' emph='y'>
+<fs af='??,pn,any,pl,2,o,se,se' emph='y'>
+
+?????????|???_??_??
+
+
+<fs af='??,pn,any,pl,2,o,meM,meM' emph='y'>
+<fs af='??,pn,any,pl,2,o,meM,meM' emph='y'>
+
+??????????|???_??_???
+
+
+<fs af='??,pn,any,pl,2,o,para,para' emph='y'>
+<fs af='??,pn,any,pl,2,o,para,para' emph='y'>
+
+?????????|???_??_??
+
+
+
+
+
+
+
+Pro_m_e1
+<fs af='??,pn,any,sg,2,o,0,0' emph1='y'>
+<fs af='??,pn,any,sg,2,o,0,0' emph1='y'>
+
+???
+
+
+<fs af='??,pn,any,sg,2,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,sg,2,o,ko,ko' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,2,o,se,se' emph1='y'>
+<fs af='??,pn,any,sg,2,o,se,se' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,2,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,sg,2,o,meM,meM' emph1='y'>
+
+???_???_??
+
+
+<fs af='??,pn,any,sg,2,o,para,para' emph1='y'>
+<fs af='??,pn,any,sg,2,o,para,para' emph1='y'>
+
+???_??_??
+
+
+<fs af='??,pn,any,pl,2,o,0,0' emph1='y'>
+<fs af='??,pn,any,pl,2,o,0,0' emph1='y'>
+
+???
+
+
+<fs af='??,pn,any,pl,2,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,pl,2,o,ko,ko' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,2,o,se,se' emph1='y'>
+<fs af='??,pn,any,pl,2,o,se,se' emph1='y'>
+
+???_??_??
+
+
+<fs af='??,pn,any,pl,2,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,pl,2,o,meM,meM' emph1='y'>
+
+???_???_??
+
+
+<fs af='??,pn,any,pl,2,o,para,para' emph1='y'>
+<fs af='??,pn,any,pl,2,o,para,para' emph1='y'>
+
+???_??_??
+
+
+
+
+
+
+
+Pro_d_m
+<fs af='??,pn,any,sg,2,d,0,0'>
+<fs af='??,pn,any,sg,2,d,0,0'>
+
+??
+
+
+<fs af='??,pn,any,pl,2,d,0,0'>
+<fs af='??,pn,any,pl,2,d,0,0'>
+
+???
+
+
+
+
+
+
+
+Pro_d_m_e
+<fs af='??,pn,any,sg,2,d,0,0' emph='y'>
+<fs af='??,pn,any,sg,2,d,0,0' emph='y'>
+
+??_??
+
+
+<fs af='??,pn,any,pl,2,d,0,0' emph='y'>
+<fs af='??,pn,any,pl,2,d,0,0' emph='y'>
+
+??????|???_??
+
+
+
+
+
+
+
+Pro_d_m_e1
+<fs af='??,pn,any,sg,2,d,0,0' emph1='y'>
+<fs af='??,pn,any,sg,2,d,0,0' emph1='y'>
+
+??_??
+
+
+<fs af='??,pn,any,pl,2,d,0,0' emph1='y'>
+<fs af='??,pn,any,pl,2,d,0,0' emph1='y'>
+
+???_??
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro_a
+<fs af='?,pn,any,sg,3,o,0,0'>
+<fs af='??,pn,any,sg,3,o,0,0'>
+
+??
+
+
+<fs af='?,pn,any,sg,3,o,ko,ko'>
+<fs af='??,pn,any,sg,3,o,ko,ko'>
+
+????|???
+
+
+<fs af='?,pn,any,sg,3,o,se,se'>
+<fs af='??,pn,any,sg,3,o,se,se'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,meM,meM'>
+<fs af='??,pn,any,sg,3,o,meM,meM'>
+
+?????
+
+
+<fs af='?,pn,any,sg,3,o,para,para'>
+<fs af='??,pn,any,sg,3,o,para,para'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,0,0'>
+<fs af='??,pn,any,pl,3,o,0,0'>
+
+??
+
+
+<fs af='?,pn,any,pl,3,o,ko,ko'>
+<fs af='??,pn,any,pl,3,o,ko,ko'>
+
+??????|????
+
+
+<fs af='?,pn,any,pl,3,o,se,se'>
+<fs af='??,pn,any,pl,3,o,se,se'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,meM,meM'>
+<fs af='??,pn,any,pl,3,o,meM,meM'>
+
+?????
+
+
+<fs af='?,pn,any,pl,3,o,para,para'>
+<fs af='??,pn,any,pl,3,o,para,para'>
+
+????
+
+
+
+
+
+
+
+
+<fs af='?,pn,any,sg,3,o,0,0'>
+<fs af='??,pn,any,sg,3,o,0,0'>
+
+??
+
+
+<fs af='?,pn,any,sg,3,o,ko,ko'>
+<fs af='??,pn,any,sg,3,o,ko,ko'>
+
+???|????
+
+
+<fs af='?,pn,any,sg,3,o,se,se'>
+<fs af='??,pn,any,sg,3,o,se,se'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,meM,meM'>
+<fs af='??,pn,any,sg,3,o,meM,meM'>
+
+?????
+
+
+<fs af='?,pn,any,sg,3,o,para,para'>
+<fs af='??,pn,any,sg,3,o,para,para'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,0,0'>
+<fs af='??,pn,any,pl,3,o,0,0'>
+
+??
+
+
+<fs af='?,pn,any,pl,3,o,ko,ko'>
+<fs af='??,pn,any,pl,3,o,ko,ko'>
+
+??????|????
+
+
+<fs af='?,pn,any,pl,3,o,se,se'>
+<fs af='??,pn,any,pl,3,o,se,se'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,meM,meM'>
+<fs af='??,pn,any,pl,3,o,meM,meM'>
+
+?????
+
+
+<fs af='?,pn,any,pl,3,o,para,para'>
+<fs af='??,pn,any,pl,3,o,para,para'>
+
+????
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,sg,3,o,0,0'>
+<fs af='??,pn,any,sg,3,o,0,0'>
+
+???
+
+
+<fs af='??,pn,any,sg,3,o,ko,ko'>
+<fs af='??,pn,any,sg,3,o,ko,ko'>
+
+????|?????
+
+
+<fs af='??,pn,any,sg,3,o,se,se'>
+<fs af='??,pn,any,sg,3,o,se,se'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,meM,meM'>
+<fs af='??,pn,any,sg,3,o,meM,meM'>
+
+??????
+
+
+<fs af='??,pn,any,sg,3,o,para,para'>
+<fs af='??,pn,any,sg,3,o,para,para'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,0,0'>
+<fs af='??,pn,any,pl,3,o,0,0'>
+
+???
+
+
+<fs af='??,pn,any,pl,3,o,ko,ko'>
+<fs af='??,pn,any,pl,3,o,ko,ko'>
+
+???????|?????
+
+
+<fs af='??,pn,any,pl,3,o,se,se'>
+<fs af='??,pn,any,pl,3,o,se,se'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,meM,meM'>
+<fs af='??,pn,any,pl,3,o,meM,meM'>
+
+??????
+
+
+<fs af='??,pn,any,pl,3,o,para,para'>
+<fs af='??,pn,any,pl,3,o,para,para'>
+
+?????
+
+
+
+
+
+
+
+
+<fs af='???,pn,any,sg,3,o,0,0'>
+<fs af='???,pn,any,sg,3,o,0,0'>
+
+???
+
+
+<fs af='???,pn,any,sg,3,o,ko,ko'>
+<fs af='???,pn,any,sg,3,o,ko,ko'>
+
+????|?????
+
+
+<fs af='???,pn,any,sg,3,o,se,se'>
+<fs af='???,pn,any,sg,3,o,se,se'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,meM,meM'>
+<fs af='???,pn,any,sg,3,o,meM,meM'>
+
+??????
+
+
+<fs af='???,pn,any,sg,3,o,para,para'>
+<fs af='???,pn,any,sg,3,o,para,para'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,0,0'>
+<fs af='???,pn,any,pl,3,o,0,0'>
+
+???
+
+
+<fs af='???,pn,any,pl,3,o,ko,ko'>
+<fs af='???,pn,any,pl,3,o,ko,ko'>
+
+???????|?????
+
+
+<fs af='???,pn,any,pl,3,o,se,se'>
+<fs af='???,pn,any,pl,3,o,se,se'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,meM,meM'>
+<fs af='???,pn,any,pl,3,o,meM,meM'>
+
+??????
+
+
+<fs af='???,pn,any,pl,3,o,para,para'>
+<fs af='???,pn,any,pl,3,o,para,para'>
+
+?????
+
+
+
+
+
+
+
+
+<fs af='????,pn,any,sg,3,o,0,0'>
+<fs af='???,pn,any,sg,3,o,0,0'>
+
+????
+
+
+<fs af='????,pn,any,sg,3,o,ko,ko'>
+<fs af='???,pn,any,sg,3,o,ko,ko'>
+
+????_??
+
+
+<fs af='????,pn,any,sg,3,o,se,se'>
+<fs af='???,pn,any,sg,3,o,se,se'>
+
+????_??
+
+
+<fs af='????,pn,any,sg,3,o,meM,meM'>
+<fs af='???,pn,any,sg,3,o,meM,meM'>
+
+????_???
+
+
+<fs af='????,pn,any,sg,3,o,para,para'>
+<fs af='???,pn,any,sg,3,o,para,para'>
+
+????_??
+
+
+<fs af='????,pn,any,pl,3,o,0,0'>
+<fs af='???,pn,any,pl,3,o,0,0'>
+
+???????
+
+
+<fs af='????,pn,any,pl,3,o,ko,ko'>
+<fs af='???,pn,any,pl,3,o,ko,ko'>
+
+???????_??
+
+
+<fs af='????,pn,any,pl,3,o,se,se'>
+<fs af='???,pn,any,pl,3,o,se,se'>
+
+??????_??
+
+
+<fs af='????,pn,any,pl,3,o,meM,meM'>
+<fs af='???,pn,any,pl,3,o,meM,meM'>
+
+???????_???
+
+
+<fs af='????,pn,any,pl,3,o,para,para'>
+<fs af='???,pn,any,pl,3,o,para,para'>
+
+???????_??
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,pl,3,o,ko,ko'>
+<fs af='??,pn,any,pl,3,o,ko,ko'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,se,se'>
+<fs af='??,pn,any,pl,3,o,se,se'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,meM,meM'>
+<fs af='??,pn,any,pl,3,o,meM,meM'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,para,para'>
+<fs af='??,pn,any,pl,3,o,para,para'>
+
+????
+
+
+
+
+
+
+
+Pro_a_e
+<fs af='?,pn,any,sg,3,o,0,0' emph='y'>
+<fs af='??,pn,any,sg,3,o,0,0' emph='y'>
+
+???
+
+
+<fs af='?,pn,any,sg,3,o,ko,ko' emph='y'>
+<fs af='??,pn,any,sg,3,o,ko,ko' emph='y'>
+
+?????|???_??
+
+
+<fs af='?,pn,any,sg,3,o,se,se' emph='y'>
+<fs af='??,pn,any,sg,3,o,se,se' emph='y'>
+
+?????
+
+
+<fs af='?,pn,any,sg,3,o,meM,meM' emph='y'>
+<fs af='??,pn,any,sg,3,o,meM,meM' emph='y'>
+
+??????
+
+
+<fs af='?,pn,any,sg,3,o,para,para' emph='y'>
+<fs af='??,pn,any,sg,3,o,para,para' emph='y'>
+
+?????
+
+
+<fs af='?,pn,any,pl,3,o,0,0' emph='y'>
+<fs af='??,pn,any,pl,3,o,0,0' emph='y'>
+
+??????
+
+
+<fs af='?,pn,any,pl,3,o,ko,ko' emph='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph='y'>
+
+??????_??|??????_??
+
+
+<fs af='?,pn,any,pl,3,o,se,se' emph='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph='y'>
+
+??????_??
+
+
+<fs af='?,pn,any,pl,3,o,meM,meM' emph='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph='y'>
+
+??????_???
+
+
+<fs af='?,pn,any,pl,3,o,para,para' emph='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph='y'>
+
+??????_??
+
+
+
+
+
+
+
+
+<fs af='?,pn,any,sg,3,o,0,0' emph='y'>
+<fs af='??,pn,any,sg,3,o,0,0' emph='y'>
+
+???
+
+
+<fs af='?,pn,any,sg,3,o,ko,ko' emph='y'>
+<fs af='??,pn,any,sg,3,o,ko,ko' emph='y'>
+
+???_??|???_??
+
+
+<fs af='?,pn,any,sg,3,o,se,se' emph='y'>
+<fs af='??,pn,any,sg,3,o,se,se' emph='y'>
+
+???_??
+
+
+<fs af='?,pn,any,sg,3,o,meM,meM' emph='y'>
+<fs af='??,pn,any,sg,3,o,meM,meM' emph='y'>
+
+???_???
+
+
+<fs af='?,pn,any,sg,3,o,para,para' emph='y'>
+<fs af='??,pn,any,sg,3,o,para,para' emph='y'>
+
+???_??
+
+
+<fs af='?,pn,any,pl,3,o,0,0' emph='y'>
+<fs af='??,pn,any,pl,3,o,0,0' emph='y'>
+
+??????
+
+
+<fs af='?,pn,any,pl,3,o,ko,ko' emph='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph='y'>
+
+??????_??|??????_??
+
+
+<fs af='?,pn,any,pl,3,o,se,se' emph='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph='y'>
+
+??????_??
+
+
+<fs af='?,pn,any,pl,3,o,meM,meM' emph='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph='y'>
+
+??????_???
+
+
+<fs af='?,pn,any,pl,3,o,para,para' emph='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph='y'>
+
+??????_??
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,sg,3,o,0,0' emph='y'>
+<fs af='??,pn,any,sg,3,o,0,0' emph='y'>
+
+????|???_??
+
+
+<fs af='??,pn,any,sg,3,o,ko,ko' emph='y'>
+<fs af='??,pn,any,sg,3,o,ko,ko' emph='y'>
+
+????_??|?????_??
+
+
+<fs af='??,pn,any,sg,3,o,se,se' emph='y'>
+<fs af='??,pn,any,sg,3,o,se,se' emph='y'>
+
+?????_??|????_??_??
+
+
+<fs af='??,pn,any,sg,3,o,meM,meM' emph='y'>
+<fs af='??,pn,any,sg,3,o,meM,meM' emph='y'>
+
+??????_??
+
+
+<fs af='??,pn,any,sg,3,o,para,para' emph='y'>
+<fs af='??,pn,any,sg,3,o,para,para' emph='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,0,0' emph='y'>
+<fs af='??,pn,any,pl,3,o,0,0' emph='y'>
+
+???????
+
+
+<fs af='??,pn,any,pl,3,o,ko,ko' emph='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph='y'>
+
+???????_??|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,se,se' emph='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,meM,meM' emph='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph='y'>
+
+??????_??
+
+
+<fs af='??,pn,any,pl,3,o,para,para' emph='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph='y'>
+
+?????_??
+
+
+
+
+
+
+
+
+<fs af='???,pn,any,sg,3,o,0,0' emph='y'>
+<fs af='???,pn,any,sg,3,o,0,0' emph='y'>
+
+????
+
+
+<fs af='???,pn,any,sg,3,o,ko,ko' emph='y'>
+<fs af='???,pn,any,sg,3,o,ko,ko' emph='y'>
+
+???_??|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,se,se' emph='y'>
+<fs af='???,pn,any,sg,3,o,se,se' emph='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,meM,meM' emph='y'>
+<fs af='???,pn,any,sg,3,o,meM,meM' emph='y'>
+
+??????_??
+
+
+<fs af='???,pn,any,sg,3,o,para,para' emph='y'>
+<fs af='???,pn,any,sg,3,o,para,para' emph='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,0,0' emph='y'>
+<fs af='???,pn,any,pl,3,o,0,0' emph='y'>
+
+???????
+
+
+<fs af='???,pn,any,pl,3,o,ko,ko' emph='y'>
+<fs af='???,pn,any,pl,3,o,ko,ko' emph='y'>
+
+???????_??|?????_??|???????_??
+
+
+<fs af='???,pn,any,pl,3,o,se,se' emph='y'>
+<fs af='???,pn,any,pl,3,o,se,se' emph='y'>
+
+?????_??|???????_??
+
+
+<fs af='???,pn,any,pl,3,o,meM,meM' emph='y'>
+<fs af='???,pn,any,pl,3,o,meM,meM' emph='y'>
+
+??????_??|???????_???
+
+
+<fs af='???,pn,any,pl,3,o,para,para' emph='y'>
+<fs af='???,pn,any,pl,3,o,para,para' emph='y'>
+
+?????_??|???????_??
+
+
+
+
+
+
+
+
+<fs af='????,pn,any,sg,3,o,0,0' emph='y'>
+<fs af='???,pn,any,sg,3,o,0,0' emph='y'>
+
+????
+
+
+<fs af='????,pn,any,sg,3,o,ko,ko' emph='y'>
+<fs af='???,pn,any,sg,3,o,ko,ko' emph='y'>
+
+????_??_??
+
+
+<fs af='????,pn,any,sg,3,o,se,se' emph='y'>
+<fs af='???,pn,any,sg,3,o,se,se' emph='y'>
+
+????_??_??
+
+
+<fs af='????,pn,any,sg,3,o,meM,meM' emph='y'>
+<fs af='???,pn,any,sg,3,o,meM,meM' emph='y'>
+
+????_???_??
+
+
+<fs af='????,pn,any,sg,3,o,para,para' emph='y'>
+<fs af='???,pn,any,sg,3,o,para,para' emph='y'>
+
+????_??_??
+
+
+<fs af='????,pn,any,pl,3,o,0,0' emph='y'>
+<fs af='???,pn,any,pl,3,o,0,0' emph='y'>
+
+???????
+
+
+<fs af='????,pn,any,pl,3,o,ko,ko' emph='y'>
+<fs af='???,pn,any,pl,3,o,ko,ko' emph='y'>
+
+???????_??_??
+
+
+<fs af='????,pn,any,pl,3,o,se,se' emph='y'>
+<fs af='???,pn,any,pl,3,o,se,se' emph='y'>
+
+??????_??_??
+
+
+<fs af='????,pn,any,pl,3,o,meM,meM' emph='y'>
+<fs af='???,pn,any,pl,3,o,meM,meM' emph='y'>
+
+???????_???_??
+
+
+<fs af='????,pn,any,pl,3,o,para,para' emph='y'>
+<fs af='???,pn,any,pl,3,o,para,para' emph='y'>
+
+???????_??_??
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,pl,3,o,ko,ko' emph='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,se,se' emph='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,meM,meM' emph='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,para,para' emph='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph='y'>
+
+????_??
+
+
+
+
+
+
+
+Pro_a_e1
+<fs af='?,pn,any,sg,3,o,0,0' emph1='y'>
+<fs af='??,pn,any,sg,3,o,0,0' emph1='y'>
+
+??
+
+
+<fs af='?,pn,any,sg,3,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+????_??|???_??
+
+
+<fs af='?,pn,any,sg,3,o,se,se' emph1='y'>
+<fs af='??,pn,any,sg,3,o,se,se' emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+?????_??
+
+
+<fs af='?,pn,any,sg,3,o,para,para' emph1='y'>
+<fs af='??,pn,any,sg,3,o,para,para' emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,0,0' emph1='y'>
+<fs af='??,pn,any,pl,3,o,0,0' emph1='y'>
+
+??
+
+
+<fs af='?,pn,any,pl,3,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+??????_??|????_??
+
+
+<fs af='?,pn,any,pl,3,o,se,se' emph1='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+?????_??
+
+
+<fs af='?,pn,any,pl,3,o,para,para' emph1='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph1='y'>
+
+????_??
+
+
+
+
+
+
+
+
+<fs af='?,pn,any,sg,3,o,0,0' emph1='y'>
+<fs af='??,pn,any,sg,3,o,0,0' emph1='y'>
+
+??
+
+
+<fs af='?,pn,any,sg,3,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+???_??|????_??
+
+
+<fs af='?,pn,any,sg,3,o,se,se' emph1='y'>
+<fs af='??,pn,any,sg,3,o,se,se' emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+?????_??
+
+
+<fs af='?,pn,any,sg,3,o,para,para' emph1='y'>
+<fs af='??,pn,any,sg,3,o,para,para' emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,0,0' emph1='y'>
+<fs af='??,pn,any,pl,3,o,0,0' emph1='y'>
+
+??
+
+
+<fs af='?,pn,any,pl,3,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+??????_??|????_??
+
+
+<fs af='?,pn,any,pl,3,o,se,se' emph1='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+?????_??
+
+
+<fs af='?,pn,any,pl,3,o,para,para' emph1='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph1='y'>
+
+????_??
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,sg,3,o,0,0' emph1='y'>
+<fs af='??,pn,any,sg,3,o,0,0' emph1='y'>
+
+???
+
+
+<fs af='??,pn,any,sg,3,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+????_??|?????_??
+
+
+<fs af='??,pn,any,sg,3,o,se,se' emph1='y'>
+<fs af='??,pn,any,sg,3,o,se,se' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+??????_??
+
+
+<fs af='??,pn,any,sg,3,o,para,para' emph1='y'>
+<fs af='??,pn,any,sg,3,o,para,para' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,0,0' emph1='y'>
+<fs af='??,pn,any,pl,3,o,0,0' emph1='y'>
+
+???
+
+
+<fs af='??,pn,any,pl,3,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+???????_??|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,se,se' emph1='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+??????_??
+
+
+<fs af='??,pn,any,pl,3,o,para,para' emph1='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph1='y'>
+
+?????_??
+
+
+
+
+
+
+
+
+<fs af='???,pn,any,sg,3,o,0,0' emph1='y'>
+<fs af='???,pn,any,sg,3,o,0,0' emph1='y'>
+
+???
+
+
+<fs af='???,pn,any,sg,3,o,ko,ko' emph1='y'>
+<fs af='???,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+????_??|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,se,se' emph1='y'>
+<fs af='???,pn,any,sg,3,o,se,se' emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,meM,meM' emph1='y'>
+<fs af='???,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+??????_??
+
+
+<fs af='???,pn,any,sg,3,o,para,para' emph1='y'>
+<fs af='???,pn,any,sg,3,o,para,para' emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,0,0' emph1='y'>
+<fs af='???,pn,any,pl,3,o,0,0' emph1='y'>
+
+???
+
+
+<fs af='???,pn,any,pl,3,o,ko,ko' emph1='y'>
+<fs af='???,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+???????_??|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,se,se' emph1='y'>
+<fs af='???,pn,any,pl,3,o,se,se' emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,meM,meM' emph1='y'>
+<fs af='???,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+??????_??
+
+
+<fs af='???,pn,any,pl,3,o,para,para' emph1='y'>
+<fs af='???,pn,any,pl,3,o,para,para' emph1='y'>
+
+?????_??
+
+
+
+
+
+
+
+
+<fs af='????,pn,any,sg,3,o,0,0' emph1='y'>
+<fs af='???,pn,any,sg,3,o,0,0' emph1='y'>
+
+????
+
+
+<fs af='????,pn,any,sg,3,o,ko,ko' emph1='y'>
+<fs af='???,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+????_??_??
+
+
+<fs af='????,pn,any,sg,3,o,se,se' emph1='y'>
+<fs af='???,pn,any,sg,3,o,se,se' emph1='y'>
+
+????_??_??
+
+
+<fs af='????,pn,any,sg,3,o,meM,meM' emph1='y'>
+<fs af='???,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+????_???_??
+
+
+<fs af='????,pn,any,sg,3,o,para,para' emph1='y'>
+<fs af='???,pn,any,sg,3,o,para,para' emph1='y'>
+
+????_??_??
+
+
+<fs af='????,pn,any,pl,3,o,0,0' emph1='y'>
+<fs af='???,pn,any,pl,3,o,0,0' emph1='y'>
+
+???????
+
+
+<fs af='????,pn,any,pl,3,o,ko,ko' emph1='y'>
+<fs af='???,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+???????_??_??
+
+
+<fs af='????,pn,any,pl,3,o,se,se' emph1='y'>
+<fs af='???,pn,any,pl,3,o,se,se' emph1='y'>
+
+??????_??_??
+
+
+<fs af='????,pn,any,pl,3,o,meM,meM' emph1='y'>
+<fs af='???,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+???????_???_??
+
+
+<fs af='????,pn,any,pl,3,o,para,para' emph1='y'>
+<fs af='???,pn,any,pl,3,o,para,para' emph1='y'>
+
+???????_??_??
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,pl,3,o,ko,ko' emph1='y'>
+<fs af='??,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+???_??
+
+
+<fs af='??,pn,any,pl,3,o,se,se' emph1='y'>
+<fs af='??,pn,any,pl,3,o,se,se' emph1='y'>
+
+???_??
+
+
+<fs af='??,pn,any,pl,3,o,meM,meM' emph1='y'>
+<fs af='??,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+???_???
+
+
+<fs af='??,pn,any,pl,3,o,para,para' emph1='y'>
+<fs af='??,pn,any,pl,3,o,para,para' emph1='y'>
+
+???_??
+
+
+
+
+
+
+
+Pro_spl_a
+<fs af='??,pn,any,pl,3,any,0,0'>
+<fs af='??,pn,any,pl,3,any,0,0'>
+
+??
+
+Pro_spl_a_e
+<fs af='??,pn,any,pl,3,d,0,0' emph='y'>
+<fs af='??,pn,any,pl,3,d,0,0' emph='y'>
+
+??_??
+
+Pro_spl_a_e1
+<fs af='??,pn,any,pl,3,d,0,0' emph1='y'>
+<fs af='??,pn,any,pl,3,d,0,0' emph1='y'>
+
+???
+
+
+
+
+
+
+
+Pro_d_a
+<fs af='?,pn,any,sg,3,d,0,0'>
+<fs af='??,pn,any,sg,3,d,0,0'>
+
+??|??
+
+
+<fs af='?,pn,any,pl,3,d,0,0'>
+<fs af='??,pn,any,pl,3,d,0,0'>
+
+??
+
+
+<fs af='??,pn,any,sg,3,d,0,0'>
+<fs af='??,pn,any,sg,3,d,0,0'>
+
+??
+
+
+<fs af='??,pn,any,pl,3,d,0,0'>
+<fs af='??,pn,any,pl,3,d,0,0'>
+
+??
+
+
+<fs af='???,pn,any,sg,3,d,0,0'>
+<fs af='???,pn,any,sg,3,d,0,0'>
+
+???
+
+
+<fs af='???,pn,any,pl,3,d,0,0'>
+<fs af='???,pn,any,pl,3,d,0,0'>
+
+???
+
+
+<fs af='????,pn,any,sg,3,d,0,0'>
+<fs af='???,pn,any,sg,3,d,0,0'>
+
+???
+
+
+<fs af='????,pn,any,pl,3,d,0,0'>
+<fs af='???,pn,any,pl,3,d,0,0'>
+
+???
+
+
+<fs af='?,pn,any,sg,3,d,0,0'>
+<fs af='??,pn,any,sg,3,d,0,0'>
+
+??
+
+
+<fs af='?,pn,any,pl,3,d,0,0'>
+<fs af='??,pn,any,pl,3,d,0,0'>
+
+??
+
+
+
+
+
+
+
+Pro_d_a_e
+<fs af='?,pn,any,sg,3,d,0,0' emph='y'>
+<fs af='??,pn,any,sg,3,d,0,0' emph='y'>
+
+???|????
+
+
+<fs af='?,pn,any,sg,3,d,0,0' emph='y'>
+<fs af='??,pn,any,sg,3,d,0,0' emph='y'>
+
+???|????
+
+
+
+
+
+
+
+Pro_d_a_e1
+<fs af='?,pn,any,sg,3,d,0,0' emph1='y'>
+<fs af='??,pn,any,sg,3,d,0,0' emph1='y'>
+
+??_??
+
+
+<fs af='?,pn,any,sg,3,d,0,0' emph1='y'>
+<fs af='??,pn,any,sg,3,d,0,0' emph1='y'>
+
+??_??
+
+
+
+
+
+
+
+Pro_o_a
+<fs af='??,pn,any,pl,3,o,0,0'>
+<fs af='??,pn,any,pl,3,o,0,0'>
+
+????
+
+
+
+
+
+
+
+RaRTI_self
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  hon='y'>
+<fs af='??,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  hon='y'>
+
+????
+
+
+
+
+
+
+
+RaRTI_u
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+
+
+
+
+
+RaRTI_u_e
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+
+
+
+
+
+
+
+
+
+
+
+RaRTI_u_e1
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='???,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='????,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+
+
+
+
+
+RaRTI_m
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o' agr_num='sg'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o' agr_num='sg'>
+
+????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????????
+
+
+
+
+
+
+
+RaRTI_m_e
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??|??????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????????_??|?????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????????_??|?????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????????_??|?????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????????_??|?????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????????_??|?????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????????_??|?????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????????_??|?????????
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????????_??|?????????
+
+
+
+
+
+
+
+RaRTI_m_e1
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????????_??
+
+
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????????_??
+
+
+
+
+
+
+
+
+
+
+
+
+
+RaRTI_a
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+
+
+
+
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+?????
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+?????
+
+
+
+
+
+
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+????
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+????
+
+
+
+
+
+
+
+
+
+
+
+
+
+RaRTI_a_e
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????_??|??????
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????_??|????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????_??|????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????_??|????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????_??|????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????_??|????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????_??|????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????_??|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+
+
+
+
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+??????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????????|?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????????|?????_??
+
+
+
+
+
+
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+?????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????????|????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+????_??
+
+
+
+
+
+
+
+RaRTI_a_e1
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+
+
+
+
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+
+
+
+
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????_??
+
+
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='???,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????_??
+
+
+
+
+
+
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+????_??
+
+
+<fs af='?,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+?????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+?????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+?????|????_??
+
+
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+<fs af='??,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+?????|????_??
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro_self
+<fs af='??,pn,any,any,2,o,0,0' hon='y'>
+<fs af='??,pn,any,any,2,o,0,0' hon='y'>
+
+??
+
+
+<fs af='??,pn,any,any,2,o,ko,ko' hon='y'>
+
+<fs af='??,pn,any,any,2,o,ko,ko' hon='y'>
+
+
+????
+
+
+<fs af='??,pn,any,any,2,o,se,se' hon='y'>
+
+<fs af='??,pn,any,any,2,o,se,se' hon='y'>
+
+
+????
+
+
+<fs af='??,pn,any,any,2,o,meM,meM' hon='y'>
+
+<fs af='??,pn,any,any,2,o,meM,meM' hon='y'>
+
+
+?????
+
+
+<fs af='??,pn,any,any,2,o,para,para' hon='y'>
+<fs af='??,pn,any,any,2,o,para,para' hon='y'>
+
+????
+
+
+
+
+
+
+
+Pro_self_h
+<fs af='??,pn,any,any,2,d,,' hon='y'>
+<fs af='??,pn,any,any,2,d,,' hon='y'>
+
+??
+
+
+
+
+
+
+
+Pro_self_e_h
+<fs af='??,pn,any,any,2,d,,' emph='y'  hon='y'>
+<fs af='??,pn,any,any,2,d,,' emph='y'  hon='y'>
+
+????
+
+
+<fs af='??,pn,any,any,2,o,,' emph='y'  hon='y'>
+<fs af='??,pn,any,any,2,o,,' emph='y'  hon='y'>
+
+????
+
+
+
+
+
+
+
+Pro_self_e1_h
+<fs af='??,pn,any,any,2,d,,' emph1='y'  hon='y'>
+<fs af='??,pn,any,any,2,d,,' emph1='y'  hon='y'>
+
+??_??
+
+
+<fs af='??,pn,any,any,2,o,,' emph1='y'  hon='y'>
+<fs af='??,pn,any,any,2,o,,' emph1='y'  hon='y'>
+
+??_??
+
+
+
+
+
+
+
+Dexis_Pro
+<fs af='?,pn,any,any,3,any,0,0' dexis='y'>
+<fs af='??,pn,any,any,3,any,0,0' dexis='y'>
+
+??
+
+
+<fs af='?,pn,any,any,3,any,0,0' dexis='y'>
+<fs af='??,pn,any,any,3,any,0,0' dexis='y'>
+
+??
+
+Dexis_Pro_e
+<fs af='?,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+<fs af='??,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+
+???|??_??
+
+
+<fs af='?,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+<fs af='??,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+
+???|??_??
+
+Dexis_Pro_e1
+<fs af='?,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+<fs af='??,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+
+??_??|??_??
+
+
+<fs af='?,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+<fs af='??,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+
+??_??|??_??
+
+
+
+
+
+
+
+Dexis_Oblq_Pro
+<fs af='?,pn,any,any,3,o,0,0' dexis='y'>
+<fs af='??,pn,any,any,3,o,0,0' dexis='y'>
+
+????_??
+
+
+<fs af='?,pn,any,any,3,o,0,0' dexis='y'>
+<fs af='??,pn,any,any,3,o,0,0' dexis='y'>
+
+????_??
+
+Dexis_Oblq_Pro_e
+<fs af='?,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+<fs af='??,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+
+????_??
+
+
+<fs af='?,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+<fs af='??,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+
+????_??
+
+Dexis_Oblq_Pro_e1
+<fs af='?,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+<fs af='??,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+
+????_??_??
+
+
+<fs af='?,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+<fs af='??,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+
+????_??_??
+
+
+
+
+
+
+
+
+
+
+
+
+
+Root
+<fs af='XX,v,any,any,any,,0,0'>
+Root will be substituted
+??
+No need to generate
+??
+
+
+
+
+
+
+hE
+<fs af='XX,v,any,sg,1,,hE,hE'> 
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,v,any,sg,2,,hE,hE'> 
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,any,sg,3,,hE,hE'> 
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,any,pl,1,,hE,hE'> 
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,v,any,pl,2,,hE,hE'> 
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,any,pl,3,,hE,hE'> 
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+
+
+
+
+
+hE_e
+changed in morph
+Note-Change person *1st to 3rd
+
+<fs af='XX,v,any,sg,3,,hE,hE' emph='y'>
+Root and TAM will be substituted
+??
+Step1=Add directly emphatic value with underscore (i.e. emph=hI) to the verb Root  in terms of final verb generation
+??_??
+
+
+
+
+
+
+hE_e1
+changed in morph
+Note-Change person *1st to 3rd
+
+<fs af='XX,v,any,sg,3,,hE,hE' emph1='y'>
+Root and TAM will be substituted
+??
+Step1=Add directly emphatic value with underscore (i.e. emph1=BI) to the verb Root  in terms of final verb generation
+??_??
+
+
+
+
+
+
+hE_spl
+<fs af='XX,v,any,pl,any,,hE,hE'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+
+
+
+
+
+hE_spl_h
+<fs af='XX,v,any,sg,2,,hE,hE' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,v,any,pl,2,,hE,hE' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,v,any,any,2,,hE,hE' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+
+
+
+
+
+rahala
+<fs af='XX,v,m,sg,1,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,m,pl,1,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,m,sg,2,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,m,pl,2,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,m,sg,3,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,m,pl,3,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,f,sg,1,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,f,sg,2,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,f,sg,3,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??
+
+<fs af='XX,v,f,pl,1,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,v,f,pl,2,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,v,f,pl,3,,WA,WA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+
+
+
+
+
+
+
+
+
+
+
+rahala_e
+Note-Feature Should be corrected as per number and person
+<fs af='XX,v,any,any,any,,WA,WA' emph='y'>
+Root and TAM will be substituted
+??
+Step1= Add directly emphatic value with underscore (i.e. emph=hI) to the verb Root  in terms of final verb generation
+??_??
+rahala_e1
+Note-Feature Should be corrected as per number and person
+<fs af='XX,v,any,any,any,,WA,WA' emph1='y'>
+Root and TAM will be substituted
+??
+Step1= Add directly emphatic value with underscore (i.e. emph1=BI) to the verb Root  in terms of final verb generation
+??_??
+
+
+
+
+
+
+kara
+<fs af='XX,v,any,any,any,,kara,kara'>
+Root and TAM will be substituted
+??
+Step1= Add directly suffix "??" to the verb Root  in terms of final verb generation
+??_??
+kara_e
+<fs af='XX,v,any,any,any,,kara,kara' emph='y'>
+Root and TAM will be substituted
+??
+Step1= Add directly suffix "??" to the verb Root  in terms of final verb generation
+Step2=Add directly emphatic value with underscore (i.e. emph=hI) to the result of Step1 in terms of final verb generation
+??_??_??
+kara_e1
+
+<fs af='XX,v,any,any,any,,kara,kara' emph1='y'>
+Root and TAM will be substituted
+??
+Step1= Add directly suffix "??" to the verb Root  in terms of final verb generation
+Step2=Add directly emphatic value with underscore (i.e. emph1=BI) to the result of Step1 in terms of final verb generation
+??_??_??
+
+
+
+
+
+
+Infinitive_yeke
+
+Note- Gender and Number agreement will have to do with agreeing NP
+<fs af='XX,v,m,sg,any,,yeke,yeke'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+<fs af='XX,v,m,pl,any,,yeke,yeke'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+<fs af='XX,v,f,sg,any,,yeke,yeke'>
+Root and TAM will be substituted
+
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+<fs af='XX,v,f,pl,any,,yeke,yeke'>
+Root and TAM will be substituted
+
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+
+
+
+
+
+Infinitive_yeke_e
+<fs af='XX,v,m,sg,any,,yeke,yeke' emph='y'>
+Root and TAM will be substituted
+??
+Step1=Root+TAM
+Step2=Add directly emphatic value with underscore (i.e. emph=hI) to the result of Step1 in terms of final verb generation
+????_??
+Infinitive_yeke_e1
+
+Note-Check feature
+<fs af='XX,v,any,any,any,,yeke,yeke' emph1='y'>
+Root and TAM will be substituted
+??
+Step1=Root+TAM
+Step2=Add directly emphatic value with underscore (i.e. emph1=BI) to the result of Step1 in terms of final verb generation
+????_??
+
+
+
+
+
+
+Gerund_ba
+<fs af='XX,v,any,any,any,,ba,ba'>
+Root and TAM will be substituted
+??
+Step1=Root+TAM
+????
+Gerund_ba_e
+<fs af='XX,v,any,any,any,,ba,ba' emph='y'>
+Root and TAM will be substituted
+??
+Step1=Root+TAM
+Step2=Add directly emphatic value with underscore (i.e. emph=hI) to the result of Step1 in terms of final verb generation
+????_??
+Gerund_ba_e1
+<fs af='XX,v,any,any,any,,ba,ba' emph1='y'>
+Root and TAM will be substituted
+??
+Step1=Root+TAM
+Step2=Add directly emphatic value with underscore (i.e. emph1=BI) to the result of Step1 in terms of final verb generation
+????_??
+
+
+
+
+
+
+optative_ilA
+<fs af='XX,v,m,sg,1,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_???
+????_???
+
+<fs af='XX,v,m,pl,1,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_???
+????_???
+
+<fs af='XX,v,m,sg,2,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_??
+????_??
+
+<fs af='XX,v,m,pl,2,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_??|ROOT+??_???
+????_??|????_???
+
+<fs af='XX,v,m,sg,3,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_??
+????_??
+
+<fs af='XX,v,m,pl,3,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_???
+????_???
+
+<fs af='XX,v,f,sg,1,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_???
+????_???
+
+<fs af='XX,v,f,pl,1,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_???
+????_???
+
+<fs af='XX,v,f,sg,2,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_??
+????_??
+
+<fs af='XX,v,f,pl,2,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_??|ROOT+??_???
+????_??|????_???
+
+<fs af='XX,v,f,sg,3,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_??
+????_??
+
+<fs af='XX,v,f,pl,3,,ilA,ilA'>
+Root and TAM will be substituted
+??
+ROOT+??_???
+????_???
+
+
+
+
+
+
+If emph='y' is appended 
+<fs af='XX,v,m,sg,1,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,m,pl,1,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,m,sg,2,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,m,pl,2,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??|ROOT+??_??_???
+????_??_??|????_??_???
+
+<fs af='XX,v,m,sg,3,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,m,pl,3,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,f,sg,1,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,f,pl,1,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,f,sg,2,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,f,pl,2,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??|ROOT+??_??_???
+????_??_??|????_??_???
+
+<fs af='XX,v,f,sg,3,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,f,pl,3,,ilA,ilA' emph='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+
+
+
+
+
+If emph1='y' is appended 
+<fs af='XX,v,m,sg,1,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,m,pl,1,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,m,sg,2,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,m,pl,2,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??|ROOT+??_??_???
+????_??_??|????_??_???
+
+<fs af='XX,v,m,sg,3,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,m,pl,3,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,f,sg,1,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,f,pl,1,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+<fs af='XX,v,f,sg,2,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,f,pl,2,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??|ROOT+??_??_???
+????_??_??|????_??_???
+
+<fs af='XX,v,f,sg,3,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_??
+????_??_??
+
+<fs af='XX,v,f,pl,3,,ilA,ilA' emph1='y'>
+Root and TAM will be substituted
+??
+ROOT+??_??_???
+????_??_???
+
+
+
+
+
+
+
+
+
+
+
+
+Optative_Aux_ha
+<fs af='XX,v,any,sg,1,,hE,hE' mood='y'>
+Root and TAM will be substituted
+??
+Generate directly= ???
+???
+
+
+
+
+
+
+Optative1_Aux_ha
+<fs af='XX,v,any,sg,1,,hE,hE' mood1='y'>
+Root and TAM will be substituted
+??/ ???
+-??_???
+
+(Suffix "-??_???" will be added to the preceding verb ROOT form in final generation i.e.???-??_???) 
+
+
+????_???/?????_???
+
+
+
+
+
+
+subj
+<fs af='XX,v,any,sg,1,,e,e'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+<fs af='XX,v,any,sg,2,,e,e'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+<fs af='XX,v,any,sg,2,,e,e' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+<fs af='XX,v,any,sg,3,,e,e'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+<fs af='XX,v,any,pl,1,,e,e'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+<fs af='XX,v,any,pl,2,,e,e'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+
+<fs af='XX,v,any,pl,2,,e,e' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+<fs af='XX,v,any,pl,3,,e,e'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+<fs af='XX,v,any,any,2,,e,e' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+
+
+
+
+
+Future
+<fs af='XX,v,m,sg,1,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+<fs af='XX,v,m,sg,2,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+<fs af='XX,v,m,sg,2,,gA,gA' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,m,sg,3,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+<fs af='XX,v,m,pl,1,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,m,pl,2,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+<fs af='XX,v,m,pl,2,,gA,gA' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,m,pl,3,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,f,sg,1,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+<fs af='XX,v,f,sg,2,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+<fs af='XX,v,f,sg,2,,gA,gA' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,f,sg,3,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+??????
+
+<fs af='XX,v,f,pl,1,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,f,pl,2,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+<fs af='XX,v,f,pl,2,,gA,gA' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,f,pl,3,,gA,gA'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,any,sg,2,,gA,gA' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+<fs af='XX,v,any,pl,2,,gA,gA' hon='y'>
+Root and TAM will be substituted
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???????
+
+
+
+
+
+
+Future_e
+<fs af='XX,v,any,any,any,,gA,gA' emph='y'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,gA,gA' emph='y'> TO <fs af='XX,v,m,sg,1,,gA,gA' emph='y'>
+
+Step2=Separate out emph='y'
+
+Step3=Generate remaining morph feature directly through inverted Hindi morph
+
+Step4=Add emphatic value (emph=hI) with underscore in the result of Step3
+
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,1,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,2,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,2,,gA,gA' hon='y' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,3,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,1,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,2,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+?????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,2,,gA,gA' hon='y' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,3,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,1,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,2,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,2,,gA,gA' hon='y' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,3,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,1,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,2,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+?????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,2,,gA,gA' hon='y' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,3,,gA,gA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,any,sg,2,,gA,gA' hon='y' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,any,pl,2,,gA,gA' hon='y' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+???????_??
+
+
+
+
+
+
+Future_e1
+<fs af='XX,v,any,any,any,,gA,gA' emph1='y'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,gA,gA' emph1='y'> TO <fs af='XX,v,m,sg,1,,gA,gA' emph1='y'>
+
+Step2=Separate out emph1='y'
+
+Step3=Generate remaining morph feature directly through inverted Hindi morph
+
+Step4=Add emphatic value (emph1=BI) with underscore in the result of Step3
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,1,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,2,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,2,,gA,gA' hon='y' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,m,sg,3,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,1,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,2,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+?????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,2,,gA,gA' hon='y' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,m,pl,3,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,1,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,2,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,2,,gA,gA' hon='y' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,sg,3,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+??????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,1,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,2,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+?????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,2,,gA,gA' hon='y' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,f,pl,3,,gA,gA' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,any,sg,2,,gA,gA' hon='y' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+Agr_based feature
+
+<fs af='XX,v,any,pl,2,,gA,gA' hon='y' emph1='y'>
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaining morph feature directly through inverted Hindi morph
+Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+???????_??
+
+
+
+
+
+
+PstPerf_Plus_Aux_yale1
+<fs af='XX,v,any,any,any,,yale1,yale1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+
+Step2=Generate changed morph feature directly through inverted Hindi morph
+???
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,yA1,yA1'>
+
+
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,yA1,yA1'>
+
+
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,yA1,yA1'>
+
+
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+???
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,yA1,yA1'>
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+
+
+
+
+
+
+PstPerf_Plus_Aux_yale
+<fs af='xx,v,any,any,any,,yale,yale'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='xx,v,any,any,any,,yA,yA'> TO <fs af='xx,v,m,sg,any,,yA,yA'>
+
+Step2=Generate changed morph feature directly through inverted Hindi morph
+????
+
+
+
+
+
+
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,yA,yA'>
+
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,yA,yA'>
+
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,yA,yA'>
+
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+????
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,yA,yA'>
+??
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+?????
+
+
+
+
+
+
+
+
+
+
+
+
+PstPerf_Plus_Aux_e_yale
+<fs af='XX,v,any,any,any,,yale,yale' emph='y'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='xx,v,any,any,any,,yA,yA' emph='y'> TO <fs af='xx,v,m,sg,any,,yA,yA' emph='y'>
+
+Step2=Separate out emph='y'
+
+Step3=Generate remaing  morph feature directly through inverted Hindi morph
+Step4= Add emphatic value (emph=hI) with underscore to the result of Step3
+????_??
+
+
+
+
+
+
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,yA,yA' emph='y'>
+
+??
+Step1=Separate out emph='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+????_??
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,yA,yA' emph='y'>
+
+??
+Step1=Separate out emph='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+????_??
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,yA,yA' emph='y'>
+
+??
+Step1=Separate out emph='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+????_??
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,yA,yA' emph='y'>
+??
+Step1=Separate out emph='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+?????_??
+
+
+
+
+
+
+PstPerf_Plus_Aux_e1_yale
+<fs af='XX,v,any,any,any,,yale,yale' emph1='y'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='xx,v,any,any,any,,yA,yA' emph1='y'> TO <fs af='xx,v,m,sg,any,,yA,yA' emph1='y'>
+
+Step2=Separate out emph1='y'
+
+Step3=Generate remaing  morph feature directly through inverted Hindi morph
+Step4= Add emphatic value (emph1=BI) with underscore to the result of Step3
+????_??
+
+
+
+
+
+
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,yA,yA' emph1='y'>
+
+??
+Step1=Separate out emph1='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+????_??
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,yA,yA' emph1='y'>
+
+
+Step1=Separate out emph1='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+????_??
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,yA,yA' emph1='y'>
+
+
+Step1=Separate out emph1='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+????_??
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,yA,yA' emph1='y'>
+
+Step1=Separate out emph1='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+?????_??
+
+
+
+
+
+
+PstPerf_Minus_Aux_ila
+<fs af='XX,v,m,sg,1,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,1,,yA,yA'> TO <fs af='XX,v,m,sg,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+
+????
+
+<fs af='XX,v,m,pl,1,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,1,,yA,yA'> TO <fs af='XX,v,m,pl,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,m,sg,2,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,2,,yA,yA'> TO <fs af='XX,v,m,sg,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,m,pl,2,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,2,,yA,yA'> TO <fs af='XX,v,m,pl,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,m,sg,3,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,3,,yA,yA'> TO <fs af='XX,v,m,sg,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,m,pl,3,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,3,,yA,yA'> TO <fs af='XX,v,m,pl,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,f,sg,1,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,1,,yA,yA'> TO <fs af='XX,v,f,sg,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,f,pl,1,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,1,,yA,yA'> TO <fs af='XX,v,f,pl,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+?????
+
+<fs af='XX,v,f,sg,2,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,2,,yA,yA'> TO <fs af='XX,v,f,sg,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,f,pl,2,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,2,,yA,yA'> TO <fs af='XX,v,f,pl,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+?????
+
+<fs af='XX,v,f,sg,3,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,3,,yA,yA'> TO <fs af='XX,v,f,sg,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,f,pl,3,,ila,ila'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,3,,yA,yA'> TO <fs af='XX,v,f,pl,any,,yA,yA'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+?????
+
+
+
+
+
+
+PstPerf_Minus_Aux_ila1
+<fs af='XX,v,m,sg,1,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,1,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+
+???
+
+<fs af='XX,v,m,pl,1,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,1,,yA1,yA1'> TO <fs af='XX,v,m,pl,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,m,sg,2,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,2,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,m,pl,2,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,2,,yA1,yA1'> TO <fs af='XX,v,m,pl,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,m,sg,3,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,3,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,m,pl,3,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,3,,yA1,yA1'> TO <fs af='XX,v,m,pl,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,f,sg,1,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,1,,yA1,yA1'> TO <fs af='XX,v,f,sg,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,f,pl,1,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,1,,yA1,yA1'> TO <fs af='XX,v,f,pl,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,f,sg,2,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,2,,yA1,yA1'> TO <fs af='XX,v,f,sg,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,f,pl,2,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,2,,yA1,yA1'> TO <fs af='XX,v,f,pl,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+<fs af='XX,v,f,sg,3,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,3,,yA1,yA1'> TO <fs af='XX,v,f,sg,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+???
+
+<fs af='XX,v,f,pl,3,,ila1,ila1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,3,,yA1,yA1'> TO <fs af='XX,v,f,pl,any,,yA1,yA1'>
+
+Step2= Generate converted morph feature directly through inverted Hindi morph
+????
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pst_Perf_Prtcpl_yala
+<fs af='XX,v,any,any,any,,yala,yala'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature 
+<fs af='XX,v,any,any,any,,yA_huA,yA_huA'> TO  <fs af='XX,v,m,sg,any,,yA_huA,yA_huA'>
+
+Step2= Separate out "_huA" from TAM field
+
+Step3=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step4= Add "_huA" to the result of Step3 in terms of final generation
+????_???
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,yA_huA,yA_huA'>
+
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huA" to the result of Step2 in terms of final generation
+????_???
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,yA_huA,yA_huA'>
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huye" to the result of Step2 in terms of final generation
+????_????
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,yA_huA,yA_huA'>
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI" to the result of Step2 in terms of final generation
+????_????
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,yA_huA,yA_huA'>
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI" to the result of Step2 in terms of final generation
+?????_????
+
+
+
+
+
+
+Pst_Perf_Prtcpl_yala1
+<fs af='XX,v,any,any,any,,yala1,yala1'>
+Root and TAM will be substituted
+??
+Step1= Change lexical transferred morph feature 
+<fs af='XX,v,any,any,any,,yA1_huA,yA1_huA'> TO  <fs af='XX,v,m,sg,any,,yA1_huA,yA1_huA'>
+
+Step2= Separate out "_huA" from TAM field
+
+Step3=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step4= Add "_huA" to the result of Step3 in terms of final generation
+???_???
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,yA1_huA,yA1_huA'>
+
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huA" to the result of Step2 in terms of final generation
+???_???
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,yA1_huA,yA1_huA'>
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huye" to the result of Step2 in terms of final generation
+???_????
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,yA1_huA,yA1_huA'>
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI" to the result of Step2 in terms of final generation
+???_????
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,yA1_huA,yA1_huA'>
+??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI" to the result of Step2 in terms of final generation
+????_????
+Pres_Prtcpl_wa1
+<fs af='XX,v,any,any,any,,wa1,wa1'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA'> TO  <fs af='XX,v,m,sg,any,,wA_huA,wA_huA'>
+
+Step2= Separate out "_huA" from TAM field
+
+Step3=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step4= Add "_huA" to the result of Step3 in terms of final generation
+????_???/????_???
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,wA_huA,wA_huA'>
+??/??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huA" to the result of Step2 in terms of final generation
+????_???/????_???
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,wA_huA,wA_huA'>
+??/??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huye" to the result of Step2 in terms of final generation
+????_????/????_????
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,wA_huA,wA_huA'>
+??/??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI" to the result of Step2 in terms of final generation
+????_????/????_????
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,wA_huA,wA_huA'>
+??/??
+Step1= Separate out "_huA" from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI" to the result of Step2 in terms of final generation
+?????_????/?????_????
+
+
+
+
+
+
+Pres_Prtcpl_e_wa1
+<fs af='XX,v,any,any,any,,wa1,wa1'emph='y'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA'emph='y'> TO  <fs af='XX,v,m,sg,any,,wA_huA,wA_huA'emph='y'>
+
+Step2= Separate out "_huA" and emph='y' from TAM field
+
+Step3=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step4= Add "_huA_hI" to the result of Step3 in terms of final generation
+????_???_??/????_???_??
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,wA_huA,wA_huA'emph='y'>
+??/??
+Step1= Separate out "_huA" and emph='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huA_hI" to the result of Step2 in terms of final generation
+????_???_??/????_???_??
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,wA_huA,wA_huA'emph='y'>
+??/??
+Step1= Separate out "_huA" and emph='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huye_hI" to the result of Step2 in terms of final generation
+????_????_??/????_????_??
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,wA_huA,wA_huA'emph='y'>
+??/??
+Step1= Separate out "_huA" and emph='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI_hI" to the result of Step2 in terms of final generation
+????_????_??/????_????_??
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,wA_huA,wA_huA'emph='y'>
+??/??
+Step1= Separate out "_huA" and emph='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI_hI" to the result of Step2 in terms of final generation
+?????_????_??/?????_????_??
+
+
+
+
+
+
+Pres_Prtcpl_e1_wa1
+<fs af='XX,v,any,any,any,,wa1,wa1'emph1='y'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA' emph1='y'> TO  <fs af='XX,v,m,sg,any,,wA_huA,wA_huA' emph1='y'>
+
+Step2= Separate out "_huA" and emph1='y' from TAM field
+
+Step3=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step4= Add "_huA_BI" to the result of Step3 in terms of final generation
+????_???_??/????_???_??
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,wA_huA,wA_huA'emph1='y'>
+??/??
+Step1= Separate out "_huA" and emph1='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huA_BI" to the result of Step2 in terms of final generation
+????_???_??/????_???_??
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,wA_huA,wA_huA'emph1='y'>
+??/??
+Step1= Separate out "_huA" and emph1='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huye_BI" to the result of Step2 in terms of final generation
+????_????_??/????_????_??
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,wA_huA,wA_huA'emph1='y'>
+??/??
+Step1= Separate out "_huA" and emph1='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI_BI" to the result of Step2 in terms of final generation
+????_????_??/????_????_??
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,wA_huA,wA_huA'emph1='y'>
+??/??
+Step1= Separate out "_huA" and emph1='y' from TAM field
+
+Step2=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step3= Add "_huyI_BI" to the result of Step2 in terms of final generation
+?????_????_??/?????_????_??
+
+
+
+
+
+
+Pres_Prtcpl_rdp_wai1
+<fs af='XX,v,any,any,any,,wai1,wai1' rdp='y'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA' rdp='y'> TO  <fs af='XX,v,m,pl,any,,wA_huA,wA_huA' rdp='y'>
+
+Step2= Remove "_huA" from TAM field and Separate out  rdp='y' 
+
+Step3=  Generate remaining morph feature directly through inverted Hindi morph
+
+Step4= For the value of rdp='y'--Make duplicate copy of Step3 result and conjoin the duplicated copy to the result of  Step3 with hyphen
+????-????/????-????
+
+
+
+
+
+
+
+
+
+
+
+
+Pres_Prog_Asp_wa
+<fs af='XX,v,any,any,any,,wa,wa'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,rahA,rahA'> TO <fs af='XX,v,m,sg,any,,rahA,rahA'>
+Step2= Root_rahA
+??_???/??_???
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,rahA,rahA'>
+??/??
+Step1=Root_rahA
+??_???/??_???
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,rahA,rahA'>
+??/??
+Step1=Root_rahe
+??_???/??_???
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,rahA,rahA'>
+??/??
+Step1=Root_rahI
+??_???/??_???
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,rahA,rahA'>
+??/??
+Step1=Root_rahIM
+??_????/??_????
+
+
+
+
+
+
+Pres_Prog_Asp_e_wa
+<fs af='XX,v,any,any,any,,wa,wa' emph='y'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,rahA,rahA' emph='y'> TO <fs af='XX,v,m,sg,any,,rahA,rahA' emph='y'>
+Step2= Root_hI_rahA
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,rahA,rahA' emph='y'>
+??/??
+Step1=Root_hI_rahA
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,rahA,rahA' emph='y'>
+??/??
+Step1=Root_hI_rahe
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,rahA,rahA' emph='y'>
+??/??
+Step1=Root_hI_rahI
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,rahA,rahA' emph='y'>
+??/??
+Step1=Root_hI_rahIM
+??_??_????/??_??_????
+
+
+
+
+
+
+Pres_Prog_Asp_e1_wa
+<fs af='XX,v,any,any,any,,wa,wa' emph1='y'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,rahA,rahA' emph1='y'> TO <fs af='XX,v,m,sg,any,,rahA,rahA' emph1='y'>
+Step2= Root_BI_rahA
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,m,sg,any,,rahA,rahA' emph1='y'>
+??/??
+Step1=Root_BI_rahA
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,m,pl,any,,rahA,rahA' emph1='y'>
+??/??
+Step1=Root_BI_rahe
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,f,sg,any,,rahA,rahA' emph1='y'>
+??/??
+Step1=Root_BI_rahI
+??_??_???/??_??_???
+Agr_based_feature
+
+<fs af='XX,v,f,pl,any,,rahA,rahA' emph1='y'>
+??/??
+Step1=Root_BI_rahIM
+??_??_????/??_??_????
+
+
+
+
+
+
+
+
+
+
+
+
+Pres_Prog_Asp_Aux_A
+<fs af='XX,v,m,sg,1,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,m,sg,1,,hE,hE'> then generate> rAhA+hUz
+???_???
+
+<fs af='XX,v,m,pl,1,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,m,pl,1,,hE,hE'> then generate> rAhe+hEM
+???_???
+
+<fs af='XX,v,m,sg,2,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,m,sg,2,,hE,hE'> then generate> rAhA+hE
+???_??
+
+<fs af='XX,v,m,pl,2,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,m,pl,2,,hE,hE'> then generate> rAhe+ho
+???_??
+
+<fs af='XX,v,m,sg,3,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,m,sg,3,,hE,hE'> then generate> rAhA+hE
+???_??
+
+<fs af='XX,v,m,pl,3,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,m,pl,3,,hE,hE'> then generate> rAhe+hEM
+???_???
+
+<fs af='XX,v,f,sg,1,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,f,sg,1,,hE,hE'> then generate> rAhI+hUz
+???_???
+
+<fs af='XX,v,f,pl,1,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,f,pl,1,,hE,hE'> then generate> rAhe+hEM
+???_???
+
+<fs af='XX,v,f,sg,2,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,f,sg,2,,hE,hE'> then generate> rAhI+hE
+???_??
+
+<fs af='XX,v,f,pl,2,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,f,pl,2,,hE,hE'> then generate> rAhI+ho
+???_??
+
+<fs af='XX,v,f,sg,3,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,f,sg,3,,hE,hE'> then generate> rAhI+hE
+???_??
+
+<fs af='XX,v,f,pl,3,,A,A'>
+Root and TAM will be substituted
+??? (specific)
+Step1= iff<fs af='rahA,v,f,sg,3,,hE,hE'> then generate> rAhI+hEM
+???_???
+
+
+
+
+
+
+Asp_Habitual_ala
+<fs af='XX,v,any,any,any,,ala,ala'>
+Root and TAM will be substituted
+??/??
+Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,yA_asp,yA_asp'> TO <fs af='XX,v,any,any,any,,yA,yA' asp="y">
+
+Step2=Generate changed morph feature directly through inverted Hindi morph
+????/????
+
+
+
+
+
+
+Adv_Time_e_wai
+<fs af='XX,v,any,any,any,,wai,wai' emph= 'y'>
+Root and TAM will be substituted
+??/??
+Step1= If <fs af='XX,v,any,any,any,,we_hI,we_hI' emph= 'y'> then generate Root+we_hI
+????_??/????_??
+
+
+
+
+
+
+
+
+hE_neg
+
+
+<fs af='XX,v,any,sg,1,,hE,hE' neg='y'> 
+Root and TAM will be substituted
+??
+Step1= Separate out neg='y'
+Step 2= Send remaining morph feature to inverted Hindi morph
+Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+????_???
+
+<fs af='XX,v,any,sg,2,,hE,hE' neg='y'> 
+Root and TAM will be substituted
+??
+Step1= Separate out neg='y'
+Step 2= Send remaining morph feature to inverted Hindi morph
+Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+????_??
+
+<fs af='XX,v,any,sg,3,,hE,hE' neg='y'> 
+Root and TAM will be substituted
+??
+Step1= Separate out neg='y'
+Step 2= Send remaining morph feature to inverted Hindi morph
+Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+????_??
+
+<fs af='XX,v,any,pl,1,,hE,hE' neg='y'> 
+Root and TAM will be substituted
+??
+Step1= Separate out neg='y'
+Step 2= Send remaining morph feature to inverted Hindi morph
+Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+????_???
+
+<fs af='XX,v,any,pl,2,,hE,hE' neg='y'> 
+Root and TAM will be substituted
+??
+Step1= Separate out neg='y'
+Step 2= Send remaining morph feature to inverted Hindi morph
+Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+????_??
+
+<fs af='XX,v,any,pl,3,,hE,hE' neg='y'> 
+Root and TAM will be substituted
+??
+Step1= Separate out neg='y'
+Step 2= Send remaining morph feature to inverted Hindi morph
+Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+????_???
+
+
+
+
+
+
+							
+
+
+TAM Dict from B_M_M (SL) to Hindi (TL)
+SL	TL
+gA	gA
+e	e
+kara	kara
+ba	nA
+yeke	nA
+ilA	wA_hE
+wa	rahA
+wa1	wA_huA
+wai	we_hI
+wai1	wA_huA
+ala	yA_asp
+yala1	yA1_huA
+yala	yA_huA
+A	 hE
+ila	yA
+ila1	yA1
+yale	 yA
+yale1	yA1
+WA	WA
+hE	hE
+kA	kA
+ko	ko
+se	se
+meM	meM
+para	para
+
+
+
+
+
+
+
+
+
+
+
+							New Morph Category to Implement
+
+Morph category
+Morph Output
+hE_neg
+
+?
+
+????/????/????/????/????/????/?????/?????
+<fs af='?,v,any,sg,1,,hE,hE' neg='y'>
+????/????/????/????
+<fs af='?,v,any,sg,2,,hE,hE' neg='y'>
+????/????/????/????
+<fs af='?,v,any,sg,3,,hE,hE' neg='y'>
+????/????/????/????/????/????/?????/?????
+<fs af='?,v,any,pl,1,,hE,hE' neg='y'>
+????/????/????/????/????/????/?????/?????
+<fs af='?,v,any,pl,2,,hE,hE' neg='y'>
+????/????/????/????
+<fs af='?,v,any,pl,3,,hE,hE' neg='y'>
+
+
+
+
+

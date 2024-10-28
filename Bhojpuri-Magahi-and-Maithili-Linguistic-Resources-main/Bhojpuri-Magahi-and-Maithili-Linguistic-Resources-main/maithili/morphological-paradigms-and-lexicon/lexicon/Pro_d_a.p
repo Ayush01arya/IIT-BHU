@@ -1,0 +1,16 @@
+Pro_d_a
+o
+o/u
+osaBa/usaBa/oZWNJsaBa/uZWNJsaBa/osaba/usaba/oZWNJsaba/uZWNJsaba/oAra/oZWNJAra/uAra/uZWNJAra
+je
+je
+jesaBa/jesaba/jeZWNJsaBa/jeZWNJsaba/jeAra/jeZWNJAra
+ke
+ke
+kesaBa/kesaba/keZWNJsaBa/keZWNJsaba/keAra/keZWNJAra
+keo
+kiyo/keyo/kyo/koi
+kiyosaBa/keyosaBa/kyosaBa/koisaBa/kiyoZWNJsaBa/keyoZWNJsaBa/kyoZWNJsaBa/koiZWNJsaBa/kiyosaba/keyosaba/kyosaba/koisaba/kiyoZWNJsaba/keyoZWNJsaba/kyoZWNJsaba/koiZWNJsaba/kiyoAra/kiyoZWNJAra/keyoAra/keyoZWNJAra/kyoAra/kyoZWNJAra/koiAra/koiZWNJAra
+I
+I
+IsaBa/Isaba/IZWNJsaBa/IZWNJsaba/IAra/IZWNJAra
