@@ -1,0 +1,1691 @@
+Sample content from .p files
+Total files found: 121
+
+
+==================================================
+File: Adj_All.p
+Encoding: utf-8
+Sample content:
+Adj_All
+amIra
+amIra
+
+Extracted 3 entries
+
+==================================================
+File: Adj_All_e.p
+Encoding: utf-8
+Sample content:
+Adj_All_e
+amIra
+amIrai/amIre/amIrE
+kariyA
+kariyai/kariai/kariye
+gora
+gorai/gorE/gore
+nIlA
+nIlai/nIlE/nIle
+pIyara
+Extracted 33 entries
+
+==================================================
+File: Adj_All_e1.p
+Encoding: utf-8
+Sample content:
+Adj_All_e1
+amIra
+amIrau/amIro/amIrO
+kariyA
+kariyo/kariyO/kariyau/kario/kariO/kariau
+gora
+goro/gorO/gorau
+nIlA
+nIlo/nIlO/nIlau
+pIyara
+Extracted 33 entries
+
+==================================================
+File: Adj_case.p
+Encoding: utf-8
+Sample content:
+Adj_case
+aneka
+aneka
+aneka
+
+Extracted 4 entries
+
+==================================================
+File: Adj_case_e.p
+Encoding: utf-8
+Sample content:
+Adj_case_e
+aneka
+anekana/anekai
+anekana/anekai
+kai
+kaiyana/kaiana
+kaiyana/kaiana
+kaI
+kaiyana/kaiana/kaiye/kaie
+kaiyana/kaiana/kaiye/kaie
+Extracted 28 entries
+
+==================================================
+File: Adj_case_e1.p
+Encoding: utf-8
+Sample content:
+Adj_case_e1
+aneka
+anekano/anekanO/anekanau/anekau
+anekano/anekanO/anekanau/anekau
+kai
+kaiyano/kaiyanO/kaiyanau/kaiano/kaianO/kaianau
+kaiyano/kaiyanO/kaiyanau/kaiano/kaianO/kaianau
+kaI
+kaiyano/kaiyanO/kaiyanau/kaiano/kaianO/kaianau/kaiyau/kaiau/kaiyo
+kaiyano/kaiyanO/kaiyanau/kaiano/kaianO/kaianau/kaiyau/kaiau/kaiyo
+Extracted 25 entries
+
+==================================================
+File: Adj_f_e1_vAlI.p
+Encoding: utf-8
+Sample content:
+Adj_f_e1_vAlI
+kariyakkI
+kariyakkiyo/kariyakkiyO/kariyakkiyau/kariyakkio/kariyakkiO/kariyakkiau
+kariyaI
+kariyo/kariyO/kariyau/kario/kariO/kariau
+kariyai
+kariyo/kariyO/kariyau/kario/kariO/kariau
+
+Extracted 7 entries
+
+==================================================
+File: Adj_f_e_vAlI.p
+Encoding: utf-8
+Sample content:
+Adj_f_e_vAlI
+kariyakkI
+kariyakkiyai/kariyakkiai/kariyekkiyai/kariyekkiai/karikkiye/karikki
+kariyaI
+kariyei/kariei
+kariyai
+kariyei/kariei
+
+Extracted 7 entries
+
+==================================================
+File: Adj_f_s.p
+Encoding: utf-8
+Sample content:
+Adj_f_s
+bAlikA
+bAlikA
+
+Extracted 3 entries
+
+==================================================
+File: Adj_f_vAlI.p
+Encoding: utf-8
+Sample content:
+Adj_f_vAlI
+kariyakkI
+kariyakkI/kariyekkI/karikkI
+kariyaI
+kariyaI
+kariyai
+kariyaI
+
+Extracted 7 entries
+
+==================================================
+File: Adj_m_e1_vAlA.p
+Encoding: utf-8
+Sample content:
+Adj_m_e1_vAlA
+kariyakkA
+kariyakko/kariyakkO/kariyakkau/kariyekko/kariyekkO/kariyekkau/karikko/karikkO/karikkau/kariakko/kariakkO/kariakkau
+kariyavA
+kariyavo/kariyavO/kariyavau/kariavo/kariavO/kariavau/kariVo/kariVO/kariVau
+
+Extracted 5 entries
+
+==================================================
+File: Adj_m_e_vAlA.p
+Encoding: utf-8
+Sample content:
+Adj_m_e_vAlA
+kariyakkA
+kariyakkai/kariyekkai/karikkai
+kariyavA
+kariyavai/kariavai/kariyavE/kariyave
+
+Extracted 5 entries
+
+==================================================
+File: Adj_m_s.p
+Encoding: utf-8
+Sample content:
+Adj_m_s
+bAlaka
+bAlaka
+
+Extracted 3 entries
+
+==================================================
+File: Adj_m_vAlA.p
+Encoding: utf-8
+Sample content:
+Adj_m_vAlA
+kariyakkA
+kariyakkA/kariyekkA/karikkA
+kariyavA
+kariyavA
+
+Extracted 5 entries
+
+==================================================
+File: Advrb.p
+Encoding: utf-8
+Sample content:
+Advrb
+aba
+aba
+
+Extracted 3 entries
+
+==================================================
+File: Advrb_e.p
+Encoding: utf-8
+Sample content:
+Advrb_e
+aba
+abbai/abai/aBI/abahi/abahI
+kala
+kalai/kAlhai/kalE/kAlhE
+Aja
+Ajai/AjE/Ajahi/Ajuve
+parasoM
+parasavaiz/parasaveM/parasavahi/parasave/parasoMveM/parasoveM/parasoMyeM/parasoMeM/parasozvez/parasovez/parasozyeM/parasoMez
+bihAna
+Extracted 39 entries
+
+==================================================
+File: Advrb_e1.p
+Encoding: utf-8
+Sample content:
+Advrb_e1
+aba
+abbau/abahiyau/abbo/abbO/aBahiyoM/aBahio/abahiyoM/abahio/aBiyoM/aBio
+kala
+kAlho/kalhUz/kalhiyoM/kAlahuz/kalhio
+Aja
+Ajo/ajahuz/ajuo/ajuvo
+parasoM
+parasahuz/parasaoM/parasavo/parasaMhuo/parasaMuo/parasoMhiyoM
+bihAna
+Extracted 39 entries
+
+==================================================
+File: Adv_Time_e_wai.p
+Encoding: utf-8
+Sample content:
+Adv_Time_e_wai
+KA
+KAwai/Kaiwai/KAwE/KEwe
+pI
+piyawai/piawai/piawe/piyawe/piawE/piyawE/pIyawai/pIawai/pIawe/pIyawe/pIawE/pIyawE
+uTa
+uTawai/uTewai/uTawE/uTewE
+kara
+karawai/karawE
+CU
+Extracted 21 entries
+
+==================================================
+File: Asp_Habitual_ala.p
+Encoding: utf-8
+Sample content:
+Asp_Habitual_ala
+KA
+KAyala/KAila
+pI
+piyala/piala/pIyala/pIala
+le
+lela/lehala/lihala/levala/leyala
+xe
+xela/xehala/xihala/xevala/xeyala
+kara
+Extracted 21 entries
+
+==================================================
+File: Conjctn.p
+Encoding: utf-8
+Sample content:
+Conjctn
+aba
+aba
+
+Extracted 3 entries
+
+==================================================
+File: Dexis_Oblq_Pro.p
+Encoding: utf-8
+Sample content:
+Dexis_Oblq_Pro
+i
+ihAzZWNJke/ihAzke/ihAMZWNJke/ihAMke
+u
+uhAzZWNJke/uhAzke/uhAMZWNJke/uhAMke
+
+Extracted 5 entries
+
+==================================================
+File: Dexis_Oblq_Pro_e.p
+Encoding: utf-8
+Sample content:
+Dexis_Oblq_Pro_e
+i
+iheMZWNJke/iheMke/ihezZWNJke/ihezke
+u
+uheMZWNJke/uheMke/uhezZWNJke/uhezke
+
+Extracted 5 entries
+
+==================================================
+File: Dexis_Oblq_Pro_e1.p
+Encoding: utf-8
+Sample content:
+Dexis_Oblq_Pro_e1
+i
+ihoMZWNJke/ihoMke/ihozZWNJke/ihozke
+u
+uhoMZWNJke/uhoMke/uhozZWNJke/uhozke
+
+Extracted 5 entries
+
+==================================================
+File: Dexis_Pro.p
+Encoding: utf-8
+Sample content:
+Dexis_Pro
+i
+i
+u
+u
+
+Extracted 5 entries
+
+==================================================
+File: Dexis_Pro_e.p
+Encoding: utf-8
+Sample content:
+Dexis_Pro_e
+i
+ihe/ihE/ihai
+u
+uhe/uhE/uhai
+
+Extracted 5 entries
+
+==================================================
+File: Dexis_Pro_e1.p
+Encoding: utf-8
+Sample content:
+Dexis_Pro_e1
+i
+iho/ihO/ihau/Iho/IhO/Ihau
+u
+uho/Uho/uhau/uhO/UhO/Uhau
+
+Extracted 5 entries
+
+==================================================
+File: Future.p
+Encoding: utf-8
+Sample content:
+Future
+KA
+KAba/KAiba/KAyeba
+KaibA/KAbA/KaibaV
+KaihaMi/KAyeba/Kaihazi/Kaihana/KAiba
+KAi
+KAba/KAiba/KAyeba
+KaibaV/KAbA/KaibA
+KaihaMi/KAyeba/Kaihazi/Kaihana/KAiba
+Kaihana/KaihaMi/Kaihazi
+Extracted 226 entries
+
+==================================================
+File: Future_e.p
+Encoding: utf-8
+Sample content:
+Future_e
+KA
+Kaibe/Kaibai/KAbai
+kara
+karabe/karabai
+le
+lebai/lebe
+ho
+hobai/hobe
+pI
+Extracted 19 entries
+
+==================================================
+File: Future_e1.p
+Encoding: utf-8
+Sample content:
+Future_e1
+KA
+Kaibo/Kayabo/Kabau/KAbau
+kara
+karabo/karabau
+le
+lebo/lehabo/leyabo/lehabau
+ho
+hobo/hoibo/hobau
+pI
+Extracted 19 entries
+
+==================================================
+File: Gerund_ba.p
+Encoding: utf-8
+Sample content:
+Gerund_ba
+KA
+KAiba/KAba/KAvaba
+kara
+karaba
+uTa
+uTaba/uTavaba/uTaiba
+ho
+hoiba/hoba/hovaba
+pI
+Extracted 21 entries
+
+==================================================
+File: Gerund_ba_e.p
+Encoding: utf-8
+Sample content:
+Gerund_ba_e
+KA
+Kaibai/KAbE/Kavabai/KavabE
+kara
+karabai/karabE
+uTa
+uTabai/uTabE
+ho
+hoibai/hobai/hoibE/hovabai/hovabE
+pI
+Extracted 21 entries
+
+==================================================
+File: Gerund_ba_e1.p
+Encoding: utf-8
+Sample content:
+Gerund_ba_e1
+KA
+KAbau/KailoV/Kavabau/KavabO
+kara
+karabau/kailoV/kayaloV/karabO
+uTa
+uTabau/uTaloV
+ho
+hobau/hoiloV/hoibau/hovabau/hovabO
+pI
+Extracted 21 entries
+
+==================================================
+File: hE.p
+Encoding: utf-8
+Sample content:
+hE
+ha
+hai/haiz/haiM/bAi/bAni/bAnI/bAti/bAtI/bAdZi
+hava/hauva/haua/bAya/bAta/bAdZa/bAdZe/bAte
+ha/have/hauve/bAdZe/bAte/bA/hau/haV
+hai/haiz/haiM/bAi/bAni/bAnI/bAti/bAtI/bAdZi/haina
+hauva/haMva/hazva/haua/bAyana/bAta/bAtaM/bAdZa/bAdZe/bAte
+havana/hauvana/hauana/bAyana/bAtana/bAdZana/hauveM/bAdZeM
+
+Extracted 8 entries
+
+==================================================
+File: hE_e.p
+Encoding: utf-8
+Sample content:
+hE_e
+ha
+haiyeha/hailaiha/hauvane/hauvanai
+
+Extracted 3 entries
+
+==================================================
+File: hE_e1.p
+Encoding: utf-8
+Sample content:
+hE_e1
+ha
+haiyoha/hailoha/hauvano/hauvanau
+
+Extracted 3 entries
+
+==================================================
+File: hE_neg.p
+Encoding: utf-8
+Sample content:
+hE_neg
+ha
+nahani/nahanI/naiKe/nEKe/naiKI/naiKi/naiKIM/naiKiM
+nahani/nahanI/naiKe/nEKe
+nahani/nahanI/naiKe/nEKe
+nahani/nahanI/naiKe/nEKe/naiKI/naiKi/naiKIM/naiKiM
+nahani/nahanI/naiKe/nEKe/naiKI/naiKi/naiKIM/naiKiM
+nahani/nahanI/naiKe/nEKe
+
+Extracted 8 entries
+
+==================================================
+File: hE_spl.p
+Encoding: utf-8
+Sample content:
+hE_spl
+ha
+hoMi/hoMya/havaV
+
+Extracted 3 entries
+
+==================================================
+File: hE_spl_h.p
+Encoding: utf-8
+Sample content:
+hE_spl_h
+ha
+hoMi/hoMya
+hoMi/hoMya
+hazi/haMi
+
+Extracted 5 entries
+
+==================================================
+File: Infinitive_yeke.p
+Encoding: utf-8
+Sample content:
+Infinitive_yeke
+KA
+KAyeke
+KAyeke
+KAyeke
+KAyeke
+kara
+kareke/karaike
+kareke/karaike
+kareke/karaike
+Extracted 46 entries
+
+==================================================
+File: Infinitive_yeke_e.p
+Encoding: utf-8
+Sample content:
+Infinitive_yeke_e
+KA
+KAhIMke/Kahazike/KahazhIke
+kara
+karahIMke
+uTa
+uTahIMke
+ho
+hohIMke/hohahIMke
+pI
+Extracted 19 entries
+
+==================================================
+File: Infinitive_yeke_e1.p
+Encoding: utf-8
+Sample content:
+Infinitive_yeke_e1
+KA
+Kaiyoke/Kaihoke/KaihukeV/KaihUkeV/Kahahuzke/KahahUzke
+kara
+karayoke/kariyoke/karahoke/karihoke/karahuzke/karahUzke
+uTa
+uTaiyoke/uTiyoke/uTayoke/uTahoke/uTahuzke/uTahUzke
+ho
+hoiyoke/hoyoke/hovoke/hohukeV/hohUkeV/hohahuzke/hohahUzke
+pI
+Extracted 19 entries
+
+==================================================
+File: Intrjctn.p
+Encoding: utf-8
+Sample content:
+Intrjctn
+aba
+aba
+
+Extracted 3 entries
+
+==================================================
+File: kara.p
+Encoding: utf-8
+Sample content:
+kara
+KA
+KAike/KAke/Kaike
+kara
+kaike/karike/karake
+le
+leike/leke
+ho
+hoike/hoke
+pI
+Extracted 19 entries
+
+==================================================
+File: kara_e.p
+Encoding: utf-8
+Sample content:
+kara_e
+KA
+KAIke/Kahiyaike/Kaiyeke/Kaiyaike
+kara
+kaiyeke/karIke/kaiVke
+le
+leiVke/lehike/leiyeke
+ho
+hoiyeke/hoiVke/hohiyeke
+pI
+Extracted 19 entries
+
+==================================================
+File: kara_e1.p
+Encoding: utf-8
+Sample content:
+kara_e1
+KA
+Kaiyoke/Kaihoke/KaihukeV/KaihUkeV
+kara
+karayoke/kariyoke/karahoke/karihoke
+le
+leiyoke/leioke/lehoke/levoke/lehuvoke/lehukeV/lehUkeV
+ho
+hoiyoke/hoioke/hovoke/hohUkeV/hohukeV
+pI
+Extracted 19 entries
+
+==================================================
+File: Noun_f.p
+Encoding: utf-8
+Sample content:
+Noun_f
+ladZakI
+ladZakI
+ladZakina
+ladZakI
+ladZakina
+mAI
+mAI/mAyI
+mAina/mAyana
+mAI/mAyI
+Extracted 91 entries
+
+==================================================
+File: Noun_f_e.p
+Encoding: utf-8
+Sample content:
+Noun_f_e
+ladZakI
+ladZakie/ladZakiai/ladZakiE
+ladZakine/ladZakinai/ladZakinE
+ladZakie/ladZakiai/ladZakiE
+ladZakine/ladZakinai/ladZakinE
+mAI
+mAie/maie/maiai/maiE/mAiE/mAiai/mAyie/mAyiai/mAyE
+mAine/mAinai/mAinE/maine/mainai/mainE/mAyane/mAyanai/mAyanE
+mAie/maie/maiai/maiE/mAiE/mAiai/mAyie/mAyiai/mAyE
+Extracted 91 entries
+
+==================================================
+File: Noun_f_e1.p
+Encoding: utf-8
+Sample content:
+Noun_f_e1
+ladZakI
+ladZakio/ladZakiau/ladZakiO
+ladZakino/ladZakinau/ladZakinO
+ladZakio/ladZakiau/ladZakiO
+ladZakino/ladZakinau/ladZakinO
+mAI
+mAio/mAiau/mAiO/maio/maiau/maiO/mAyio/mAyiau/mAyiO
+mAino/mAinau/mAinO/maino/mainau/mainO/mAyano/mAyanau/mAyanO
+mAio/mAiau/mAiO/maio/maiau/maiO/mAyio/mAyiau/mAyiO
+Extracted 91 entries
+
+==================================================
+File: Noun_f_rednt.p
+Encoding: utf-8
+Sample content:
+Noun_f_rednt
+ladZakiyA
+ladZakiyA
+ladZakiyana/ladZakiana
+ladZakiyA
+ladZakiyana/ladZakiana
+maiyA
+maiyA/maiA
+maiyana/maiana
+maiyA/maiA
+Extracted 81 entries
+
+==================================================
+File: Noun_f_rednt_e.p
+Encoding: utf-8
+Sample content:
+Noun_f_rednt_e
+ladZakiyA
+ladZakiye/ladZakiyai/ladZakiyE
+ladZakiyanai/ladZakiyane/ladZakiyanE/ladZakianai/ladZakiane/ladZakianE
+ladZakiye/ladZakiyai/ladZakiyE
+ladZakiyanai/ladZakiyane/ladZakiyanE/ladZakianai/ladZakiane/ladZakianE
+maiyA
+maiye/maiyai/maiyE/maie/maiai/maiE
+maiyanai/maiyane/maiyanE/maianai/maiane/maianE
+maiye/maiyai/maiyE/maie/maiai/maiE
+Extracted 81 entries
+
+==================================================
+File: Noun_f_rednt_e1.p
+Encoding: utf-8
+Sample content:
+Noun_f_rednt_e1
+ladZakiyA
+ladZakiyo/ladZakiyO/ladZakiyau
+ladZakiyano/ladZakiyanO/ladZakiyanau/ladZakiano/ladZakianO/ladZakianau
+ladZakiyo/ladZakiyO/ladZakiyau
+ladZakiyano/ladZakiyanO/ladZakiyanau/ladZakiano/ladZakianO/ladZakianau
+maiyA
+maiyo/maiyO/maiyau/maio/maiau/maiO
+maiyano/maiyanO/maiyanau/maiano/maianO/maianau
+maiyo/maiyO/maiyau/maio/maiau/maiO
+Extracted 81 entries
+
+==================================================
+File: Noun_m.p
+Encoding: utf-8
+Sample content:
+Noun_m
+ladZikA
+ladZikA
+ladZikana
+ladZikA
+ladZikana
+rAjA
+rAjA
+rAjA
+rAjA
+Extracted 76 entries
+
+==================================================
+File: Noun_m_e.p
+Encoding: utf-8
+Sample content:
+Noun_m_e
+ladZikA
+ladZike/ladZikai/ladZikE
+ladZikane/ladZikanai/ladZikanE
+ladZike/ladZikai/ladZikE
+ladZikane/ladZikanai/ladZikanE
+rAjA
+rAje/rAjai/rAjE
+rAje/rAjai/rAjE
+rAje/rAjai/rAjE
+Extracted 76 entries
+
+==================================================
+File: Noun_m_e1.p
+Encoding: utf-8
+Sample content:
+Noun_m_e1
+ladZikA
+ladZiko/ladZikO/ladZikau
+ladZikano/ladZikanO/ladZikanau
+ladZiko/ladZikO/ladZikau
+ladZikanO/ladZikano/ladZikanau
+rAjA
+rAjo/rAjO/rAjau
+rAjo/rAjO/rAjau
+rAjo/rAjO/rAjau
+Extracted 76 entries
+
+==================================================
+File: Noun_m_rednt.p
+Encoding: utf-8
+Sample content:
+Noun_m_rednt
+ladZikavA
+ladZikavA
+ladZikavana
+ladZikavA
+ladZikavana
+gehuzvAz
+gehuzvAz/gehuMvAM/gehuzvAM/gehuMvAz/gehuzAz/gehuMAM/gehuzAM/gehuMAz
+gehuzvAz/gehuMvAM/gehuzvAM/gehuMvAz/gehuzAz/gehuMAM/gehuzAM/gehuMAz
+gehuzvAz/gehuMvAM/gehuzvAM/gehuMvAz/gehuzAz/gehuMAM/gehuzAM/gehuMAz
+Extracted 76 entries
+
+==================================================
+File: Noun_m_rednt_e.p
+Encoding: utf-8
+Sample content:
+Noun_m_rednt_e
+ladZikavA
+ladZikave/ladZikavai/ladZikavE
+ladZikavanai/ladZIkavane/ladZikavanE
+ladZikave/ladZikavai/ladZikavE
+ladZikavanai/ladZIkavane/ladZikavanE
+gehuzvAz
+gehuzvez/gehuMveM/gehuzveM/gehuMvez/gehuzvaiz/gehuMvaiM/gehuzvaiM/gehuMvaiz/gehuzvEz/gehuMvEM/gehuzvEM/gehuMvEz
+gehuzvez/gehuMveM/gehuzveM/gehuMvez/gehuzvaiz/gehuMvaiM/gehuzvaiM/gehuMvaiz/gehuzvEz/gehuMvEM/gehuzvEM/gehuMvEz
+gehuzvez/gehuMveM/gehuzveM/gehuMvez/gehuzvaiz/gehuMvaiM/gehuzvaiM/gehuMvaiz/gehuzvEz/gehuMvEM/gehuzvEM/geh...
+Extracted 76 entries
+
+==================================================
+File: Noun_m_rednt_e1.p
+Encoding: utf-8
+Sample content:
+Noun_m_rednt_e1
+ladZikavA
+ladZikavo/ladZikavO/ladZikavau
+ladZIkavano/ladZikavanO/ladZikavanau
+ladZikavo/ladZikavO/ladZikavau
+ladZIkavano/ladZikavanO/ladZikavanau
+gehuzvAz
+gehuzvoz/gehuMvoM/gehuzvoM/gehuMvoz/gehuzvauz/gehuMvauM/gehuzvauM/gehuMvauz/gehuzvOz/gehuMvOM/gehuzvOM/gehuMvOz
+gehuzvoz/gehuMvoM/gehuzvoM/gehuMvoz/gehuzvauz/gehuMvauM/gehuzvauM/gehuMvauz/gehuzvOz/gehuMvOM/gehuzvOM/gehuMvOz
+gehuzvoz/gehuMvoM/gehuzvoM/gehuMvoz/gehuzvauz/gehuMvauM/gehuzvauM/gehuMvauz/gehuzvOz/gehuMvOM/gehuzvOM/ge...
+Extracted 76 entries
+
+==================================================
+File: Noun_sh.p
+Encoding: utf-8
+Sample content:
+Noun_sh
+ka
+ka/keV/kaV
+ka/keV/kaV
+ka/keV/kaV
+ka/keV/kaV
+ka/keV/kaV
+ka/keV/kaV
+ka/keV/kaV
+ka/keV/kaV
+Extracted 28 entries
+
+==================================================
+File: Optative1_Aux_ha.p
+Encoding: utf-8
+Sample content:
+Optative1_Aux_ha
+ha
+WailA
+
+Extracted 3 entries
+
+==================================================
+File: Optative_Aux_ha.p
+Encoding: utf-8
+Sample content:
+Optative_Aux_ha
+ha
+hailA
+
+Extracted 3 entries
+
+==================================================
+File: optative_ilA.p
+Encoding: utf-8
+Sample content:
+optative_ilA
+KA
+KAilA
+KAilA/KAliM
+KAla/KAlAV/KAlaV
+KAla/KAlaM/KAlaz/KAliM/KAlEM
+KaVlA/KAlAV/KAlA
+KAlana
+KAilA
+KAilA/KAliM
+Extracted 131 entries
+
+==================================================
+File: Parsarg.p
+Encoding: utf-8
+Sample content:
+Parsarg
+aba
+aba
+
+Extracted 3 entries
+
+==================================================
+File: Post_ptn.p
+Encoding: utf-8
+Sample content:
+Post_ptn
+aba
+aba
+
+Extracted 3 entries
+
+==================================================
+File: Pres_Prog_Asp_Aux_A.p
+Encoding: utf-8
+Sample content:
+Pres_Prog_Asp_Aux_A
+wa
+wAni/wAnI/wAdZi/Wai
+wAni/wAnI/wAdZi/Wai
+wAdZaV/WavaV
+wAdZaV/wAni/wAnI/WavaV/WavazV
+wA/WaV
+wAne/wAdZe/Wauvana/Wavazna
+wAni/wAnI/wAdZi/Wai
+wAni/wAnI/wAdZi/Wai
+Extracted 14 entries
+
+==================================================
+File: Pres_Prog_Asp_e1_wa.p
+Encoding: utf-8
+Sample content:
+Pres_Prog_Asp_e1_wa
+KA
+KAwo/KawO/KAwau
+pI
+piyawo/piyawO/piyawau/piawo/piawO/piawau
+uTa
+uTawo/uTawO/uTawau
+kara
+karawo/karawO/karawau
+CU
+Extracted 21 entries
+
+==================================================
+File: Pres_Prog_Asp_e_wa.p
+Encoding: utf-8
+Sample content:
+Pres_Prog_Asp_e_wa
+KA
+KAwai/Kaiwai/KAwE/KEwe
+pI
+piyawai/piawai/piawe/piyawe/piawE/piyawE/pIyawai/pIawai/pIawe/pIyawe/pIawE/pIyawE
+uTa
+uTawai/uTewai/uTawE/uTewE
+kara
+karawai/karawE
+CU
+Extracted 21 entries
+
+==================================================
+File: Pres_Prog_Asp_wa.p
+Encoding: utf-8
+Sample content:
+Pres_Prog_Asp_wa
+KA
+KAwa
+pI
+piyawa/piawa
+uTa
+uTawa/uTewa
+kara
+karawa
+CU
+Extracted 21 entries
+
+==================================================
+File: Pres_Prtcpl_e1_wa1.p
+Encoding: utf-8
+Sample content:
+Pres_Prtcpl_e1_wa1
+KA
+KAwo/KawO/KAwau
+pI
+piyawo/piyawO/piyawau/piawo/piawO/piawau
+uTa
+uTawo/uTawO/uTawau
+kara
+karawo/karawO/karawau
+CU
+Extracted 21 entries
+
+==================================================
+File: Pres_Prtcpl_e_wa1.p
+Encoding: utf-8
+Sample content:
+Pres_Prtcpl_e_wa1
+KA
+KAwai/Kaiwai/KAwE/KEwe
+pI
+piyawai/piawai/piawe/piyawe/piawE/piyawE/pIyawai/pIawai/pIawe/pIyawe/pIawE/pIyawE
+uTa
+uTawai/uTewai/uTawE/uTewE
+kara
+karawai/karawE
+CU
+Extracted 21 entries
+
+==================================================
+File: Pres_Prtcpl_rdp_wai1.p
+Encoding: utf-8
+Sample content:
+Pres_Prtcpl_rdp_wai1
+KA
+KAwai/Kaiwai/KAwE/KEwe
+pI
+piyawai/piawai/piawe/piyawe/piawE/piyawE/pIyawai/pIawai/pIawe/pIyawe/pIawE/pIyawE
+uTa
+uTawai/uTewai/uTawE/uTewE
+kara
+karawai/karawE
+CU
+Extracted 21 entries
+
+==================================================
+File: Pres_Prtcpl_wa1.p
+Encoding: utf-8
+Sample content:
+Pres_Prtcpl_wa1
+KA
+KAwa
+pI
+piyawa/piawa
+uTa
+uTawa/uTewa
+kara
+karawa
+CU
+Extracted 21 entries
+
+==================================================
+File: Pro_a.p
+Encoding: utf-8
+Sample content:
+Pro_a
+u
+u/vo/o/oha
+-
+oke/okarAZWNJke/ohake/ohaZWNJke/voke/voZWNJke
+ose/okarAZWNJse/ohaZWNJse/ohase/vose/voZWNJse
+ommeM/omeM/ohameM/ohaZWNJmeM/okarAZWNJmeM
+opara/uppara/ohapara/ohaZWNJpe/ohape/okarAZWNJpara/okarAZWNJpe/upe
+una/ona/u/onahana/unahana/onhana/unhana/ohana
+-
+Extracted 79 entries
+
+==================================================
+File: Pro_a_e.p
+Encoding: utf-8
+Sample content:
+Pro_a_e
+u
+vohi/ohi/vohI/ohI/okare
+-
+ohike/ohIke/okaraiZWNJke/vohike/vohIke/vohiZWNJke/vohIZWNJke
+ohise/ohIse/okaraiZWNJse/vohise/vohIse/vohiZWNJse/vohIZWNJse
+ohimeM/ohImeM/okaraiZWNJmeM/vohimeM/vohImeM/vohiZWNJmeM/vohIZWNJmeM
+ohipara/ohIpara/okaraiZWNJpara/vohipara/vohIpara/vohiZWNJpara/vohIZWNJpara/ohipe/ohIpe/okaraiZWNJpe/vohipe/vohIpe/vohiZWNJpe/vohIZWNJpe
+unahi/unahI/onahi/onahI/onahanI/unahanI/onhanI/unhanI/ohanI
+-
+Extracted 53 entries
+
+==================================================
+File: Pro_a_e1.p
+Encoding: utf-8
+Sample content:
+Pro_a_e1
+u
+uho/vohU/vohu/ohU/ohu/okaro/okarO/okarau
+-
+ohuke/ohUke/ohUZWNJka/okarauZWNJke/okaroZWNJke/okarOZWNJke/vohuke/vohUke/vohuZWNJke/vohUZWNJke
+ohuse/ohUse/okarauZWNJse/okaroZWNJse/okarOZWNJse/vohuse/vohUse/vohuZWNJse/vohUZWNJse
+ohumeM/ohUmeM/okarauZWNJmeM/okaroZWNJmeM/okarOZWNJmeM/vohumeM/vohUmeM/vohuZWNJmeM/vohUZWNJmeM
+ohuZWNJpa/ohUZWNJpe/ohUZWNJpara/okaroZWNJpa/okaroZWNJpe/okaroZWNJpara/vohuZWNJpara/vohuZWNJpe/vohuZWNJpa/vohUZWNJpara/vohUZWNJpe/ohUZWNJpa/ohuZWNJpe/ohuZWNJpara
+unakaroZWNJ...
+Extracted 53 entries
+
+==================================================
+File: Pro_d_a.p
+Encoding: utf-8
+Sample content:
+Pro_d_a
+u
+u/U/o/vo
+u/U
+je
+je/javana
+je/javana
+kavana
+ke/kavana
+ke/kavana
+Extracted 16 entries
+
+==================================================
+File: Pro_d_a_e.p
+Encoding: utf-8
+Sample content:
+Pro_d_a_e
+u
+uhE/uhe/uhI/uhai/Uhai/UhI/ohi/ohI/ohai/vohi/vohI/vohai
+-
+i
+ihai/ihaMi/ihE/ehai/ehE/yehai/yehE/yehI/yehi/ehanI/ehani/yehani/yehanI/ihEM/ehaMi/ehEM/yehaMi/yehEM/yehIM/yehiM/ihEz/ehazi/ehEz/yehazi/yehEz/yehIz/yehiz
+-
+
+Extracted 7 entries
+
+==================================================
+File: Pro_d_a_e1.p
+Encoding: utf-8
+Sample content:
+Pro_d_a_e1
+u
+uho/uhO/uhau/ohu/ohU/vohu/vohU
+-
+i
+iho/ihO/ihau
+-
+
+Extracted 7 entries
+
+==================================================
+File: Pro_d_m.p
+Encoding: utf-8
+Sample content:
+Pro_d_m
+wU
+wU/wu/wuz/wuM/wUM/wUz/we
+wU/wu/wuz/wuM/wUM/wUz/wahana/wohana/Apa/wohani/wohanI/rauzvA/raUzvA/raurA/woiM/rauvA/raUvA/rauMvA/raUMvA
+
+Extracted 4 entries
+
+==================================================
+File: Pro_d_m_e.p
+Encoding: utf-8
+Sample content:
+Pro_d_m_e
+wU
+wUhe/wUzhe/wUMhe/wuhe/wuzhe/wuMhe
+wUhe/wUzhe/wUMhe/wuhe/wuzhe/wuMhe/wahane/wohane/wUhane/wuhane/wohaniye/wohanie/wohanIe/wohanIye/rauzve/raUzve/raure/rauve/raUve/rauMve/raUMve
+
+Extracted 4 entries
+
+==================================================
+File: Pro_d_m_e1.p
+Encoding: utf-8
+Sample content:
+Pro_d_m_e1
+wU
+wUho/wUzho/wUMho/wuho/wuzho/wuMho
+wUho/wUzho/wUMho/wuho/wuzho/wuMho/wahano/wohano/wUhano/wuhano/wohaniyo/wohanio/wohanIyo/wohanIo/rauzvo/raUzvo/rauro/rauvo/raUvo/rauMvo/raUMvo
+
+Extracted 4 entries
+
+==================================================
+File: Pro_d_u.p
+Encoding: utf-8
+Sample content:
+Pro_d_u
+hama
+hama
+hama/hammana/hamana/hamahana/hamahakana/hamani/hamanI
+
+Extracted 4 entries
+
+==================================================
+File: Pro_d_u_e.p
+Encoding: utf-8
+Sample content:
+Pro_d_u_e
+hama
+hamai/hammai/hamE/hamahIM/hamahI
+hamanE/hamahanE
+
+Extracted 4 entries
+
+==================================================
+File: Pro_d_u_e1.p
+Encoding: utf-8
+Sample content:
+Pro_d_u_e1
+hama
+hamU/hamu/hamahu/hamahU/hamahUz/hamahuz/hamo/hamO/hamau
+hamahano/hamahanO/hamahanau/hamano/hamanO/hamanau/hamaniyo/hamaniyO/hamaniyau/hamanio/hamaniO/hamaniau/hamhano/hamhanO/hamhanau
+
+Extracted 4 entries
+
+==================================================
+File: Pro_m.p
+Encoding: utf-8
+Sample content:
+Pro_m
+wU
+woharA/wo/woha/wahi/worA/waharA/wU
+-
+woharAke/woke/wohake/wahike/worAke/woharAZWNJke/woZWNJke/wohaZWNJke/wahiZWNJke/worAZWNJke/waharAZWNJke/waharAke
+woharAse/wose/wohase/wahise/worAse/woharAZWNJse/woZWNJse/wohaZWNJse/wahiZWNJse/worAZWNJse/waharAZWNJse/waharAse
+woharAmeM/womeM/wohameM/wahimeM/worAmeM/woharAZWNJmeM/woZWNJmeM/wohaZWNJmeM/wahiZWNJmeM/worAZWNJmeM/waharAZWNJmeM/waharAmeM
+woharApara/wopara/wohapara/wahipara/worApara/woharAZWNJpara/woZWNJpara/wohaZWNJpara/wahiZWNJpara/worAZWNJp...
+Extracted 14 entries
+
+==================================================
+File: Pro_m_e.p
+Encoding: utf-8
+Sample content:
+Pro_m_e
+wU
+worE/woharai/wohI/wohi/wohai/wahii/worai/wumahani/wumahanI/wuhi/wuhI/wUhi/wUhI/wuzhi/wuzhI/wUzhi/wUzhI/wuMhi/wuMhI/wUMhi/wUMhI
+-
+worEke/woharaike/wohIke/wohike/wohaike/wahiike/woraike/wumahanike/wumahanIke/wuhike/wuhIke/wUhike/wUhIke/wuzhike/wuzhIke/wUzhike/wUzhIke/wuMhike/wuMhIke/wUMhike/wUMhIke/worEZWNJke/woharaiZWNJke/wohIZWNJke/wohiZWNJke/wohaiZWNJke/wahiiZWNJke/woraiZWNJke/wumahaniZWNJke/wumahanIZWNJke/wuhiZWNJke/wuhIZWNJke/wUhiZWNJke/wUhIZWNJke/wuzhiZWNJke/wuzhIZWNJke/wUzhiZWNJk...
+Extracted 14 entries
+
+==================================================
+File: Pro_m_e1.p
+Encoding: utf-8
+Sample content:
+Pro_m_e1
+wU
+woro/worO/worau/woharo/woharO/woharau/wohu/wohau/wohU/wohUz/wohuz
+-
+woroke/woharoke/worauke/woharauke/woharOke/worOke/wohuke/wohUke/wohUzke/wohuzke
+worose/woharose/worause/woharause/woharOse/worOse/wohuse/wohUse/wohUzse/wohuzse
+woromeM/woharomeM/woraumeM/woharaumeM/woharOmeM/worOmeM/wohumeM/wohUmeM/wohUzmeM/wohuzmeM
+woropa/woharopa/woraupa/woharaupa/woharOpa/worOpa/wohupa/wohUpa/wohUzpa/wohuzpa/woropara/woharopara/woraupara/woharaupara/woharOpara/worOpara/wohupara/wohUpara/wohUzpara/...
+Extracted 14 entries
+
+==================================================
+File: Pro_o_a.p
+Encoding: utf-8
+Sample content:
+Pro_o_a
+saba
+-
+sabana/sabahana/saBahana
+
+Extracted 4 entries
+
+==================================================
+File: Pro_o_u.p
+Encoding: utf-8
+Sample content:
+Pro_o_u
+Apana
+-
+Apanana/apanana
+
+Extracted 4 entries
+
+==================================================
+File: Pro_self.p
+Encoding: utf-8
+Sample content:
+Pro_self
+wU
+Apa/rauzvA/raUzvA/raurA/rauvA/raUvA/rauMvA/raUMvA
+-
+Apake/rauzvAke/raUzvAke/raurAke/rauvAke/raUvAke/rauMvAke/raUMvAke/ApaZWNJke/rauzvAZWNJke/raUzvAZWNJke/raurAZWNJke/rauvAZWNJke/raUvAZWNJke/rauMvAZWNJke/raUMvAZWNJke
+Apase/rauzvAse/raUzvAse/raurAse/rauvAse/raUvAse/rauMvAse/raUMvAse/ApaZWNJse/rauzvAZWNJse/raUzvAZWNJse/raurAZWNJse/rauvAZWNJse/raUvAZWNJse/rauMvAZWNJse/raUMvAZWNJse
+ApameM/rauzvAmeM/raUzvAmeM/raurAmeM/rauvAmeM/raUvAmeM/rauMvAmeM/raUMvAmeM/ApaZWNJmeM/rauzvAZWNJmeM/raUzvAZWN...
+Extracted 8 entries
+
+==================================================
+File: Pro_self_e1_h.p
+Encoding: utf-8
+Sample content:
+Pro_self_e1_h
+wU
+rauvo/rauo/Apo/Apau/ApO/rauzvo/raUMvo/rauMvo/rauau/rauvau/rauO/rauzvO/raurau
+rauvo/rauo/Apo/Apau/ApO/rauzvo/raUMvo/rauMvo/rauau/rauvau/rauO/rauzvO/raurau
+
+Extracted 4 entries
+
+==================================================
+File: Pro_self_e_h.p
+Encoding: utf-8
+Sample content:
+Pro_self_e_h
+wU
+Apai/Apahi/rauzve/raUzve/raure/rauve/raUve/rauMve/raUMve/raurai
+Apai/Apahi/rauzve/raUzve/raure/rauve/raUve/rauMve/raUMve/raurai
+
+Extracted 4 entries
+
+==================================================
+File: Pro_self_h.p
+Encoding: utf-8
+Sample content:
+Pro_self_h
+wU
+Apa/rauzvA/raUzvA/raurA/rauvA/raUvA/rauMvA/raUMvA
+
+Extracted 3 entries
+
+==================================================
+File: Pro_spl_a.p
+Encoding: utf-8
+Sample content:
+Pro_spl_a
+saba
+sabana/saBana/sabahana/sabahiana/sabahiyana/saBahiana/saBahiyana
+
+Extracted 3 entries
+
+==================================================
+File: Pro_spl_a_e.p
+Encoding: utf-8
+Sample content:
+Pro_spl_a_e
+saba
+sabE/sabanai/saBanai/saBE/sabahanai/sabahiana/sabahiyana/saBahiana/saBahiyana
+
+Extracted 3 entries
+
+==================================================
+File: Pro_spl_a_e1.p
+Encoding: utf-8
+Sample content:
+Pro_spl_a_e1
+saba
+saBO/saBo/saBau/sabO/sabo/sabau/sabanO/sabano/sabanau/saBahano/saBahanO/saBahanau
+
+Extracted 3 entries
+
+==================================================
+File: Pro_u.p
+Encoding: utf-8
+Sample content:
+Pro_u
+hama
+hama/hamarA
+-
+hamake/hamarAZWNJke
+hamase/hamarAZWNJse
+hamameM/hamarAZWNJmeM
+hamapara/hamaZWNJpara/hamarAZWNJpara
+hama/hammana/hamana/hamahana/hamahakana/hamani/hamanI
+-
+Extracted 14 entries
+
+==================================================
+File: Pro_u_e.p
+Encoding: utf-8
+Sample content:
+Pro_u_e
+hama
+hamahi/hamahI/hamarai/hamArai
+-
+hamahike/hamahIke/hamaraike/hamahiZWNJke/hamahIZWNJke/hamaraiZWNJke
+hamahise/hamahIse/hamaraise/hamahiZWNJse/hamahIZWNJse/hamaraiZWNJse
+hamahimeM/hamahImeM/hamaraimeM/hamahiZWNJmeM/hamahIZWNJmeM/hamaraiZWNJmeM
+hamahipara/hamahIpara/hamaraipara/hamahiZWNJpara/hamahIZWNJpara/hamaraiZWNJpara/hamahipe/hamahIpe/hamaraipe/hamahiZWNJpe/hamahIZWNJpe/hamaraiZWNJpe
+hamana/hammanai/hamanai/hamahanai/hamahakanai/hamaniai/hamaniyai/hamanIai/hamanIyai
+-
+Extracted 14 entries
+
+==================================================
+File: Pro_u_e1.p
+Encoding: utf-8
+Sample content:
+Pro_u_e1
+hama
+hamaro/hamarO/hamarau/hamArau/hamaau/hamahuz/hamahUM/hamahuo/hamahuvo
+-
+hamaroke/hamarOke/hamarauke/hamaauke/hamahuzke/hamaroZWNJke/hamarOZWNJke/hamarauZWNJke/hamaauZWNJke/hamahuzZWNJke/hamahUMZWNJke/hamahuoZWNJke/hamahuvoZWNJke
+hamarose/hamarOse/hamarause/hamaause/hamahuzse/hamaroZWNJse/hamarOZWNJse/hamarauZWNJse/hamaauZWNJse/hamahuzZWNJse
+hamaromeM/hamarOmeM/hamaraumeM/hamaaumeM/hamahuzmeM/hamaroZWNJmeM/hamarOZWNJmeM/hamarauZWNJmeM/hamaauZWNJmeM/hamahuzZWNJmeM
+hamaropa/hamarOpa/h...
+Extracted 14 entries
+
+==================================================
+File: PstPerf_Minus_Aux_ila.p
+Encoding: utf-8
+Sample content:
+PstPerf_Minus_Aux_ila
+KA
+Kaili/KailI
+Kaili/KailI
+Kaila/Kayala/KailA
+Kaila/KailIM/KailiM/Kailana/KailA
+Kailesa/Kailasa/Kayalasa/Kayalesa
+Kailana/Kaina/KailaM/Kailaz/Kailena
+Kaili/KailI
+Kaili/KailI
+Extracted 131 entries
+
+==================================================
+File: PstPerf_Minus_Aux_ila1.p
+Encoding: utf-8
+Sample content:
+PstPerf_Minus_Aux_ila1
+jA
+gaili/gayali/gayalI
+gaili/gayali/gayalI
+gaila/gayala/gayalaV/gailA
+gaila/gailIM/gailiM/gailana/gayalana/gailA
+gailesa/gailasa/gayalasa/gayalesa/gayala/gaila
+gailana/gainaV/gailaM/gailaz/gailena/gayalana
+gaili/gailI
+gaili/gailI
+Extracted 14 entries
+
+==================================================
+File: PstPerf_Plus_Aux_e1_yale.p
+Encoding: utf-8
+Sample content:
+PstPerf_Plus_Aux_e1_yale
+KA
+KailahUM/KailahuM/KayalahUM/KayalahuM/KailahUz/Kailahuz/Kailo/KailO/Kailau
+kara
+kailahUM/kailahuM/kayalahUM/kayalahuM/kailahUz/kailahuz/kailo/kailO/kailau
+le
+lelahuM/lelahuz/lelahUM/lelahUz/lahalahUM/lahalahUz/lahalahuz/lehalahUz/lehalahuz/lihalahUz/lihalahuz/lehalo/lehalO/lehalau/lihalo/lihalO/lihalau
+xe
+xelahuM/xelahuz/xelahUM/xelahUz/xihalahUM/xihalahUz/xihalahuz/xehalahUz/xehalahuz/xehalo/xehalO/xehalau
+ho
+Extracted 21 entries
+
+==================================================
+File: PstPerf_Plus_Aux_e_yale.p
+Encoding: utf-8
+Sample content:
+PstPerf_Plus_Aux_e_yale
+KA
+Kayalahi/KailahI/Kailahi/KayalahI/KailE/KayalE
+kara
+kailahi/kailahI/kayalahi/kailE/kayalE
+le
+lelahi/lelahI/lehalahi/lahalahI/lihalahi/lihalahI
+xe
+xelahi/xelahI/xehalahi/xehalahI/xihalahi/xihalahI
+ho
+Extracted 21 entries
+
+==================================================
+File: PstPerf_Plus_Aux_yale.p
+Encoding: utf-8
+Sample content:
+PstPerf_Plus_Aux_yale
+KA
+Kayale/Kaile
+kara
+kaile/kayale
+le
+lele/lehale/lihale
+xe
+xele/xehale/xihale
+ho
+Extracted 21 entries
+
+==================================================
+File: PstPerf_Plus_Aux_yale1.p
+Encoding: utf-8
+Sample content:
+PstPerf_Plus_Aux_yale1
+jA
+gayala/gaila/gayalaV
+
+Extracted 3 entries
+
+==================================================
+File: Pst_Perf_Prtcpl_yala.p
+Encoding: utf-8
+Sample content:
+Pst_Perf_Prtcpl_yala
+KA
+KAyala/KAila
+pI
+piyala/piala/pIyala/pIala
+le
+lela/lehala/lihala/levala/leyala
+xe
+xela/xehala/xihala/xevala/xeyala
+kara
+Extracted 21 entries
+
+==================================================
+File: Pst_Perf_Prtcpl_yala1.p
+Encoding: utf-8
+Sample content:
+Pst_Perf_Prtcpl_yala1
+jA
+gayala/gaila/gayalaV
+
+Extracted 3 entries
+
+==================================================
+File: rahala.p
+Encoding: utf-8
+Sample content:
+rahala
+rahala
+rahali/rahalI/rahani/rahanI/rahaliM/rahalIM/rahaniM/rahanIM/rahazni/rahaznI/rahaMni/rahaMnI
+rahalina/rahalIna/rahani/rahali/rahalI/rahanI/rahaliM/rahalIM/rahaniM/rahanIM/rahazni/rahaznI/rahaMni/rahaMnI
+rahala/rahale/rahalA
+rahala/rahalana/rahalina/rahani/rahaliM/rahaMlina/rahaMni/rahazlina/rahazni/rahalA
+rahala/rahalasa
+rahalana/rahana
+rahali/rahani
+rahalu/rahalU/rahali
+Extracted 14 entries
+
+==================================================
+File: rahala_e.p
+Encoding: utf-8
+Sample content:
+rahala_e
+rahala
+rahaleha/rahalaiha
+
+Extracted 3 entries
+
+==================================================
+File: rahala_e1.p
+Encoding: utf-8
+Sample content:
+rahala_e1
+rahala
+rahaloha/rahalioha
+
+Extracted 3 entries
+
+==================================================
+File: RaRTI_a.p
+Encoding: utf-8
+Sample content:
+RaRTI_a
+u
+okara
+okara
+okara
+okara
+okara
+okara
+okara
+okara
+Extracted 86 entries
+
+==================================================
+File: RaRTI_a_e.p
+Encoding: utf-8
+Sample content:
+RaRTI_a_e
+u
+okarai/ohika/ohIka/okarE
+okarai/ohika/ohIka/okarE
+okarai/ohika/ohIka/okarE
+okarai/ohika/ohIka/okarE
+okarai/ohika/ohIka/okarE
+okarai/ohika/ohIka/okarE
+okarai/ohika/ohIka/okarE
+okarai/ohika/ohIka/okarE
+Extracted 86 entries
+
+==================================================
+File: RaRTI_a_e1.p
+Encoding: utf-8
+Sample content:
+RaRTI_a_e1
+u
+ohuka/okarau/okaro/okarO
+ohuka/okarau/okaro/okarO
+ohuka/okarau/okaro/okarO
+ohuka/okarau/okaro/okarO
+ohuka/okarau/okaro/okarO
+ohuka/okarau/okaro/okarO
+ohuka/okarau/okaro/okarO
+ohuka/okarau/okaro/okarO
+Extracted 86 entries
+
+==================================================
+File: RaRTI_m.p
+Encoding: utf-8
+Sample content:
+RaRTI_m
+wU
+wora/wohAra/wahAra
+wora/wohAra/wahAra
+wora/wohAra/wahAra
+wora/wohAra/wahAra
+wora/wohAra/wahAra
+wora/wohAra/wahAra
+wora/wohAra/wahAra
+wora/wohAra/wahAra
+Extracted 18 entries
+
+==================================================
+File: RaRTI_m_e.p
+Encoding: utf-8
+Sample content:
+RaRTI_m_e
+wU
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+worai/woharai/waharai/worahi/wohArahi/worahI/wohArahI
+Extracted 18 entries
+
+==================================================
+File: RaRTI_m_e1.p
+Encoding: utf-8
+Sample content:
+RaRTI_m_e1
+wU
+woro/woharo/waharo/worau
+woro/woharo/waharo/worau
+woro/woharo/waharo/worau
+woro/woharo/waharo/worau
+woro/woharo/waharo/worau
+woro/woharo/waharo/worau
+woro/woharo/waharo/worau
+woro/woharo/waharo/worau
+Extracted 18 entries
+
+==================================================
+File: RaRTI_self.p
+Encoding: utf-8
+Sample content:
+RaRTI_self
+wU
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apaka/rAuraka/rAuzra/rAUra/Apaika/ApEka/Apahika/ApahIka/ApakaV/rAura
+Apa...
+Extracted 10 entries
+
+==================================================
+File: RaRTI_u.p
+Encoding: utf-8
+Sample content:
+RaRTI_u
+hama
+hamAra/mora
+hamAra/mora
+hamAra/mora
+hamAra/mora
+hamAra/mora
+hamAra/mora
+hamAra/mora
+hamAra/mora
+Extracted 35 entries
+
+==================================================
+File: RaRTI_u_e.p
+Encoding: utf-8
+Sample content:
+RaRTI_u_e
+hama
+hamarai/hamahika/hamahIka/morai/hamarE
+hamarai/hamahika/hamahIka/morai/hamarE
+hamarai/hamahika/hamahIka/morai/hamarE
+hamarai/hamahika/hamahIka/morai/hamarE
+hamarai/hamahika/hamahIka/morai/hamarE
+hamarai/hamahika/hamahIka/morai/hamarE
+hamarai/hamahika/hamahIka/morai/hamarE
+hamarai/hamahika/hamahIka/morai/hamarE
+Extracted 35 entries
+
+==================================================
+File: RaRTI_u_e1.p
+Encoding: utf-8
+Sample content:
+RaRTI_u_e1
+hama
+hamaro/hamarau
+hamaro/hamarau
+hamaro/hamarau
+hamaro/hamarau
+hamaro/hamarau
+hamaro/hamarau
+hamaro/hamarau
+hamaro/hamarau
+Extracted 35 entries
+
+==================================================
+File: Root.p
+Encoding: utf-8
+Sample content:
+Root
+KA
+KA/KAi
+kara
+kara/kari/kai
+le
+le/lei
+xe
+xe/xei
+ho
+Extracted 25 entries
+
+==================================================
+File: subj.p
+Encoding: utf-8
+Sample content:
+subj
+KA
+KAiM/KAiz
+KailaV/KAva
+KAiM/KAiz/KAzya
+KAya
+KAiM/KAiz
+KA
+KAiM/KAiz/KAzya
+KAzya
+Extracted 118 entries

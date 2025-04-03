@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<alphabet>ॊऀँंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎॏॐ॒॑॓॔ॕॖॗक़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣॱॲॳॴॵॶॷॸॹॺॻॼॽॾ</alphabet>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+  	<sdef n="np"      c="Proper noun"/>
+	<sdef n="na"      c="Abstract noun"/>
+  	<sdef n="ant"     c="Anthroponym"/>
+  	<sdef n="al"     c="Altres"/>
+  	<sdef n="cog"     c="Cognomen"/>
+<!-- Other symbol definitions (sdefs) -->
+  </sdefs>
+
+ <pardefs>
+
+  <!-- SECTION: Punctuation -->
+    <pardef n="numeros">
+      <e>       <re>[0-9]+</re><p><l></l><r><s n="num"/></r></p></e>
+      <e>       <re>[०१२३४५६७८९]+([.,][०१२३४५६७८९]+)?</re><p><l/><r><s n="num"/></r></p></e>
+      <e>       <re>([५६७८९]|[१२३४५६७८९][०१२३४५६७८९]+)</re><p><l><b/>वाँ</l><r><s n="adj"/><s n="ord"/></r></p></e>
+      <e>       <re>[०१२३४५६७८९]+([.,][०१२३४५६७८९]+)?%</re><p><l></l><r><s n="num"/><s n="percent"/></r></p></e>
+    </pardef>
+
+    <pardef n="separa">
+      <e><re>[.\?;:!।॥]</re><p><l/><r><s n="sent"/></r></p></e>
+    </pardef>
+
+    <pardef n="guio">
+      <e><re>[—\-]+</re><p><l></l><r><s n="guio"/></r></p></e>
+    </pardef>
+
+    <pardef n="coma">
+      <e><re>,</re><p><l></l><r><s n="cm"/></r></p></e>
+    </pardef>
+
+    <pardef n="quotes">
+      <e><re>[«]+</re><p><l></l><r><s n="lquot"/></r></p></e>
+      <e><re>[»]+</re><p><l></l><r><s n="rquot"/></r></p></e>
+    </pardef>
+
+    <pardef n="paresq">
+      <e><re>[\(\[]</re><p><l></l><r><s n="lpar"/></r></p></e>
+    </pardef>
+
+    <pardef n="pardret">
+      <e><re>[\)\]]</re><p><l></l><r><s n="rpar"/></r></p></e>
+    </pardef>
+
+    <pardef n="__abbr">
+      <!-- etc -->
+      <e>     <p><l>इ</l><r>इ.<s n="abbr"/></r></p></e>
+      <e>     <p><l>इ.</l><r>इ.<s n="abbr"/></r></p></e>
+      <e>     <p><l>आदी</l><r>इ.<s n="abbr"/></r></p></e>
+
+      <!-- doctor -->
+      <e>     <p><l>डॉ</l><r>डॉ.<s n="abbr"/></r></p></e>
+      <e>     <p><l>डॉ.</l><r>डॉ.<s n="abbr"/></r></p></e>
+
+      <!-- km -->
+      <e>     <p><l>किमी</l><r>किमी.<s n="abbr"/></r></p></e>
+      <e>     <p><l>किमी.</l><r>किमी.<s n="abbr"/></r></p></e>
+
+      <!-- father -->
+      <e>     <p><l>फ्र</l><r>फ्र.<s n="abbr"/></r></p></e>
+      <e>     <p><l>फ्र.</l><r>फ्र.<s n="abbr"/></r></p></e>
+
+      <!-- rupee -->
+      <e>     <p><l>रु</l><r>रु.<s n="abbr"/></r></p></e>
+      <e>     <p><l>रु.</l><r>रु.<s n="abbr"/></r></p></e>
+
+      <!-- pH (wot) -->
+      <e>     <p><l>पीएच</l><r>पीएच.<s n="abbr"/></r></p></e>
+      <e>     <p><l>पीएच.</l><r>पीएच.<s n="abbr"/></r></p></e>
+
+      <!-- EESVI -->
+      <e>     <p><l>ई</l><r>ई.<s n="abbr"/></r></p></e>
+      <e>     <p><l>ई.</l><r>ई.<s n="abbr"/></r></p></e>
+
+      <!-- SHREEMAN -->
+      <e>     <p><l>श्री</l><r>श्री.<s n="abbr"/></r></p></e>
+      <e>     <p><l>श्री.</l><r>श्री.<s n="abbr"/></r></p></e>
+
+      <!-- EESAA PURVI -->
+      <e>     <p><l>ई<b/>पू</l><r>ई. पू.<s n="abbr"/></r></p></e>
+      <e>     <p><l>ई.<b/>पू</l><r>ई. पू.<s n="abbr"/></r></p></e>
+
+    </pardef>
+
+    <pardef n="__inj">
+      <e>     <p><l>ए</l><r>ए<s n="inj"/></r></p></e>
+      <e>     <p><l>शाबाश</l><r>शाबाश<s n="inj"/></r></p></e>
+      <e>     <p><l>धन्य</l><r>धन्य<s n="inj"/></r></p></e>
+      <e>     <p><l>रे</l><r>रे<s n="inj"/></r></p></e>
+      <e>     <p><l>ओ</l><r>ओ<s n="inj"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Postpositions -->
+
+    <!-- genitives -->
+    <pardef n="__gen_endings">
+        <e><p><l>का</l><r>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/></r></p></e>
+        <e><p><l>के</l><r>का<s n="post"/><s n="gen"/><s n="m"/><s n="pl"/></r></p></e>
+        <e><p><l>की</l><r>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/></r></p></e>
+        <e><p><l>की</l><r>का<s n="post"/><s n="gen"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+<!-- Other symbol definitions (sdefs) -->
+<!-- Some more symbol definitions (sdefs) below -->
+
+    <pardef n="खडा/ऊँ__n_m">
+      <e><p><l>ऊँ</l><r>ऊँ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+       <e><p><l>ऊँ</l><r>ऊँ<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+       <e><p><l>ऊँ</l><r>ऊँ<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+       <e><p><l>उँओं</l><r>ऊँ<s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+
+</pardefs>
+
+  <section id="main" type="standard">
+
+    <!-- SECTION: Postpositions -->
+
+  <e lm="शुपास में"><i>शुपास में</i><par n="ने__post"/></e>
+  <e lm="शुरुआत से अंत तक"><i>शुरुआत से अंत तक</i><par n="ने__post"/></e>
+  <e lm="चारो ओर"><i>चारो ओर</i><par n="ने__post"/></e>
+  <e lm="कईयों के बीच"><i>कईयों के बीच</i><par n="ने__post"/></e>
+  <e lm="के माध्यम से"><i>के माध्यम से</i><par n="ने__post"/></e>
+  <e lm="कुछ ही समय में"><i>कुछ ही समय में</i><par n="ने__post"/></e>
+  <e lm="दोनों के बिच में"><i>दोनों के बिच में</i><par n="ने__post"/></e>
+  <e lm="आंतरिक"><i>आंतरिक</i><par n="ने__post"/></e>
+  <e lm="होने के लिए"><i>होने के लिए</i><par n="ने__post"/></e>
+  <e lm="विपरीत"><i>विपरीत</i><par n="ने__post"/></e>
+   </section>
+   <section id="final" type="inconditional">
+    <e><par n="coma"/></e>
+    <e><par n="separa"/></e>
+    <e><par n="guio"/></e>
+    <e><par n="numeros"/></e>
+    <e><par n="paresq"/></e>
+    <e><par n="pardret"/></e>
+    <e><par n="quotes"/></e>
+   </section>
+
+</dictionary>

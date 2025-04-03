@@ -1,0 +1,7580 @@
+﻿[[Noun_m]]
+
+
+<fs af='XX,n,m,sg,3,d,0,0'>
+> घर
+>> घर
+
+
+<fs af='XX,n,m,pl,3,d,0,0'>
+> घर
+>> घर
+
+
+<fs af='XX,n,m,sg,3,o,0,0'>
+> घर
+>> घर
+
+
+<fs af='XX,n,m,pl,3,o,0,0'>
+> घर
+>> घरों
+
+
+[[Noun_m_e]]
+
+
+<fs af='XX,n,m,sg,3,d,0,0' emph='y'> 
+#Root will be substituted
+>घर
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घर_ही
+
+
+<fs af='XX,n,m,pl,3,d,0,0' emph='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घर_ही
+
+
+<fs af='XX,n,m,sg,3,o,0,0' emph='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घर_ही
+
+
+<fs af='XX,n,m,pl,3,o,0,0' emph='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घरों_ही
+
+
+[[Noun_m_e1]]
+
+
+<fs af='XX,n,m,sg,3,d,0,0' emph1='y'> 
+#Root will be substituted
+>घर
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घर_भी
+
+
+<fs af='XX,n,m,pl,3,d,0,0' emph1='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घर_भी
+
+
+<fs af='XX,n,m,sg,3,o,0,0' emph1='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घर_भी
+
+
+<fs af='XX,n,m,pl,3,o,0,0' emph1='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घरों_भी
+
+
+[[Noun_f]]
+
+
+<fs af='XX,n,f,sg,3,d,0,0'> 
+#Root will be substituted
+>रात
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>रात
+
+
+<fs af='XX,n,f,pl,3,d,0,0'>
+#Root will be substituted
+>रात
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>रातें
+
+
+<fs af='XX,n,f,sg,3,o,0,0'>
+#Root will be substituted
+>रात
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>रात
+
+
+<fs af='XX,n,f,pl,3,o,0,0'>
+#Root will be substituted
+>रात
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>रातों
+
+
+[[Noun_f_e]]
+
+
+<fs af='XX,n,f,sg,3,d,0,0' emph='y'> 
+#Root will be substituted
+>रात
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रात_ही
+
+
+<fs af='XX,n,f,pl,3,d,0,0' emph='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रातें_ही
+
+
+<fs af='XX,n,f,sg,3,o,0,0' emph='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रात_ही
+
+
+<fs af='XX,n,f,pl,3,o,0,0' emph='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out emph='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रातों_ही
+
+
+[[Noun_f_e1]]
+
+
+<fs af='XX,n,f,sg,3,d,0,0' emph1='y'> 
+#Root will be substituted
+>रात
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रात_भी
+
+
+<fs af='XX,n,f,pl,3,d,0,0' emph1='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रातें_भी
+
+
+<fs af='XX,n,f,sg,3,o,0,0' emph1='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रात_भी
+
+
+<fs af='XX,n,f,pl,3,o,0,0' emph1='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out emph1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value with underscore (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रातों_भी
+
+
+[[Noun_m_rednt]]
+
+
+<fs af='XX,n,m,sg,3,d,0,0'> 
+#Root will be substituted
+>घर
+#It can be be generated like normal noun
+>>घर
+
+
+<fs af='XX,n,m,pl,3,d,0,0'>
+#Root will be substituted
+>घर
+#It can be be generated like normal noun
+>>घर
+
+
+<fs af='XX,n,m,sg,3,o,0,0'>
+#Root will be substituted
+>घर
+#It can be be generated like normal noun
+>>घर
+
+
+<fs af='XX,n,m,pl,3,o,0,0'>
+#Root will be substituted
+>घर
+#It can be be generated like normal noun
+>>घरों
+
+
+[[Noun_m_rednt_e]]
+
+
+<fs af='XX,n,m,sg,3,d,0,0' rednt_e='y'> 
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घर_ही
+
+
+<fs af='XX,n,m,pl,3,d,0,0' rednt_e='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घर_ही
+
+
+<fs af='XX,n,m,sg,3,o,0,0' rednt_e='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घर_ही
+
+
+<fs af='XX,n,m,pl,3,o,0,0' rednt_e='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>घरों_ही
+
+
+[[Noun_m_rednt_e1]]
+
+
+<fs af='XX,n,m,sg,3,d,0,0' rednt_e1='y'> 
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घर_भी
+
+
+<fs af='XX,n,m,pl,3,d,0,0' rednt_e1='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घर_भी
+
+
+<fs af='XX,n,m,sg,3,o,0,0' rednt_e1='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घर_भी
+
+
+<fs af='XX,n,m,pl,3,o,0,0' rednt_e1='y'>
+#Root will be substituted
+>घर
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>घरों_भी
+
+
+[[Noun_f_rednt]]
+
+
+<fs af='XX,n,f,sg,3,d,0,0'> 
+#Root will be substituted
+>रात
+#It can be be generated like normal noun
+>>रात
+
+
+<fs af='XX,n,f,pl,3,d,0,0'>
+#Root will be substituted
+>रात
+#It can be be generated like normal noun
+>>रातें
+
+
+<fs af='XX,n,f,sg,3,o,0,0'>
+#Root will be substituted
+>रात
+#It can be be generated like normal noun
+>>रात
+
+
+<fs af='XX,n,f,pl,3,o,0,0'>
+#Root will be substituted
+>रात
+#It can be be generated like normal noun
+>>रातों
+
+
+[[Noun_f_rednt_e]]
+
+
+<fs af='XX,n,f,sg,3,d,0,0' rednt_e='y'> 
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रात_ही
+
+
+<fs af='XX,n,f,pl,3,d,0,0' rednt_e='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रातें_ही
+
+
+<fs af='XX,n,f,sg,3,o,0,0' rednt_e='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रात_ही
+
+
+<fs af='XX,n,f,pl,3,o,0,0' rednt='y' emph='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph=hI) to the generated noun word form in terms of final noun generation
+>>रातों_ही
+
+
+[[Noun_f_rednt_e1]]
+
+
+<fs af='XX,n,f,sg,3,d,0,0' rednt_e1='y'> 
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रात_भी
+
+
+<fs af='XX,n,f,pl,3,d,0,0' rednt_e1='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रातें_भी
+
+
+<fs af='XX,n,f,sg,3,o,0,0' rednt_e1='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रात_भी
+
+
+<fs af='XX,n,f,pl,3,o,0,0' rednt_e1='y'>
+#Root will be substituted
+>रात
+#Step1= Seperate out  rednt_e1='y'
+#Step2= Then generate remaning morph feature directly through Hindi Morph
+#Step3= Add emphatic value (i.e. emph1=BI) to the generated noun word form in terms of final noun generation
+>>रातों_भी
+
+
+[[Advrb]]
+
+
+<fs af='XX,adv,,,,,,'>
+#Root will be substituted
+>कल
+No need to generate
+>>कल
+
+
+[[Advrb_e]]
+
+
+<fs af='XX,adv,,,,,,' emph='y'>
+#Root will be substituted
+>कल
+#Add emphatic value (i.e. emph=hI) directly to the substuted Hindi Root with underscore
+>>कल_ही
+
+
+[[Advrb_e1]]
+
+
+<fs af='XX,adv,,,,,,' emph1='y'>
+#Root will be substituted
+>कल
+#Add emphatic value (i.e. emph1=BI) directly to the substuted Hindi Root with underscore
+>>कल_भी
+
+
+[[Conjunction/Interjection]]
+
+
+<fs af='XX,avy,,,,,,'>
+#Root will be substituted
+>और
+ #No need to generate
+>>और
+
+
+[[Post-position]]
+
+
+<fs af='XX,psp,,,,,,'>
+#Root will be substituted
+>को
+#No need to generate
+>>को
+
+
+[[Genitive-Postposition]]
+
+
+<fs af='XX,psp,m,sg,,d,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>का
+
+
+<fs af='XX,psp,m,sg,,o,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>के
+
+
+<fs af='XX,psp,m,pl,,d,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>के
+
+
+<fs af='XX,psp,m,pl,,o,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>के
+
+
+<fs af='XX,psp,f,sg,,d,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>की
+
+
+<fs af='XX,psp,f,sg,,o,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>की
+
+
+<fs af='XX,psp,f,pl,,d,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>की
+
+
+<fs af='XX,psp,f,pl,,o,kA,kA'>
+#Root and Suffix/TAM will be substituted
+>का
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>की
+
+
+[[Adj_all]]
+
+
+<fs af='XX,adj,any,any,,any,,'>
+#Root will be substituted
+>अमीर
+ #No need to generate
+>>अमीर
+
+
+[[Adj_all_e]]
+
+
+<fs af='XX,adj,any,any,,any,,' emph='y'>
+#Root will be substituted
+>अमीर
+#Step1= Seperate out emph='y'
+#Step2= Add emphatic value (i.e. emph=hI) directly to the substuted Hindi Root with underscore
+>>अमीर_ही
+
+
+[[Adj_all_e1]]
+
+
+<fs af='XX,adj,any,any,,any,,' emph1='y'>
+#Root will be substituted
+>अमीर
+#Step1= Seperate out  emph1='y'
+#Step2= Add emphatic value (i.e. emph1=BI) directly to the substuted Hindi Root with underscore
+>>अमीर_भी
+
+
+[[Adj_case]]
+
+
+<fs af='XX,adj,any,pl,,d,,'>
+#Root will be substituted
+>अनेक
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>अनेक
+
+
+<fs af='XX,adj,any,pl,,o,,'>
+#Root will be substituted
+>अनेक
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>अनेक
+
+
+[[Adj_case_e]]
+<fs af='XX,adj,any,pl,,d,,' emph='y'>
+#Root will be substituted
+>अनेक
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>अनेकों
+
+
+<fs af='XX,adj,any,pl,,o,,' emph='y'>
+#Root will be substituted
+>अनेक
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>अनेकों
+
+
+[[Adj_case_e1]]
+
+
+<fs af='XX,adj,any,pl,,d,,' emph1='y'>
+#Root will be substituted
+>अनेक
+#Step1= Change emph1='y' TO emph='y'
+#Step2= Then generate modified morph feature directly through Hindi Morph
+>>अनेकों
+
+
+<fs af='XX,adj,any,pl,,o,,' emph1='y'>
+#Root will be substituted
+>अनेक
+#Step1= Change emph1='y' TO emph='y'
+#Step2= Then generate modified morph feature directly through Hindi Morph
+>>अनेकों
+
+
+[[Adj_f_s]]
+
+
+<fs af='XX,adj,f,sg,,any,,'>
+#Root will be substituted
+>बालिका
+#No need to generate
+>>बालिका
+
+
+[[Adj_m_s]]
+
+
+<fs af='XX,adj,m,sg,,any,,'>
+#Root will be substituted
+>बालक
+ No need to generate
+>>बालक
+
+
+[[Adj_m_vAlA]]
+
+
+<fs af='XX,adj,m,any,,any,,'>
+#Root will be substituted
+>काला
+#Step 1= Change the feature from <fs af='XX,adj,m,any,,any,,'> TO <fs af='XX,adj,m,sg,,d,,'>
+#Step 2= Generate modified morph feature directly through inverted Hindi Morph
+>>काला
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,sg,,d,,'>
+>काला
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>काला
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,sg,,o,,'>
+>काला
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>काले
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,pl,,d,,'>
+>काला
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>काले
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,pl,,o,,'>
+>काला
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>काले
+
+
+[[Adj_m_e_vAlA]]
+
+
+<fs af='XX,adj,m,any,,any,,' emph='y'>
+#Root will be substituted
+>काला
+#Step 1= Change the feature from <fs af='XX,adj,m,any,,any,,' emph='y'> TO <fs af='XX,adj,m,sg,,d,,' emph='y'>
+#Step 2= Remove emph='y' from feature
+#Step 3= Generate remaining morph feature directly through inverted Hindi Morph
+>>काला
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,sg,,d,,' emph='y'>
+>काला
+#Step 1= Remove emph='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काले
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,sg,,o,,' emph='y'>
+>काला
+#Step 1= Remove emph='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काले
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,pl,,d,,' emph='y'>
+>काला
+#Step 1= Remove emph='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काले
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,pl,,o,,' emph='y'>
+>काला
+#Step 1= Remove emph='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काले
+
+
+[[Adj_m_e1_vAlA]]
+
+
+<fs af='XX,adj,m,any,,any,,' emph1='y'>
+#Root will be substituted
+>काला
+#Step 1= Change the feature from <fs af='XX,adj,m,any,,any,,' emph1='y'> TO <fs af='XX,adj,m,sg,,d,,' emph1='y'>
+#Step 2= Remove emph1='y' from feature
+#Step 3= Generate remaining morph feature directly through inverted Hindi Morph
+>>काला
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,sg,,d,,' emph1='y'>
+>काला
+#Step 1= Remove emph1='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काला
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,sg,,o,,' emph1='y'>
+>काला
+#Step 1= Remove emph1='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काले
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,pl,,d,,' emph1='y'>
+>काला
+#Step 1= Remove emph1='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काले
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,adj,m,pl,,o,,' emph1='y'>
+>काला
+#Step 1= Remove emph1='y' from feature
+#Step 2= Generate remaining morph feature directly through inverted Hindi Morph
+>>काले
+
+
+[[Adj_f_vAlI]]
+
+
+<fs af='XX,adj,f,any,,any,,'>
+#Root will be substituted
+>काली
+#No need to generate
+>>काली
+
+
+[[Adj_f_e_vAlI]]
+
+
+<fs af='XX,adj,f,any,,any,,' emph='y'>
+#Root will be substituted
+>काली
+#No need to generate
+>>काली
+
+
+[[Adj_f_e1_vAlI]]
+
+
+<fs af='XX,adj,f,any,,any,,' emph1='y'>
+#Root will be substituted
+>काली
+#No need to generate
+>>काली
+
+
+[[Pro_u]]
+
+
+<fs af='हम,pn,any,sg,1,o,0,0'>
+
+
+<fs af='मैं,pn,any,sg,1,o,0,0'>
+>>मुझ
+
+
+
+
+<fs af='हम,pn,any,sg,1,o,ko,ko'>
+
+
+<fs af='मैं,pn,any,sg,1,o,ko,ko'>
+>>मुझे|मुझको
+
+
+<fs af='हम,pn,any,sg,1,o,se,se'>
+
+
+<fs af='मैं,pn,any,sg,1,o,se,se'>
+>>मुझसे
+
+
+
+
+<fs af='हम,pn,any,sg,1,o,meM,meM'>
+
+
+<fs af='मैं,pn,any,sg,1,o,meM,meM'>
+>>मुझमें
+
+
+<fs af='हम,pn,any,sg,1,o,para,para'>
+
+
+<fs af='मैं,pn,any,sg,1,o,para,para'>
+>>मुझपर
+
+
+<fs af='हम,pn,any,pl,1,o,0,0'> 
+
+
+<fs af='मैं,pn,any,pl,1,o,0,0'> 
+>>हम
+
+
+<fs af='हम,pn,any,pl,1,o,ko,ko'>
+
+
+<fs af='मैं,pn,any,pl,1,o,ko,ko'>
+>>हमें|हमको
+
+
+<fs af='हम,pn,any,pl,1,o,se,se'>
+
+
+<fs af='मैं,pn,any,pl,1,o,se,se'>
+>>हमसे
+
+
+<fs af='हम,pn,any,pl,1,o,meM,meM'>
+
+
+<fs af='मैं,pn,any,pl,1,o,meM,meM'>
+>>हममें
+
+
+
+
+<fs af='हम,pn,any,pl,1,o,para,para'>
+
+
+<fs af='मैं,pn,any,pl,1,o,para,para'>
+
+
+>>हमपर
+
+
+[[Pro_u_e]]
+
+
+<fs af='हम,pn,any,sg,1,o,0,0' emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,0,0' emph='y'>
+>>मुझी|मुझ_ही
+
+
+<fs af='हम,pn,any,sg,1,o,ko,ko' emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,ko,ko' emph='y'>
+>>मुझीको|मुझ_ही_को
+
+
+<fs af='हम,pn,any,sg,1,o,se,se' emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,se,se' emph='y'>
+>>मुझीसे|मुझ_ही_से
+
+
+<fs af='हम,pn,any,sg,1,o,meM,meM' emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,meM,meM' emph='y'>
+>>मुझीमें|मुझ_ही_में
+
+
+<fs af='हम,pn,any,sg,1,o,para,para' emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,para,para' emph='y'>
+>>मुझीपर|मुझ_ही_पर
+
+
+<fs af='हम,pn,any,pl,1,o,0,0' emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,0,0' emph='y'>
+>>हमीं|हम_ही
+
+
+<fs af='हम,pn,any,pl,1,o,ko,ko' emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,ko,ko' emph='y'>
+>>हमींको|हम_ही_को
+
+
+<fs af='हम,pn,any,pl,1,o,se,se' emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,se,se' emph='y'>
+>>हमींसे|हम_ही_से
+
+
+<fs af='हम,pn,any,pl,1,o,meM,meM' emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,meM,meM' emph='y'>
+>>हमींमें|हम_ही_में
+
+
+<fs af='हम,pn,any,pl,1,o,para,para' emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,para,para' emph='y'>
+>>हमींपर|हम_ही_पर
+
+
+[[Pro_u_e1]]
+
+
+<fs af='हम,pn,any,sg,1,o,0,0' emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,0,0' emph1='y'>
+>>मुझ
+
+
+<fs af='हम,pn,any,sg,1,o,ko,ko' emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,ko,ko' emph1='y'>
+>>मुझको_भी
+
+
+<fs af='हम,pn,any,sg,1,o,se,se' emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,se,se' emph1='y'>
+>>मुझसे_भी
+
+
+<fs af='हम,pn,any,sg,1,o,meM,meM' emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,meM,meM' emph1='y'>
+>>मुझ_में_भी
+
+
+<fs af='हम,pn,any,sg,1,o,para,para' emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,para,para' emph1='y'>
+>>मुझ_पर_भी
+
+
+<fs af='हम,pn,any,pl,1,o,0,0' emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,0,0' emph1='y'>
+>>हम
+
+
+<fs af='हम,pn,any,pl,1,o,ko,ko' emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,ko,ko' emph1='y'>
+>>हमको_भी
+
+
+<fs af='हम,pn,any,pl,1,o,se,se' emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,se,se' emph1='y'>
+>>हमसे_भी
+
+
+<fs af='हम,pn,any,pl,1,o,meM,meM' emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,meM,meM' emph1='y'>
+>>हम_में_भी
+
+
+<fs af='हम,pn,any,pl,1,o,para,para' emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,para,para' emph1='y'>
+>>हम_पर_भी
+
+
+[[Pro_d_u]]
+
+
+<fs af='हम,pn,any,sg,1,d,0,0'>
+
+
+<fs af='मैं,pn,any,sg,1,d,0,0'>
+>>मैं
+
+
+<fs af='हम,pn,any,pl,1,d,0,0'>
+
+
+<fs af='मैं,pn,any,pl,1,d,0,0'>
+>>हम
+
+
+[[Pro_d_u_e]]
+
+
+<fs af='हम,pn,any,sg,1,d,0,0' emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,d,0,0' emph='y'>
+>>मैं_ही
+
+
+<fs af='हम,pn,any,pl,1,d,0,0' emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,d,0,0' emph='y'>
+>>हमीं|हम_ही
+
+
+[[Pro_d_u_e1]]
+
+
+<fs af='हम,pn,any,sg,1,d,0,0' emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,d,0,0' emph1='y'>
+>>मैं_भी
+
+
+
+
+<fs af='हम,pn,any,pl,1,d,0,0' emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,d,0,0' emph1='y'>
+>>हमीं|हम_भी
+
+
+[[Pro_o_u]]
+
+
+<fs af='आपन,pn,any,pl,1,o,0,0'>
+
+
+<fs af='अपना,pn,any,pl,1,o,0,0'>
+>>अपनों
+
+
+[[Pro_m]]
+
+
+<fs af='तू,pn,any,sg,2,o,0,0'>
+
+
+<fs af='तू,pn,any,sg,2,o,0,0'>
+>>तुझ
+
+
+<fs af='तू,pn,any,sg,2,o,ko,ko'>
+
+
+<fs af='तू,pn,any,sg,2,o,ko,ko'>
+>>तुझे|तुझको
+
+
+<fs af='तू,pn,any,sg,2,o,se,se'>
+
+
+<fs af='तू,pn,any,sg,2,o,se,se'>
+>>तुझसे
+
+
+<fs af='तू,pn,any,sg,2,o,meM,meM'>
+
+
+<fs af='तू,pn,any,sg,2,o,meM,meM'>
+>>तुझमें
+
+
+<fs af='तू,pn,any,sg,2,o,para,para'>
+
+
+<fs af='तू,pn,any,sg,2,o,para,para'>
+>>तुझपर
+
+
+<fs af='तू,pn,any,pl,2,o,0,0'>
+
+
+<fs af='तू,pn,any,pl,2,o,0,0'>
+>>तुम
+
+
+<fs af='तू,pn,any,pl,2,o,ko,ko'>
+
+
+<fs af='तू,pn,any,pl,2,o,ko,ko'>
+>>तुम्हें|तुमको
+
+
+<fs af='तू,pn,any,pl,2,o,se,se'>
+
+
+<fs af='तू,pn,any,pl,2,o,se,se'>
+>>तुमसे
+
+
+<fs af='तू,pn,any,pl,2,o,meM,meM'>
+
+
+<fs af='तू,pn,any,pl,2,o,meM,meM'>
+>>तुममें
+
+
+<fs af='तू,pn,any,pl,2,o,para,para'>
+
+
+<fs af='तू,pn,any,pl,2,o,para,para'>
+>>तुमपर
+
+
+[[Pro_m_e]]
+
+
+<fs af='तू,pn,any,sg,2,o,0,0' emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,0,0' emph='y'>
+>>तुझी|तुझ_ही
+
+
+<fs af='तू,pn,any,sg,2,o,ko,ko' emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,ko,ko' emph='y'>
+>>तुझीको|तुझ_ही_को
+
+
+<fs af='तू,pn,any,sg,2,o,se,se' emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,se,se' emph='y'>
+>>तुझीसे|तुझ_ही_से
+
+
+<fs af='तू,pn,any,sg,2,o,meM,meM' emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,meM,meM' emph='y'>
+>>तुझीमें|तुझ_ही_में
+
+
+<fs af='तू,pn,any,sg,2,o,para,para' emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,para,para' emph='y'>
+>>तुझीपर|तुझ_ही_पर
+
+
+<fs af='तू,pn,any,pl,2,o,0,0' emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,0,0' emph='y'>
+>>तुम्हीं|तुम_ही
+
+
+<fs af='तू,pn,any,pl,2,o,ko,ko' emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,ko,ko' emph='y'>
+>>तुम्हींको|तुम_ही_को
+
+
+<fs af='तू,pn,any,pl,2,o,se,se' emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,se,se' emph='y'>
+>>तुम्हींसे|तुम_ही_से
+
+
+<fs af='तू,pn,any,pl,2,o,meM,meM' emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,meM,meM' emph='y'>
+>>तुम्हींमें|तुम_ही_में
+
+
+<fs af='तू,pn,any,pl,2,o,para,para' emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,para,para' emph='y'>
+>>तुम्हींपर|तुम_ही_पर
+
+
+[[Pro_m_e1]]
+
+
+<fs af='तू,pn,any,sg,2,o,0,0' emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,0,0' emph1='y'>
+>>तुझ
+
+
+<fs af='तू,pn,any,sg,2,o,ko,ko' emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,ko,ko' emph1='y'>
+>>तुझको_भी
+
+
+<fs af='तू,pn,any,sg,2,o,se,se' emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,se,se' emph1='y'>
+>>तुझसे_भी
+
+
+<fs af='तू,pn,any,sg,2,o,meM,meM' emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,meM,meM' emph1='y'>
+>>तुझ_में_भी
+
+
+<fs af='तू,pn,any,sg,2,o,para,para' emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,para,para' emph1='y'>
+>>तुझ_पर_भी
+
+
+<fs af='तू,pn,any,pl,2,o,0,0' emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,0,0' emph1='y'>
+>>तुम
+
+
+<fs af='तू,pn,any,pl,2,o,ko,ko' emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,ko,ko' emph1='y'>
+>>तुमको_भी
+
+
+<fs af='तू,pn,any,pl,2,o,se,se' emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,se,se' emph1='y'>
+>>तुम_से_भी
+
+
+<fs af='तू,pn,any,pl,2,o,meM,meM' emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,meM,meM' emph1='y'>
+>>तुम_में_भी
+
+
+<fs af='तू,pn,any,pl,2,o,para,para' emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,para,para' emph1='y'>
+>>तुम_पर_भी
+
+
+[[Pro_d_m]]
+
+
+<fs af='तू,pn,any,sg,2,d,0,0'>
+
+
+<fs af='तू,pn,any,sg,2,d,0,0'>
+>>तू
+
+
+<fs af='तू,pn,any,pl,2,d,0,0'>
+
+
+<fs af='तू,pn,any,pl,2,d,0,0'>
+>>तुम
+
+
+[[Pro_d_m_e]]
+
+
+<fs af='तू,pn,any,sg,2,d,0,0' emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,d,0,0' emph='y'>
+>>तू_ही
+
+
+<fs af='तू,pn,any,pl,2,d,0,0' emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,d,0,0' emph='y'>
+>>तुम्ही|तुम_ही
+
+
+[[Pro_d_m_e1]]
+
+
+<fs af='तू,pn,any,sg,2,d,0,0' emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,d,0,0' emph1='y'>
+>>तू_भी
+
+
+<fs af='तू,pn,any,pl,2,d,0,0' emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,d,0,0' emph1='y'>
+>>तुम_भी
+
+
+[[Pro_a]]
+
+
+<fs af='उ,pn,any,sg,3,o,0,0'>
+
+
+<fs af='वह,pn,any,sg,3,o,0,0'>
+>>उस
+
+
+<fs af='उ,pn,any,sg,3,o,ko,ko'>
+
+
+<fs af='वह,pn,any,sg,3,o,ko,ko'>
+>>उसको|उसे
+
+
+<fs af='उ,pn,any,sg,3,o,se,se'>
+
+
+<fs af='वह,pn,any,sg,3,o,se,se'>
+>>उससे
+
+
+<fs af='उ,pn,any,sg,3,o,meM,meM'>
+
+
+<fs af='वह,pn,any,sg,3,o,meM,meM'>
+>>उसमें
+
+
+<fs af='उ,pn,any,sg,3,o,para,para'>
+
+
+<fs af='वह,pn,any,sg,3,o,para,para'>
+>>उसपर
+
+
+<fs af='उ,pn,any,pl,3,o,0,0'>
+
+
+<fs af='वह,pn,any,pl,3,o,0,0'>
+>>उन
+
+
+<fs af='उ,pn,any,pl,3,o,ko,ko'>
+
+
+<fs af='वह,pn,any,pl,3,o,ko,ko'>
+>>उन्हें|उनको
+
+
+<fs af='उ,pn,any,pl,3,o,se,se'>
+
+
+<fs af='वह,pn,any,pl,3,o,se,se'>
+>>उनसे
+
+
+<fs af='उ,pn,any,pl,3,o,meM,meM'>
+
+
+<fs af='वह,pn,any,pl,3,o,meM,meM'>
+>>उनमें
+
+
+<fs af='उ,pn,any,pl,3,o,para,para'>
+
+
+<fs af='वह,pn,any,pl,3,o,para,para'>
+>>उनपर
+
+
+<fs af='इ,pn,any,sg,3,o,0,0'>
+
+
+<fs af='यह,pn,any,sg,3,o,0,0'>
+>>इस
+
+
+<fs af='इ,pn,any,sg,3,o,ko,ko'>
+
+
+<fs af='यह,pn,any,sg,3,o,ko,ko'>
+>>इसे|इसको
+
+
+<fs af='इ,pn,any,sg,3,o,se,se'>
+
+
+<fs af='यह,pn,any,sg,3,o,se,se'>
+>>इससे
+
+
+<fs af='इ,pn,any,sg,3,o,meM,meM'>
+
+
+<fs af='यह,pn,any,sg,3,o,meM,meM'>
+>>इसमें
+
+
+<fs af='इ,pn,any,sg,3,o,para,para'>
+
+
+<fs af='यह,pn,any,sg,3,o,para,para'>
+>>इसपर
+
+
+<fs af='इ,pn,any,pl,3,o,0,0'>
+
+
+<fs af='यह,pn,any,pl,3,o,0,0'>
+>>इन
+
+
+<fs af='इ,pn,any,pl,3,o,ko,ko'>
+
+
+<fs af='यह,pn,any,pl,3,o,ko,ko'>
+>>इन्हें|इनको
+
+
+<fs af='इ,pn,any,pl,3,o,se,se'>
+
+
+<fs af='यह,pn,any,pl,3,o,se,se'>
+>>इनसे
+
+
+<fs af='इ,pn,any,pl,3,o,meM,meM'>
+
+
+<fs af='यह,pn,any,pl,3,o,meM,meM'>
+>>इनमें
+
+
+<fs af='इ,pn,any,pl,3,o,para,para'>
+
+
+<fs af='यह,pn,any,pl,3,o,para,para'>
+>>इनपर
+
+
+<fs af='जे,pn,any,sg,3,o,0,0'>
+
+
+<fs af='जो,pn,any,sg,3,o,0,0'>
+>>जिस
+
+
+<fs af='जे,pn,any,sg,3,o,ko,ko'>
+
+
+<fs af='जो,pn,any,sg,3,o,ko,ko'>
+>>जिसे|जिसको
+
+
+<fs af='जे,pn,any,sg,3,o,se,se'>
+
+
+<fs af='जो,pn,any,sg,3,o,se,se'>
+>>जिससे
+
+
+<fs af='जे,pn,any,sg,3,o,meM,meM'>
+
+
+<fs af='जो,pn,any,sg,3,o,meM,meM'>
+>>जिसमें
+
+
+<fs af='जे,pn,any,sg,3,o,para,para'>
+
+
+<fs af='जो,pn,any,sg,3,o,para,para'>
+>>जिसपर
+
+
+<fs af='जे,pn,any,pl,3,o,0,0'>
+
+
+<fs af='जो,pn,any,pl,3,o,0,0'>
+>>जिन
+
+
+<fs af='जे,pn,any,pl,3,o,ko,ko'>
+
+
+<fs af='जो,pn,any,pl,3,o,ko,ko'>
+>>जिन्हें|जिनको
+
+
+<fs af='जे,pn,any,pl,3,o,se,se'>
+
+
+<fs af='जो,pn,any,pl,3,o,se,se'>
+>>जिनसे
+
+
+<fs af='जे,pn,any,pl,3,o,meM,meM'>
+
+
+<fs af='जो,pn,any,pl,3,o,meM,meM'>
+>>जिनमें
+
+
+<fs af='जे,pn,any,pl,3,o,para,para'>
+
+
+<fs af='जो,pn,any,pl,3,o,para,para'>
+>>जिनपर
+
+
+<fs af='कवन,pn,any,sg,3,o,0,0'>
+
+
+<fs af='कौन,pn,any,sg,3,o,0,0'>
+>>किस
+
+
+<fs af='कवन,pn,any,sg,3,o,ko,ko'>
+
+
+<fs af='कौन,pn,any,sg,3,o,ko,ko'>
+>>किसे|किसको
+
+
+<fs af='कवन,pn,any,sg,3,o,se,se'>
+
+
+<fs af='कौन,pn,any,sg,3,o,se,se'>
+>>किससे
+
+
+<fs af='कवन,pn,any,sg,3,o,meM,meM'>
+
+
+<fs af='कौन,pn,any,sg,3,o,meM,meM'>
+>>किसमें
+
+
+<fs af='कवन,pn,any,sg,3,o,para,para'>
+
+
+<fs af='कौन,pn,any,sg,3,o,para,para'>
+>>किसपर
+
+
+<fs af='कवन,pn,any,pl,3,o,0,0'>
+
+
+<fs af='कौन,pn,any,pl,3,o,0,0'>
+>>किन
+
+
+<fs af='कवन,pn,any,pl,3,o,ko,ko'>
+
+
+<fs af='कौन,pn,any,pl,3,o,ko,ko'>
+>>किन्हें|किनको
+
+
+<fs af='कवन,pn,any,pl,3,o,se,se'>
+
+
+<fs af='कौन,pn,any,pl,3,o,se,se'>
+>>किनसे
+
+
+<fs af='कवन,pn,any,pl,3,o,meM,meM'>
+
+
+<fs af='कौन,pn,any,pl,3,o,meM,meM'>
+>>किनमें
+
+
+<fs af='कवन,pn,any,pl,3,o,para,para'>
+
+
+<fs af='कौन,pn,any,pl,3,o,para,para'>
+>>किनपर
+
+
+<fs af='केहु,pn,any,sg,3,o,0,0'>
+
+
+<fs af='कोई,pn,any,sg,3,o,0,0'>
+>>किसी
+
+
+<fs af='केहु,pn,any,sg,3,o,ko,ko'>
+
+
+<fs af='कोई,pn,any,sg,3,o,ko,ko'>
+>>किसी_को
+
+
+<fs af='केहु,pn,any,sg,3,o,se,se'>
+
+
+<fs af='कोई,pn,any,sg,3,o,se,se'>
+>>किसी_से
+
+
+<fs af='केहु,pn,any,sg,3,o,meM,meM'>
+
+
+<fs af='कोई,pn,any,sg,3,o,meM,meM'>
+>>किसी_में
+
+
+<fs af='केहु,pn,any,sg,3,o,para,para'>
+
+
+<fs af='कोई,pn,any,sg,3,o,para,para'>
+>>किसी_पर
+
+
+<fs af='केहु,pn,any,pl,3,o,0,0'>
+
+
+<fs af='कोई,pn,any,pl,3,o,0,0'>
+>>किन्हीं
+
+
+<fs af='केहु,pn,any,pl,3,o,ko,ko'>
+
+
+<fs af='कोई,pn,any,pl,3,o,ko,ko'>
+>>किन्हीं_को
+
+
+<fs af='केहु,pn,any,pl,3,o,se,se'>
+
+
+<fs af='कोई,pn,any,pl,3,o,se,se'>
+>>किन्ही_से
+
+
+<fs af='केहु,pn,any,pl,3,o,meM,meM'>
+
+
+<fs af='कोई,pn,any,pl,3,o,meM,meM'>
+>>किन्हीं_में
+
+
+<fs af='केहु,pn,any,pl,3,o,para,para'>
+
+
+<fs af='कोई,pn,any,pl,3,o,para,para'>
+>>किन्हीं_पर
+
+
+<fs af='सब,pn,any,pl,3,o,ko,ko'>
+
+
+<fs af='सब,pn,any,pl,3,o,ko,ko'>
+>>सबको
+
+
+<fs af='सब,pn,any,pl,3,o,se,se'>
+
+
+<fs af='सब,pn,any,pl,3,o,se,se'>
+>>सबसे
+
+
+<fs af='सब,pn,any,pl,3,o,meM,meM'>
+
+
+<fs af='सब,pn,any,pl,3,o,meM,meM'>
+>>सबमें
+
+
+<fs af='सब,pn,any,pl,3,o,para,para'>
+
+
+<fs af='सब,pn,any,pl,3,o,para,para'>
+>>सबपर
+
+
+[[Pro_a_e]]
+
+
+<fs af='उ,pn,any,sg,3,o,0,0' emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,0,0' emph='y'>
+>>उसी
+
+
+<fs af='उ,pn,any,sg,3,o,ko,ko' emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,ko,ko' emph='y'>
+>>उसीको|उसे_ही
+
+
+<fs af='उ,pn,any,sg,3,o,se,se' emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,se,se' emph='y'>
+>>उसीसे
+
+
+<fs af='उ,pn,any,sg,3,o,meM,meM' emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,meM,meM' emph='y'>
+>>उसीमें
+
+
+<fs af='उ,pn,any,sg,3,o,para,para' emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,para,para' emph='y'>
+>>उसीपर
+
+
+<fs af='उ,pn,any,pl,3,o,0,0' emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,0,0' emph='y'>
+>>उन्हीं
+
+
+<fs af='उ,pn,any,pl,3,o,ko,ko' emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,ko,ko' emph='y'>
+>>उन्हें_ही|उन्हीं_को
+
+
+<fs af='उ,pn,any,pl,3,o,se,se' emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,se,se' emph='y'>
+>>उन्हीं_से
+
+
+<fs af='उ,pn,any,pl,3,o,meM,meM' emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,meM,meM' emph='y'>
+>>उन्हीं_में
+
+
+<fs af='उ,pn,any,pl,3,o,para,para' emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,para,para' emph='y'>
+>>उन्हीं_पर
+
+
+<fs af='इ,pn,any,sg,3,o,0,0' emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,0,0' emph='y'>
+>>इसी
+
+
+<fs af='इ,pn,any,sg,3,o,ko,ko' emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,ko,ko' emph='y'>
+>>इसे_ही|इसी_को
+
+
+<fs af='इ,pn,any,sg,3,o,se,se' emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,se,se' emph='y'>
+>>इसी_से
+
+
+<fs af='इ,pn,any,sg,3,o,meM,meM' emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,meM,meM' emph='y'>
+>>इसी_में
+
+
+<fs af='इ,pn,any,sg,3,o,para,para' emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,para,para' emph='y'>
+>>इसी_पर
+
+
+<fs af='इ,pn,any,pl,3,o,0,0' emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,0,0' emph='y'>
+>>इन्हीं
+
+
+<fs af='इ,pn,any,pl,3,o,ko,ko' emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,ko,ko' emph='y'>
+>>इन्हें_ही|इन्हीं_को
+
+
+<fs af='इ,pn,any,pl,3,o,se,se' emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,se,se' emph='y'>
+>>इन्हीं_से
+
+
+<fs af='इ,pn,any,pl,3,o,meM,meM' emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,meM,meM' emph='y'>
+>>इन्हीं_में
+
+
+<fs af='इ,pn,any,pl,3,o,para,para' emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,para,para' emph='y'>
+>>इन्हीं_पर
+
+
+<fs af='जे,pn,any,sg,3,o,0,0' emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,0,0' emph='y'>
+>>जिसी|जिस_ही
+
+
+<fs af='जे,pn,any,sg,3,o,ko,ko' emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,ko,ko' emph='y'>
+>>जिसे_ही|जिसको_ही
+
+
+<fs af='जे,pn,any,sg,3,o,se,se' emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,se,se' emph='y'>
+>>जिससे_ही|जिसी_से_ही
+
+
+<fs af='जे,pn,any,sg,3,o,meM,meM' emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,meM,meM' emph='y'>
+>>जिसमें_ही
+
+
+<fs af='जे,pn,any,sg,3,o,para,para' emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,para,para' emph='y'>
+>>जिसपर_ही
+
+
+<fs af='जे,pn,any,pl,3,o,0,0' emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,0,0' emph='y'>
+>>जिन्हीं
+
+
+<fs af='जे,pn,any,pl,3,o,ko,ko' emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,ko,ko' emph='y'>
+>>जिन्हें_ही|जिनको_ही
+
+
+<fs af='जे,pn,any,pl,3,o,se,se' emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,se,se' emph='y'>
+>>जिनसे_ही
+
+
+<fs af='जे,pn,any,pl,3,o,meM,meM' emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,meM,meM' emph='y'>
+>>जिनमें_ही
+
+
+<fs af='जे,pn,any,pl,3,o,para,para' emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,para,para' emph='y'>
+>>जिनपर_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,0,0' emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,0,0' emph='y'>
+>>किसी
+
+
+<fs af='कवन,pn,any,sg,3,o,ko,ko' emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,ko,ko' emph='y'>
+>>किस_ही|किसको_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,se,se' emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,se,se' emph='y'>
+>>किससे_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,meM,meM' emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,meM,meM' emph='y'>
+>>किसमें_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,para,para' emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,para,para' emph='y'>
+>>किसपर_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,0,0' emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,0,0' emph='y'>
+>>किन्हीं
+
+
+<fs af='कवन,pn,any,pl,3,o,ko,ko' emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,ko,ko' emph='y'>
+>>किन्हें_ही|किनको_ही|किन्हीं_को
+
+
+<fs af='कवन,pn,any,pl,3,o,se,se' emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,se,se' emph='y'>
+>>किनसे_ही|किन्हीं_से
+
+
+<fs af='कवन,pn,any,pl,3,o,meM,meM' emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,meM,meM' emph='y'>
+>>किनमें_ही|किन्हीं_में
+
+
+<fs af='कवन,pn,any,pl,3,o,para,para' emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,para,para' emph='y'>
+>>किनपर_ही|किन्हीं_पर
+
+
+<fs af='केहु,pn,any,sg,3,o,0,0' emph='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,0,0' emph='y'>
+>>किसी
+
+
+<fs af='केहु,pn,any,sg,3,o,ko,ko' emph='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,ko,ko' emph='y'>
+>>किसी_को_ही
+
+
+<fs af='केहु,pn,any,sg,3,o,se,se' emph='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,se,se' emph='y'>
+>>किसी_से_ही
+
+
+<fs af='केहु,pn,any,sg,3,o,meM,meM' emph='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,meM,meM' emph='y'>
+>>किसी_में_ही
+
+
+<fs af='केहु,pn,any,sg,3,o,para,para' emph='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,para,para' emph='y'>
+>>किसी_पर_ही
+
+
+<fs af='केहु,pn,any,pl,3,o,0,0' emph='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,0,0' emph='y'>
+>>किन्हीं
+
+
+<fs af='केहु,pn,any,pl,3,o,ko,ko' emph='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,ko,ko' emph='y'>
+>>किन्हीं_को_ही
+
+
+<fs af='केहु,pn,any,pl,3,o,se,se' emph='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,se,se' emph='y'>
+>>किन्ही_से_ही
+
+
+<fs af='केहु,pn,any,pl,3,o,meM,meM' emph='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,meM,meM' emph='y'>
+>>किन्हीं_में_ही
+
+
+<fs af='केहु,pn,any,pl,3,o,para,para' emph='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,para,para' emph='y'>
+>>किन्हीं_पर_ही
+
+
+<fs af='सब,pn,any,pl,3,o,ko,ko' emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,ko,ko' emph='y'>
+>>सबको_ही
+
+
+<fs af='सब,pn,any,pl,3,o,se,se' emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,se,se' emph='y'>
+>>सबसे_ही
+
+
+<fs af='सब,pn,any,pl,3,o,meM,meM' emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,meM,meM' emph='y'>
+>>सबमें_ही
+
+
+<fs af='सब,pn,any,pl,3,o,para,para' emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,para,para' emph='y'>
+>>सबपर_ही
+
+
+[[Pro_a_e1]]
+
+
+<fs af='उ,pn,any,sg,3,o,0,0' emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,0,0' emph1='y'>
+>>उस
+
+
+<fs af='उ,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,ko,ko' emph1='y'>
+>>उसको_भी|उसे_भी
+
+
+<fs af='उ,pn,any,sg,3,o,se,se' emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,se,se' emph1='y'>
+>>उससे_भी
+
+
+<fs af='उ,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,meM,meM' emph1='y'>
+>>उसमें_भी
+
+
+<fs af='उ,pn,any,sg,3,o,para,para' emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,para,para' emph1='y'>
+>>उसपर_भी
+
+
+<fs af='उ,pn,any,pl,3,o,0,0' emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,0,0' emph1='y'>
+>>उन
+
+
+<fs af='उ,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,ko,ko' emph1='y'>
+>>उन्हें_भी|उनको_भी
+
+
+<fs af='उ,pn,any,pl,3,o,se,se' emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,se,se' emph1='y'>
+>>उनसे_भी
+
+
+<fs af='उ,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,meM,meM' emph1='y'>
+>>उनमें_भी
+
+
+<fs af='उ,pn,any,pl,3,o,para,para' emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,para,para' emph1='y'>
+>>उनपर_भी
+
+
+<fs af='इ,pn,any,sg,3,o,0,0' emph1='y'>
+<fs af='यह,pn,any,sg,3,o,0,0' emph1='y'>
+>>इस
+
+
+<fs af='इ,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,ko,ko' emph1='y'>
+>>इसे_भी|इसको_भी
+
+
+<fs af='इ,pn,any,sg,3,o,se,se' emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,se,se' emph1='y'>
+>>इससे_भी
+
+
+<fs af='इ,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,meM,meM' emph1='y'>
+>>इसमें_भी
+
+
+<fs af='इ,pn,any,sg,3,o,para,para' emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,para,para' emph1='y'>
+>>इसपर_भी
+
+
+<fs af='इ,pn,any,pl,3,o,0,0' emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,0,0' emph1='y'>
+>>इन
+
+
+<fs af='इ,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,ko,ko' emph1='y'>
+>>इन्हें_भी|इनको_भी
+
+
+<fs af='इ,pn,any,pl,3,o,se,se' emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,se,se' emph1='y'>
+>>इनसे_भी
+
+
+<fs af='इ,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,meM,meM' emph1='y'>
+>>इनमें_भी
+
+
+<fs af='इ,pn,any,pl,3,o,para,para' emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,para,para' emph1='y'>
+>>इनपर_भी
+
+
+<fs af='जे,pn,any,sg,3,o,0,0' emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,0,0' emph1='y'>
+>>जिस
+
+
+<fs af='जे,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,ko,ko' emph1='y'>
+>>जिसे_भी|जिसको_भी
+
+
+<fs af='जे,pn,any,sg,3,o,se,se' emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,se,se' emph1='y'>
+>>जिससे_भी
+
+
+<fs af='जे,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,meM,meM' emph1='y'>
+>>जिसमें_भी
+
+
+<fs af='जे,pn,any,sg,3,o,para,para' emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,para,para' emph1='y'>
+>>जिसपर_भी
+
+
+<fs af='जे,pn,any,pl,3,o,0,0' emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,0,0' emph1='y'>
+>>जिन
+
+
+<fs af='जे,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,ko,ko' emph1='y'>
+>>जिन्हें_भी|जिनको_भी
+
+
+<fs af='जे,pn,any,pl,3,o,se,se' emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,se,se' emph1='y'>
+>>जिनसे_भी
+
+
+<fs af='जे,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,meM,meM' emph1='y'>
+>>जिनमें_भी
+
+
+<fs af='जे,pn,any,pl,3,o,para,para' emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,para,para' emph1='y'>
+>>जिनपर_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,0,0' emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,0,0' emph1='y'>
+>>किस
+
+
+<fs af='कवन,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,ko,ko' emph1='y'>
+>>किसे_भी|किसको_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,se,se' emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,se,se' emph1='y'>
+>>किससे_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,meM,meM' emph1='y'>
+>>किसमें_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,para,para' emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,para,para' emph1='y'>
+>>किसपर_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,0,0' emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,0,0' emph1='y'>
+>>किन
+
+
+<fs af='कवन,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,ko,ko' emph1='y'>
+>>किन्हें_भी|किनको_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,se,se' emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,se,se' emph1='y'>
+>>किनसे_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,meM,meM' emph1='y'>
+>>किनमें_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,para,para' emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,para,para' emph1='y'>
+>>किनपर_भी
+
+
+<fs af='केहु,pn,any,sg,3,o,0,0' emph1='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,0,0' emph1='y'>
+>>किसी
+
+
+<fs af='केहु,pn,any,sg,3,o,ko,ko' emph1='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,ko,ko' emph1='y'>
+>>किसी_को_भी
+
+
+<fs af='केहु,pn,any,sg,3,o,se,se' emph1='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,se,se' emph1='y'>
+>>किसी_से_भी
+
+
+<fs af='केहु,pn,any,sg,3,o,meM,meM' emph1='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,meM,meM' emph1='y'>
+>>किसी_में_भी
+
+
+<fs af='केहु,pn,any,sg,3,o,para,para' emph1='y'>
+
+
+<fs af='कोई,pn,any,sg,3,o,para,para' emph1='y'>
+>>किसी_पर_भी
+
+
+<fs af='केहु,pn,any,pl,3,o,0,0' emph1='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,0,0' emph1='y'>
+>>किन्हीं
+
+
+<fs af='केहु,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,ko,ko' emph1='y'>
+>>किन्हीं_को_भी
+
+
+<fs af='केहु,pn,any,pl,3,o,se,se' emph1='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,se,se' emph1='y'>
+>>किन्ही_से_भी
+
+
+<fs af='केहु,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,meM,meM' emph1='y'>
+>>किन्हीं_में_भी
+
+
+<fs af='केहु,pn,any,pl,3,o,para,para' emph1='y'>
+
+
+<fs af='कोई,pn,any,pl,3,o,para,para' emph1='y'>
+>>किन्हीं_पर_भी
+
+
+<fs af='सब,pn,any,pl,3,o,ko,ko' emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,ko,ko' emph1='y'>
+>>सभी_को
+
+
+<fs af='सब,pn,any,pl,3,o,se,se' emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,se,se' emph1='y'>
+>>सभी_से
+
+
+<fs af='सब,pn,any,pl,3,o,meM,meM' emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,meM,meM' emph1='y'>
+>>सभी_में
+
+
+<fs af='सब,pn,any,pl,3,o,para,para' emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,para,para' emph1='y'>
+>>सभी_पर
+
+
+[[Pro_spl_a]]
+
+
+<fs af='सब,pn,any,pl,3,any,0,0'>
+
+
+<fs af='सब,pn,any,pl,3,any,0,0'>
+>>सब
+
+
+[[Pro_spl_a_e]]
+
+
+<fs af='सब,pn,any,pl,3,d,0,0' emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,d,0,0' emph='y'>
+>>सब_ही
+
+
+[[Pro_spl_a_e1]]
+
+
+<fs af='सब,pn,any,pl,3,d,0,0' emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,d,0,0' emph1='y'>
+>>सभी
+
+
+[[Pro_d_a]]
+
+
+<fs af='उ,pn,any,sg,3,d,0,0'>
+
+
+<fs af='वह,pn,any,sg,3,d,0,0'>
+>>वह|वो
+
+
+<fs af='उ,pn,any,pl,3,d,0,0'>
+
+
+<fs af='वह,pn,any,pl,3,d,0,0'>
+>>वे
+
+
+<fs af='जे,pn,any,sg,3,d,0,0'>
+
+
+<fs af='जो,pn,any,sg,3,d,0,0'>
+>>जो
+
+
+<fs af='जे,pn,any,pl,3,d,0,0'>
+
+
+<fs af='जो,pn,any,pl,3,d,0,0'>
+>>जो
+
+
+<fs af='कवन,pn,any,sg,3,d,0,0'>
+
+
+<fs af='कौन,pn,any,sg,3,d,0,0'>
+>>कौन
+
+
+<fs af='कवन,pn,any,pl,3,d,0,0'>
+
+
+<fs af='कौन,pn,any,pl,3,d,0,0'>
+>>कौन
+
+
+<fs af='केहु,pn,any,sg,3,d,0,0'>
+
+
+<fs af='कोई,pn,any,sg,3,d,0,0'>
+>>कोई
+
+
+<fs af='केहु,pn,any,pl,3,d,0,0'>
+
+
+<fs af='कोई,pn,any,pl,3,d,0,0'>
+>>कोई
+
+
+<fs af='इ,pn,any,sg,3,d,0,0'>
+
+
+<fs af='यह,pn,any,sg,3,d,0,0'>
+>>यह
+
+
+<fs af='इ,pn,any,pl,3,d,0,0'>
+
+
+<fs af='यह,pn,any,pl,3,d,0,0'>
+>>ये
+
+
+[[Pro_d_a_e]]
+
+
+<fs af='उ,pn,any,sg,3,d,0,0' emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,d,0,0' emph='y'>
+>>वही|वहीं
+
+
+<fs af='इ,pn,any,sg,3,d,0,0' emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,d,0,0' emph='y'>
+>>यही|यहीं
+
+
+[[Pro_d_a_e1]]
+
+
+<fs af='उ,pn,any,sg,3,d,0,0' emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,d,0,0' emph1='y'>
+>>वह_भी
+
+
+<fs af='इ,pn,any,sg,3,d,0,0' emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,d,0,0' emph1='y'>
+>>यह_भी
+
+
+[[Pro_o_a]]
+
+
+<fs af='सब,pn,any,pl,3,o,0,0'>
+
+
+<fs af='सब,pn,any,pl,3,o,0,0'>
+>>सबों
+
+
+[[RaRTI_self]]
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  hon='y'>
+>>आपका
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  hon='y'>
+>>आपके
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  hon='y'>
+>>आपके
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  hon='y'>
+>>आपके
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  hon='y'>
+>>आपकी
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  hon='y'>
+>>आपकी
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  hon='y'>
+>>आपकी
+
+
+<fs af='तू,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  hon='y'>
+>>आपकी
+
+
+[[RaRTI_u]]
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>मेरा
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>मेरे
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+मेरे
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>मेरे
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>मेरी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>मेरी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>मेरी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>मेरी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>हमारा
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>हमारे
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>हमारे
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>हमारे
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>हमारी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>हमारी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>हमारी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>हमारी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>अपना
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>अपने
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>अपने
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>अपने
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>अपनी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>अपनी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>अपनी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>अपनी
+
+
+[[RaRTI_u_e]]
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>मेरा_ही|मुझीका
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>मेरे_ही|मुझीके
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>मेरे_ही|मुझीके
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>मेरे_ही|मुझीके
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>मेरी_ही|मुझीकी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>मेरी_ही|मुझीकी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>मेरी_ही|मुझीकी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>मेरी_ही|मुझीकी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>हमारा_ही|हमींका
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>हमारे_ही|हमींके
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>हमारे_ही|हमींके
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>हमारे_ही|हमींके
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>हमारी_ही|हमींकी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>हमारी_ही|हमींकी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>हमारी_ही|हमींकी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>हमारी_ही|हमींकी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>अपना_ही
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>अपने_ही
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>अपने_ही
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>अपने_ही
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>अपनी_ही
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>अपनी_ही
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>अपनी_ही
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>अपनी_ही
+
+
+[[RaRTI_u_e1]]
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>मेरा_भी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>मेरे_भी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>मेरे_भी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>मेरे_भी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>मेरी_भी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>मेरी_भी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>मेरी_भी
+
+
+<fs af='हम,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>मेरी_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>हमारा_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>हमारे_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>हमारे_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>हमारे_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>हमारी_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+हमारी_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>हमारी_भी
+
+
+<fs af='हम,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='मैं,pn,any,pl,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>हमारी_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>अपना_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>अपने_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>अपने_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>अपने_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>अपनी_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>अपनी_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>अपनी_भी
+
+
+<fs af='आपन,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='अपना,pn,any,sg,1,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>अपनी_भी
+
+
+[[RaRTI_m]]
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>तेरा
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>तेरे
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>तेरे
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>तेरे
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>तेरी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>तेरी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>तेरी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>तेरी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>तुम्हारा
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>तुम्हारे
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o' agr_num='sg'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o' agr_num='sg'>
+>>तुम्हारे
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>तुम्हारे
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>तुम्हारी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>तुम्हारी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>तुम्हारी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>तुम्हारी
+
+
+[[RaRTI_m_e]]
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>तेरा_ही|तुझीका
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>तेरे_ही|तुझीके
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>तेरे_ही|तुझीके
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>तेरे_ही|तुझीके
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>तेरी_ही|तुझीकी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>तेरी_ही|तुझीकी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>तेरी_ही|तुझीकी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>तेरी_ही|तुझीकी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>तुम्हारा_ही|तुम्हींका
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>तुम्हारे_ही|तुम्हींके
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>तुम्हारे_ही|तुम्हींके
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>तुम्हारे_ही|तुम्हींके
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>\
+>>तुम्हारी_ही|तुम्हींकी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>तुम्हारी_ही|तुम्हींकी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>तुम्हारी_ही|तुम्हींकी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>तुम्हारी_ही|तुम्हींकी
+
+
+[[RaRTI_m_e1]]
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>तेरा_भी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>तेरे_भी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>तेरे_भी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>तेरे_भी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>तेरी_भी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>तेरी_भी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>तेरी_भी
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,sg,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>तेरी_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>तुम्हारा_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>तुम्हारे_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>तुम्हारे_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>तुम्हारे_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>तुम्हारी_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>तुम्हारी_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>तुम्हारी_भी
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='तू,pn,any,pl,2,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>तुम्हारी_भी
+
+
+[[RaRTI_a]]
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>उसका
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>उसके
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>उसके
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>उसके
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>उसकी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>उसकी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>उसकी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>उसकी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>उनका
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>उनके
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>उनके
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>उनके
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>उनकी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>उनकी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>उनकी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>उनकी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>जिसका
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>जिसके
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>जिसके
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>जिसके
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>जिसकी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>जिसकी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>जिसकी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>जिसकी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>जिनका
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>जिनके
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>जिनके
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>जिनके
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>जिनकी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>जिनकी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>जिनकी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>जिनकी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>किसका
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>किसके
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>किसके
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>किसके
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>किसकी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>किसकी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>किसकी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>किसकी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>किनका
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>किनके
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>किनके
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>किनके
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>किनकी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>किनकी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>किनकी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>किनकी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>इसका
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>इसके
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>इसके
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>इसके
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>इसकी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>इसकी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>इसकी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>इसकी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>इनका
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+इनके
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>इनके
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>इनके
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>इनकी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>इनकी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>इनकी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>इनकी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+>>सबका
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+>>सबके
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'>
+>>सबके
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+>>सबके
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+>>सबकी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'>
+>>सबकी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'>
+>>सबकी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+>>सबकी
+
+
+[[RaRTI_a_e]]
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>उसीका|उसका_ही
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>उसीके|उसके_ही
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>उसीके|उसके_ही
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>उसीके|उसके_ही
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>उसीकी|उसकी_ही
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>उसीकी|उसकी_ही
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>उसीकी|उसकी_ही
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>उसीकी|उसकी_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>उन्हींका|उनका_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>उन्हींके|उनके_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>उन्हींके|उनके_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>उन्हींके|उनके_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>उन्हींकी|उनकी_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>उन्हींकी|उनकी_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>उन्हींकी|उनकी_ही
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>उन्हींकी|उनकी_ही
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>जिसका_ही|जिसीका
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>जिसके_ही|जिसी_के
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>जिसके_ही|जिसी_के
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>जिसके_ही|जिसी_के
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>जिसकी_ही|जिसी_की
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>जिसकी_ही|जिसी_की
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>जिसकी_ही|जिसी_की
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>जिसकी_ही|जिसी_की
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>जिन्हींका|जिनका_ही
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>जिन्हींके|जिनके_ही
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>जिन्हींके|जिनके_ही
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>जिन्हींके|जिनके_ही
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>जिन्हींकी|जिनकी_ही
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>जिन्हींकी|जिनकी_ही
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>जिन्हींकी|जिनकी_ही
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>जिन्हींकी|जिनकी_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>किसीका|किसका_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>किसीके|किसके_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>किसीके|किसके_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>किसीके|किसके_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>किसीकी|किसकी_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>किसीकी|किसकी_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>किसीकी|किसकी_ही
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>किसीकी|किसकी_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>किन्हींका|किनका_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>किन्हींके|किनके_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>किन्हींके|किनके_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>किन्हींके|किनके_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>किन्हींकी|किनकी_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>किन्हींकी|किनकी_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>किन्हींकी|किनकी_ही
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>किन्हींकी|किनकी_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>इसीका|इसका_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>इसीके|इसके_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>इसीके|इसके_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>इसीके|इसके_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>इसीकी|इसकी_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>इसीकी|इसकी_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>इसीकी|इसकी_ही
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>इसीकी|इसकी_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>इन्हींका|इनका_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>इन्हींके|इनके_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>इन्हींके|इनके_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>इन्हींके|इनके_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>इन्हींकी|इनकी_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>इन्हींकी|इनकी_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>इन्हींकी|इनकी_ही
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>इन्हींकी|इनकी_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>सबका_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>सबके_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>सबके_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>सबके_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph='y'>
+>>सबकी_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph='y'>
+>>सबकी_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph='y'>
+>>सबकी_ही
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph='y'>
+>>सबकी_ही
+
+
+[[RaRTI_a_e1]]
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>उसका_भी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>उसके_भी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>उसके_भी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>उसके_भी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>उसकी_भी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>उसकी_भी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>उसकी_भी
+
+
+<fs af='उ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>उसकी_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>उनका_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>उनके_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>उनके_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>उनके_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>उनकी_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>उनकी_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>उनकी_भी
+
+
+<fs af='उ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='वह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>उनकी_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>जिसका_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>जिसके_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>जिसके_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>जिसके_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>जिसकी_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>जिसकी_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>जिसकी_भी
+
+
+<fs af='जे,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>जिसकी_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>जिनका_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>जिनके_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>जिनके_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>जिनके_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>जिनकी_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+जिनकी_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>जिनकी_भी
+
+
+<fs af='जे,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='जो,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>जिनकी_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>किसका_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>किसके_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>किसके_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>किसके_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>किसकी_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>किसकी_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>किसकी_भी
+
+
+<fs af='कवन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>किसकी_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>किनका_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>किनके_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>किनके_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>किनके_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>किनकी_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>किनकी_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>किनकी_भी
+
+
+<fs af='कवन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='कौन,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>किनकी_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>इसका_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>इसके_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>इसके_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>इसके_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>इसकी_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>इसकी_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>इसकी_भी
+
+
+<fs af='इ,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>इसकी_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>इनका_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>इनके_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>इनके_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>इनके_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>इनकी_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>इनकी_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>इनकी_भी
+
+
+<fs af='इ,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='यह,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>इनकी_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>सभीका|सबका_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>सभीके|सबके_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>सभीके|सबके_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>सभीके|सबके_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'  emph1='y'>
+>>सभीकी|सबकी_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'  emph1='y'>
+>>सभीकी|सबकी_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'  emph1='y'>
+>>सभीकी|सबकी_भी
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+
+
+<fs af='सब,pn,any,pl,3,o,kA,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'  emph1='y'>
+>>सभीकी|सबकी_भी
+
+
+[[Pro_self]]
+
+
+<fs af='तू,pn,any,any,2,o,0,0' hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,0,0' hon='y'>
+>>आप
+
+
+<fs af='तू,pn,any,any,2,o,ko,ko' hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,ko,ko' hon='y'>
+>>आपको
+
+
+<fs af='तू,pn,any,any,2,o,se,se' hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,se,se' hon='y'>
+>>आपसे
+
+
+<fs af='तू,pn,any,any,2,o,meM,meM' hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,meM,meM' hon='y'>
+>>आपमें
+
+
+<fs af='तू,pn,any,any,2,o,para,para' hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,para,para' hon='y'>
+>>आपपर
+
+
+[[Pro_self_h]]
+
+
+<fs af='तू,pn,any,any,2,d,,' hon='y'>
+
+
+<fs af='आप,pn,any,any,2,d,,' hon='y'>
+>>आप
+
+
+[[Pro_self_e_h]]
+
+
+<fs af='तू,pn,any,any,2,d,,' emph='y'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,d,,' emph='y'  hon='y'>
+>>आपही
+
+
+<fs af='तू,pn,any,any,2,o,,' emph='y'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,,' emph='y'  hon='y'>
+>>आपही
+
+
+[[Pro_self_e1_h]]
+
+
+<fs af='तू,pn,any,any,2,d,,' emph1='y'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,d,,' emph1='y'  hon='y'>
+>>आप_भी
+
+
+<fs af='तू,pn,any,any,2,o,,' emph1='y'  hon='y'>
+
+
+<fs af='आप,pn,any,any,2,o,,' emph1='y'  hon='y'>
+>>आप_भी
+
+
+[[Dexis_Pro]]
+
+
+<fs af='इ,pn,any,any,3,any,0,0' dexis='y'>
+
+
+<fs af='यह,pn,any,any,3,any,0,0' dexis='y'>
+>>ये
+
+
+<fs af='उ,pn,any,any,3,any,0,0' dexis='y'>
+
+
+<fs af='वह,pn,any,any,3,any,0,0' dexis='y'>
+>>वो
+
+
+[[Dexis_Pro_e]]
+
+
+<fs af='इ,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+
+
+<fs af='यह,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+>>यही|ये_ही
+
+
+<fs af='उ,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+
+
+<fs af='वह,pn,any,any,3,any,0,0' dexis='y' emph='y'>
+>>वही|वो_ही
+
+
+[[Dexis_Pro_e1]]
+
+
+<fs af='इ,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+
+
+<fs af='यह,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+>>यह_भी|ये_भी
+
+
+<fs af='उ,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+
+
+<fs af='वह,pn,any,any,3,any,0,0' dexis='y' emph1='y'>
+>>वह_भी|वो_भी
+
+
+[[Dexis_Oblq_Pro]]
+
+
+<fs af='इ,pn,any,any,3,o,0,0' dexis='y'>
+
+
+<fs af='यह,pn,any,any,3,o,0,0' dexis='y'>
+>>यहाँ_के
+
+
+<fs af='उ,pn,any,any,3,o,0,0' dexis='y'>
+
+
+<fs af='वह,pn,any,any,3,o,0,0' dexis='y'>
+>>वहाँ_के
+
+
+[[Dexis_Oblq_Pro_e]]
+
+
+<fs af='इ,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+
+
+<fs af='यह,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+>>यहीं_के
+
+
+<fs af='उ,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+
+
+<fs af='वह,pn,any,any,3,o,0,0' dexis='y' emph='y'>
+>>वहीं_के
+
+
+[[Dexis_Oblq_Pro_e1]]
+
+
+<fs af='इ,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+
+
+<fs af='यह,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+>>यहाँ_के_भी
+
+
+<fs af='उ,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+
+
+<fs af='वह,pn,any,any,3,o,0,0' dexis='y' emph1='y'>
+>>वहाँ_के_भी
+
+
+[[Root]]
+
+
+<fs af='XX,v,any,any,any,,0,0'>
+#Root will be substituted
+>खा
+#No need to generate
+>>खा
+
+
+[[hE]]
+
+
+<fs af='XX,v,any,sg,1,,hE,hE'> 
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हूँ
+
+
+<fs af='XX,v,any,sg,2,,hE,hE'> 
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>है
+
+
+<fs af='XX,v,any,sg,3,,hE,hE'> 
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>है
+
+
+<fs af='XX,v,any,pl,1,,hE,hE'> 
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हैं
+
+
+<fs af='XX,v,any,pl,2,,hE,hE'> 
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हो
+
+
+<fs af='XX,v,any,pl,3,,hE,hE'> 
+#Root and TAM will be substituted
+>है
+Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हैं
+
+
+[[hE_e]]
+
+
+#changed in morph
+#Note-Change person *1st to 3rd
+<fs af='XX,v,any,sg,3,,hE,hE' emph='y'>
+#Root and TAM will be substituted
+>है
+#Step1=Add directly emphatic value with underscore (i.e. emph=hI) to the verb Root  in terms of final verb generation
+>>है_ही
+
+
+[[hE_e1]]
+
+
+#changed in morph
+#Note-Change person *1st to 3rd
+<fs af='XX,v,any,sg,3,,hE,hE' emph1='y'>
+#Root and TAM will be substituted
+>है
+#Step1=Add directly emphatic value with underscore (i.e. emph1=BI) to the verb Root  in terms of final verb generation
+>>है_भी
+
+
+[[hE_spl]]
+<fs af='XX,v,any,pl,any,,hE,hE'>
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हों
+
+
+[[hE_spl_h]]
+
+
+<fs af='XX,v,any,sg,2,,hE,hE' hon='y'>
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हों
+
+
+<fs af='XX,v,any,pl,2,,hE,hE' hon='y'>
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हों
+
+
+<fs af='XX,v,any,any,2,,hE,hE' hon='y'>
+#Root and TAM will be substituted
+>है
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>हैं
+
+
+[[rahala]]
+
+
+<fs af='XX,v,m,sg,1,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>था
+
+
+<fs af='XX,v,m,pl,1,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थे
+
+
+<fs af='XX,v,m,sg,2,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>था
+
+
+<fs af='XX,v,m,pl,2,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थे
+
+
+<fs af='XX,v,m,sg,3,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>था
+
+
+<fs af='XX,v,m,pl,3,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थे
+
+
+<fs af='XX,v,f,sg,1,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थी
+
+
+<fs af='XX,v,f,sg,2,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थी
+
+
+<fs af='XX,v,f,sg,3,,WA,WA'>
+#Root and TAM will be substituted
+>>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थी
+
+
+<fs af='XX,v,f,pl,1,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थीं
+
+
+<fs af='XX,v,f,pl,2,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थीं
+
+
+<fs af='XX,v,f,pl,3,,WA,WA'>
+#Root and TAM will be substituted
+>था
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>थीं
+
+
+[[rahala_e]]
+
+
+#Note-Feature Should be corrected as per number and person
+<fs af='XX,v,any,any,any,,WA,WA' emph='y'>
+#Root and TAM will be substituted
+>था
+#Step1= Add directly emphatic value with underscore (i.e. emph=hI) to the verb Root  in terms of final verb generation
+>>था_ही
+
+
+[[rahala_e1]]
+#Note-Feature Should be corrected as per number and person
+<fs af='XX,v,any,any,any,,WA,WA' emph1='y'>
+#Root and TAM will be substituted
+>था
+#Step1= Add directly emphatic value with underscore (i.e. emph1=BI) to the verb Root  in terms of final verb generation
+>>था_भी
+
+
+[[kara]]
+<fs af='XX,v,any,any,any,,kara,kara'>
+#Root and TAM will be substituted
+>खा
+#Step1= Add directly suffix "के" to the verb Root  in terms of final verb generation
+>>खा_के
+
+
+[[kara_e]]
+
+
+<fs af='XX,v,any,any,any,,kara,kara' emph='y'>
+#Root and TAM will be substituted
+>खा
+#Step1= Add directly suffix "के" to the verb Root  in terms of final verb generation
+#Step2=Add directly emphatic value with underscore (i.e. emph=hI) to the result of Step1 in terms of final verb generation
+>>खा_के_ही
+
+
+[[kara_e1]]
+
+
+<fs af='XX,v,any,any,any,,kara,kara' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#Step1= Add directly suffix "के" to the verb Root  in terms of final verb generation
+#Step2=Add directly emphatic value with underscore (i.e. emph1=BI) to the result of Step1 in terms of final verb generation
+>>खा_के_भी
+
+
+[[Infinitive_yeke]]
+
+
+#Note- Gender and Number agreement will have to do with agreeing NP
+<fs af='XX,v,m,sg,any,,yeke,yeke'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाना
+
+
+<fs af='XX,v,m,pl,any,,yeke,yeke'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाने
+
+
+<fs af='XX,v,f,sg,any,,yeke,yeke'>
+#Root and TAM will be substituted
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खानी
+
+
+<fs af='XX,v,f,pl,any,,yeke,yeke'>
+#Root and TAM will be substituted
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खानीं
+
+
+[[Infinitive_yeke_e]]
+
+
+<fs af='XX,v,m,sg,any,,yeke,yeke' emph='y'>
+#Root and TAM will be substituted
+>खा
+#Step1=Root+TAM
+#Step2=Add directly emphatic value with underscore (i.e. emph=hI) to the result of Step1 in terms of final verb generation
+>>खाना_ही
+
+
+[[Infinitive_yeke_e1]]
+
+
+#Note-Check feature
+<fs af='XX,v,any,any,any,,yeke,yeke' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#Step1=Root+TAM
+#Step2=Add directly emphatic value with underscore (i.e. emph1=BI) to the result of Step1 in terms of final verb generation
+>>खाना_भी
+
+
+[[Gerund_ba]]
+
+
+<fs af='XX,v,any,any,any,,ba,ba'>
+#Root and TAM will be substituted
+>खा
+#Step1=Root+TAM
+>>खाना
+
+
+[[Gerund_ba_e]]
+<fs af='XX,v,any,any,any,,ba,ba' emph='y'>
+#Root and TAM will be substituted
+>खा
+#Step1=Root+TAM
+#Step2=Add directly emphatic value with underscore (i.e. emph=hI) to the result of Step1 in terms of final verb generation
+>>खाना_ही
+
+
+[[Gerund_ba_e1]]
+
+
+<fs af='XX,v,any,any,any,,ba,ba' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#Step1=Root+TAM
+#Step2=Add directly emphatic value with underscore (i.e. emph1=BI) to the result of Step1 in terms of final verb generation
+>>खाना_भी
+
+
+[[optative_ilA]]
+
+
+<fs af='XX,v,m,sg,1,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_हूँ
+>>खाता_हूँ
+
+
+<fs af='XX,v,m,pl,1,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_हैं
+>>खाते_हैं
+
+
+<fs af='XX,v,m,sg,2,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_है
+>>खाता_है
+
+
+<fs af='XX,v,m,pl,2,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_हो|ROOT+ते_हैं
+>>खाते_हो|खाते_हैं
+
+
+<fs af='XX,v,m,sg,3,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_है
+>>खाता_है
+
+
+<fs af='XX,v,m,pl,3,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_हैं
+>>खाते_हैं
+
+
+<fs af='XX,v,f,sg,1,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_हूँ
+>>खाती_हूँ
+
+
+<fs af='XX,v,f,pl,1,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_हैं
+>>खाते_हैं
+
+
+<fs af='XX,v,f,sg,2,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_है
+>>खाती_है
+
+
+<fs af='XX,v,f,pl,2,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_हो|ROOT+ती_हैं
+>>खाती_हो|खाती_हैं
+
+
+<fs af='XX,v,f,sg,3,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_है
+>>खाती_है
+
+
+<fs af='XX,v,f,pl,3,,ilA,ilA'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_हैं
+>>खाती_हैं
+
+
+#If emph='y' is appended 
+<fs af='XX,v,m,sg,1,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_ही_हूँ
+>>खाता_ही_हूँ
+
+
+<fs af='XX,v,m,pl,1,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_ही_हैं
+>>खाते_ही_हैं
+
+
+<fs af='XX,v,m,sg,2,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_ही_है
+>>खाता_ही_है
+
+
+<fs af='XX,v,m,pl,2,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_ही_हो|ROOT+ते_ही_हैं
+>>खाते_ही_हो|खाते_ही_हैं
+
+
+<fs af='XX,v,m,sg,3,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_ही_है
+>>खाता_ही_है
+
+
+<fs af='XX,v,m,pl,3,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_ही_हैं
+>>खाते_ही_हैं
+
+
+<fs af='XX,v,f,sg,1,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_ही_हूँ
+>>खाती_ही_हूँ
+
+
+<fs af='XX,v,f,pl,1,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_ही_हैं
+>>खाते_ही_हैं
+
+
+<fs af='XX,v,f,sg,2,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_ही_है
+>>खाती_ही_है
+
+
+<fs af='XX,v,f,pl,2,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_ही_हो|ROOT+ती_ही_हैं
+>>खाती_ही_हो|खाती_ही_हैं
+
+
+<fs af='XX,v,f,sg,3,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_ही_है
+>>खाती_ही_है
+
+
+<fs af='XX,v,f,pl,3,,ilA,ilA' emph='y'>
+#Root and TAM will be substituted
+>>खा
+#ROOT+ती_ही_हैं
+>>खाती_ही_हैं
+
+
+#If emph1='y' is appended 
+<fs af='XX,v,m,sg,1,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_भी_हूँ
+>>खाता_भी_हूँ
+
+
+<fs af='XX,v,m,pl,1,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_भी_हैं
+>>खाते_भी_हैं
+
+
+<fs af='XX,v,m,sg,2,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_भी_है
+>>खाता_भी_है
+
+
+<fs af='XX,v,m,pl,2,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_भी_हो|ROOT+ते_भी_हैं
+>>खाते_भी_हो|खाते_भी_हैं
+
+
+<fs af='XX,v,m,sg,3,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ता_भी_है
+>>खाता_भी_है
+
+
+<fs af='XX,v,m,pl,3,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_भी_हैं
+>>खाते_भी_हैं
+
+
+<fs af='XX,v,f,sg,1,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_भी_हूँ
+>>खाती_भी_हूँ
+
+
+<fs af='XX,v,f,pl,1,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ते_भी_हैं
+>>खाते_भी_हैं
+
+
+<fs af='XX,v,f,sg,2,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_भी_है
+>>खाती_भी_है
+
+
+<fs af='XX,v,f,pl,2,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+ROOT+ती_भी_हो|ROOT+ती_भी_हैं
+>>खाती_भी_हो|खाती_भी_हैं
+
+
+<fs af='XX,v,f,sg,3,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>>खा
+#ROOT+ती_भी_है
+>>खाती_भी_है
+
+
+<fs af='XX,v,f,pl,3,,ilA,ilA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#ROOT+ती_भी_हैं
+>>खाती_भी_हैं
+
+
+[[Optative_Aux_ha]]
+
+
+<fs af='XX,v,any,sg,1,,hE,hE' mood='y'>
+#Root and TAM will be substituted
+>है
+#Generate directly= हूँ
+>>हूँ
+
+
+[[Optative1_Aux_ha]]
+
+
+<fs af='XX,v,any,sg,1,,hE,hE' mood1='y'>
+#Root and TAM will be substituted
+>खा/ समझ
+#-ता_हूँ
+#(Suffix "-ता_हूँ" will be added to the preceding verb ROOT form in final generation i.e.समझ-ता_हूँ) 
+>>खाता_हूँ/समझता_हूँ
+
+
+[[subj]]
+
+
+<fs af='XX,v,any,sg,1,,e,e'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाऊँ
+
+
+<fs af='XX,v,any,sg,2,,e,e'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाये
+
+
+<fs af='XX,v,any,sg,2,,e,e' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाइये
+
+
+<fs af='XX,v,any,sg,3,,e,e'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाये
+
+
+<fs af='XX,v,any,pl,1,,e,e'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायें
+
+
+<fs af='XX,v,any,pl,2,,e,e'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाओ
+
+
+<fs af='XX,v,any,pl,2,,e,e' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाइये
+
+
+<fs af='XX,v,any,pl,3,,e,e'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायें
+
+
+<fs af='XX,v,any,any,2,,e,e' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायें
+
+
+[[Future]]
+
+
+<fs af='XX,v,m,sg,1,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाऊँगा
+
+
+<fs af='XX,v,m,sg,2,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेगा
+
+
+<fs af='XX,v,m,sg,2,,gA,gA' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगे
+
+
+<fs af='XX,v,m,sg,3,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेगा
+
+
+<fs af='XX,v,m,pl,1,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगे
+
+
+<fs af='XX,v,m,pl,2,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाओगे
+
+
+<fs af='XX,v,m,pl,2,,gA,gA' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगे
+
+
+<fs af='XX,v,m,pl,3,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगे
+
+
+<fs af='XX,v,f,sg,1,,gA,gA'>
+#Root and TAM will be substituted
+>>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाऊँगी
+
+
+<fs af='XX,v,f,sg,2,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेगी
+
+
+<fs af='XX,v,f,sg,2,,gA,gA' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगी
+
+
+<fs af='XX,v,f,sg,3,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेगी
+
+
+<fs af='XX,v,f,pl,1,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगी
+
+
+<fs af='XX,v,f,pl,2,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाओगी
+
+
+<fs af='XX,v,f,pl,2,,gA,gA' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगी
+
+
+<fs af='XX,v,f,pl,3,,gA,gA'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायेंगी
+
+
+<fs af='XX,v,any,sg,2,,gA,gA' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाइयेगा
+
+
+<fs af='XX,v,any,pl,2,,gA,gA' hon='y'>
+#Root and TAM will be substituted
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाइयेगा
+
+
+[[Future_e]]
+
+
+<fs af='XX,v,any,any,any,,gA,gA' emph='y'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,gA,gA' emph='y'> TO <fs af='XX,v,m,sg,1,,gA,gA' emph='y'>
+#Step2=Separate out emph='y'
+#Step3=Generate remaining morph feature directly through inverted Hindi morph
+#Step4=Add emphatic value (emph=hI) with underscore in the result of Step3
+>>खाऊँगा_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,1,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खाऊँगा_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,2,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेगा_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,2,,gA,gA' hon='y' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगे_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,3,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेगा_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,1,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगे_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,2,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खाओगे_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,2,,gA,gA' hon='y' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगे_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,3,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगे_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,1,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खाऊँगी_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,2,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेगी_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,2,,gA,gA' hon='y' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगी_ही
+
+
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,3,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेगी_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,1,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगी_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,2,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खाओगी_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,2,,gA,gA' hon='y' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगी_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,3,,gA,gA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खायेंगी_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,any,sg,2,,gA,gA' hon='y' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खाइयेगा_ही
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,any,pl,2,,gA,gA' hon='y' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph=hI) with underscore in the result of Step2
+>>खाइयेगा_ही
+
+
+[[Future_e1]]
+
+
+<fs af='XX,v,any,any,any,,gA,gA' emph1='y'>
+#Root and TAM will be substituted
+>खा
+##Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,gA,gA' emph1='y'> TO <fs af='XX,v,m,sg,1,,gA,gA' emph1='y'>
+#Step2=Separate out emph1='y'
+#Step3=Generate remaining morph feature directly through inverted Hindi morph
+#Step4=Add emphatic value (emph1=BI) with underscore in the result of Step3
+>>खाऊँगा_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,1,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खाऊँगा_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,2,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेगा_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,2,,gA,gA' hon='y' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगे_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,sg,3,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेगा_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,1,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगे_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,2,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खाओगे_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,2,,gA,gA' hon='y' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगे_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,m,pl,3,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगे_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,1,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खाऊँगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,2,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,2,,gA,gA' hon='y' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,sg,3,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,1,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,2,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खाओगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,2,,gA,gA' hon='y' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,f,pl,3,,gA,gA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खायेंगी_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,any,sg,2,,gA,gA' hon='y' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खाइयेगा_भी
+
+
+[[Agr_based feature]]
+
+
+<fs af='XX,v,any,pl,2,,gA,gA' hon='y' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaining morph feature directly through inverted Hindi morph
+#Step3=Add emphatic value (emph1=BI) with underscore in the result of Step2
+>>खाइयेगा_भी
+
+
+[[PstPerf_Plus_Aux_yale1]]
+
+
+<fs af='XX,v,any,any,any,,yale1,yale1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+#Step2=Generate changed morph feature directly through inverted Hindi morph
+>>गया
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,yA1,yA1'>
+>जा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>गया
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,yA1,yA1'>
+>जा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>गये
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,yA1,yA1'>
+>जा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>गयी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,yA1,yA1'>
+>जा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>गयीं
+
+
+[[PstPerf_Plus_Aux_yale]]
+
+
+<fs af='xx,v,any,any,any,,yale,yale'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='xx,v,any,any,any,,yA,yA'> TO <fs af='xx,v,m,sg,any,,yA,yA'>
+#Step2=Generate changed morph feature directly through inverted Hindi morph
+>>खाया
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,yA,yA'>
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाया
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,yA,yA'>
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खाये
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,yA,yA'>
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,yA,yA'>
+>खा
+#Direct Word Generation Through Inverted Hindi Morph Analyser (i.e. Morph feature to word)
+>>खायीं
+
+
+[[PstPerf_Plus_Aux_e_yale]]
+
+
+<fs af='XX,v,any,any,any,,yale,yale' emph='y'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='xx,v,any,any,any,,yA,yA' emph='y'> TO <fs af='xx,v,m,sg,any,,yA,yA' emph='y'>
+#Step2=Separate out emph='y'
+#Step3=Generate remaing  morph feature directly through inverted Hindi morph
+#Step4= Add emphatic value (emph=hI) with underscore to the result of Step3
+>>खाया_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,yA,yA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+>>खाया_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,yA,yA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+>>खाये_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,yA,yA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+>>खायी_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,yA,yA' emph='y'>
+>खा
+#Step1=Separate out emph='y'
+#Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph=hI) with underscore to the result of Step2
+>>खायीं_ही
+
+
+[[PstPerf_Plus_Aux_e1_yale]]
+
+
+<fs af='XX,v,any,any,any,,yale,yale' emph1='y'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='xx,v,any,any,any,,yA,yA' emph1='y'> TO <fs af='xx,v,m,sg,any,,yA,yA' emph1='y'>
+#Step2=Separate out emph1='y'
+#Step3=Generate remaing  morph feature directly through inverted Hindi morph
+#Step4= Add emphatic value (emph1=BI) with underscore to the result of Step3
+>>खाया_भी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,yA,yA' emph1='y'>
+>खा
+#Step1=Separate out emph1='y'
+#Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+>>खाया_भी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,yA,yA' emph1='y'>
+#Step1=Separate out emph1='y'
+Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+>>खाये_भी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,yA,yA' emph1='y'>
+#Step1=Separate out emph1='y'
+#Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+>>खायी_भी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,yA,yA' emph1='y'>
+#Step1=Separate out emph1='y'
+#Step2=Generate remaing  morph feature directly through inverted Hindi morph
+#Step3= Add emphatic value (emph1=BI) with underscore to the result of Step2
+>>खायीं_भी
+
+
+[[PstPerf_Minus_Aux_ila]]
+
+
+<fs af='XX,v,m,sg,1,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,1,,yA,yA'> TO <fs af='XX,v,m,sg,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खाया
+
+
+<fs af='XX,v,m,pl,1,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,1,,yA,yA'> TO <fs af='XX,v,m,pl,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खाये
+
+
+<fs af='XX,v,m,sg,2,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,2,,yA,yA'> TO <fs af='XX,v,m,sg,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खाया
+
+
+<fs af='XX,v,m,pl,2,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,2,,yA,yA'> TO <fs af='XX,v,m,pl,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खाये
+
+
+<fs af='XX,v,m,sg,3,,ila,ila'>
+#Root and TAM will be substituted
+खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,3,,yA,yA'> TO <fs af='XX,v,m,sg,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खाया
+
+
+<fs af='XX,v,m,pl,3,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,3,,yA,yA'> TO <fs af='XX,v,m,pl,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खाये
+
+
+<fs af='XX,v,f,sg,1,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,1,,yA,yA'> TO <fs af='XX,v,f,sg,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खायी
+
+
+<fs af='XX,v,f,pl,1,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,1,,yA,yA'> TO <fs af='XX,v,f,pl,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खायीं
+
+
+<fs af='XX,v,f,sg,2,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,2,,yA,yA'> TO <fs af='XX,v,f,sg,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खायी
+
+
+<fs af='XX,v,f,pl,2,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,2,,yA,yA'> TO <fs af='XX,v,f,pl,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खायीं
+
+
+<fs af='XX,v,f,sg,3,,ila,ila'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,3,,yA,yA'> TO <fs af='XX,v,f,sg,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खायी
+
+
+<fs af='XX,v,f,pl,3,,ila,ila'>
+#Root and TAM will be substituted
+>>खा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,3,,yA,yA'> TO <fs af='XX,v,f,pl,any,,yA,yA'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>खायीं
+
+
+[PstPerf_Minus_Aux_ila1]]
+
+
+<fs af='XX,v,m,sg,1,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,1,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गया
+
+
+<fs af='XX,v,m,pl,1,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,1,,yA1,yA1'> TO <fs af='XX,v,m,pl,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गये
+
+
+<fs af='XX,v,m,sg,2,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,2,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+>>Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गया
+
+
+<fs af='XX,v,m,pl,2,,ila1,ila1'>
+#Root and TAM will be substituted
+>>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,2,,yA1,yA1'> TO <fs af='XX,v,m,pl,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गये
+
+
+<fs af='XX,v,m,sg,3,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,sg,3,,yA1,yA1'> TO <fs af='XX,v,m,sg,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गया
+
+
+<fs af='XX,v,m,pl,3,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,m,pl,3,,yA1,yA1'> TO <fs af='XX,v,m,pl,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गये
+
+
+<fs af='XX,v,f,sg,1,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,1,,yA1,yA1'> TO <fs af='XX,v,f,sg,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गयी
+
+
+<fs af='XX,v,f,pl,1,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,1,,yA1,yA1'> TO <fs af='XX,v,f,pl,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गयीं
+
+
+<fs af='XX,v,f,sg,2,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,2,,yA1,yA1'> TO <fs af='XX,v,f,sg,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गयी
+
+
+<fs af='XX,v,f,pl,2,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,2,,yA1,yA1'> TO <fs af='XX,v,f,pl,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गयीं
+
+
+<fs af='XX,v,f,sg,3,,ila1,ila1'>
+#Root and TAM will be substituted
+>>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,sg,3,,yA1,yA1'> TO <fs af='XX,v,f,sg,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गयी
+
+
+<fs af='XX,v,f,pl,3,,ila1,ila1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,f,pl,3,,yA1,yA1'> TO <fs af='XX,v,f,pl,any,,yA1,yA1'>
+#Step2= Generate converted morph feature directly through inverted Hindi morph
+>>गयीं
+
+
+[[Pst_Perf_Prtcpl_yala]]
+
+
+<fs af='XX,v,any,any,any,,yala,yala'>
+#Root and TAM will be substituted
+>खा
+#Step1= Change lexical transferred morph feature 
+<fs af='XX,v,any,any,any,,yA_huA,yA_huA'> TO  <fs af='XX,v,m,sg,any,,yA_huA,yA_huA'>
+#Step2= Separate out "_huA" from TAM field
+#Step3=  Generate remaining morph feature directly through inverted Hindi morph
+Step4= Add "_huA" to the result of Step3 in terms of final generation
+#खाया_हुआ
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,yA_huA,yA_huA'>
+>खा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huA" to the result of Step2 in terms of final generation
+>खाया_हुआ
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,yA_huA,yA_huA'>
+>खा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huye" to the result of Step2 in terms of final generation
+>>खाये_हुये
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,yA_huA,yA_huA'>
+>खा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI" to the result of Step2 in terms of final generation
+>>खायी_हुयी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,yA_huA,yA_huA'>
+>खा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI" to the result of Step2 in terms of final generation
+>>खायीं_हुयी
+
+
+[[Pst_Perf_Prtcpl_yala1]]
+
+
+<fs af='XX,v,any,any,any,,yala1,yala1'>
+#Root and TAM will be substituted
+>जा
+#Step1= Change lexical transferred morph feature  <fs af='XX,v,any,any,any,,yA1_huA,yA1_huA'> TO  <fs af='XX,v,m,sg,any,,yA1_huA,yA1_huA'>
+#Step2= Separate out "_huA" from TAM field
+#Step3=  Generate remaining morph feature directly through inverted Hindi morph
+#Step4= Add "_huA" to the result of Step3 in terms of final generation
+>>गया_हुआ
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,yA1_huA,yA1_huA'>
+>जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huA" to the result of Step2 in terms of final generation
+>>गया_हुआ
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,yA1_huA,yA1_huA'>
+>जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huye" to the result of Step2 in terms of final generation
+>>गये_हुये
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,yA1_huA,yA1_huA'>
+>जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI" to the result of Step2 in terms of final generation
+>>गयी_हुयी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,yA1_huA,yA1_huA'>
+>जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+>Step3= Add "_huyI" to the result of Step2 in terms of final generation
+>>गयीं_हुयी
+
+
+[[Pres_Prtcpl_wa1]]
+
+
+<fs af='XX,v,any,any,any,,wa1,wa1'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA'> TO  <fs af='XX,v,m,sg,any,,wA_huA,wA_huA'>
+#Step2= Separate out "_huA" from TAM field
+#Step3=  Generate remaining morph feature directly through inverted Hindi morph
+#Step4= Add "_huA" to the result of Step3 in terms of final generation
+>>खाता_हुआ/जाता_हुआ
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,wA_huA,wA_huA'>
+>खा/जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huA" to the result of Step2 in terms of final generation
+>>खाता_हुआ/जाता_हुआ
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,wA_huA,wA_huA'>
+>खा/जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huye" to the result of Step2 in terms of final generation
+>>खाते_हुये/जाते_हुये
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,wA_huA,wA_huA'>
+>खा/जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI" to the result of Step2 in terms of final generation
+>>जाती_हुयी/खाती_हुयी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,wA_huA,wA_huA'>
+>खा/जा
+#Step1= Separate out "_huA" from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI" to the result of Step2 in terms of final generation
+>>जातीं_हुयी/खातीं_हुयी
+
+
+[[Pres_Prtcpl_e_wa1]]
+
+
+<fs af='XX,v,any,any,any,,wa1,wa1'emph='y'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA'emph='y'> TO  <fs af='XX,v,m,sg,any,,wA_huA,wA_huA'emph='y'>
+#Step2= Separate out "_huA" and emph='y' from TAM field
+#Step3=  Generate remaining morph feature directly through inverted Hindi morph
+#Step4= Add "_huA_hI" to the result of Step3 in terms of final generation
+>>खाता_हुआ_ही/जाता_हुआ_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,wA_huA,wA_huA'emph='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huA_hI" to the result of Step2 in terms of final generation
+>>खाता_हुआ_ही/जाता_हुआ_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,wA_huA,wA_huA'emph='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huye_hI" to the result of Step2 in terms of final generation
+>>खाते_हुये_ही/जाते_हुये_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,wA_huA,wA_huA'emph='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI_hI" to the result of Step2 in terms of final generation
+>>जाती_हुयी_ही/खाती_हुयी_ही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,wA_huA,wA_huA'emph='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI_hI" to the result of Step2 in terms of final generation
+>>जातीं_हुयी_ही/खातीं_हुयी_ही
+
+
+[[Pres_Prtcpl_e1_wa1]]
+
+
+<fs af='XX,v,any,any,any,,wa1,wa1'emph1='y'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA' emph1='y'> TO  <fs af='XX,v,m,sg,any,,wA_huA,wA_huA' emph1='y'>
+#Step2= Separate out "_huA" and emph1='y' from TAM field
+#Step3=  Generate remaining morph feature directly through inverted Hindi morph
+#Step4= Add "_huA_BI" to the result of Step3 in terms of final generation
+>>खाता_हुआ_भी/जाता_हुआ_भी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,wA_huA,wA_huA'emph1='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph1='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huA_BI" to the result of Step2 in terms of final generation
+>>खाता_हुआ_भी/जाता_हुआ_भी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,wA_huA,wA_huA'emph1='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph1='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huye_BI" to the result of Step2 in terms of final generation
+>>खाते_हुये_भी/जाते_हुये_भी
+
+
+[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,wA_huA,wA_huA'emph1='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph1='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI_BI" to the result of Step2 in terms of final generation
+>>जाती_हुयी_भी/खाती_हुयी_भी
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,wA_huA,wA_huA'emph1='y'>
+>खा/जा
+#Step1= Separate out "_huA" and emph1='y' from TAM field
+#Step2=  Generate remaining morph feature directly through inverted Hindi morph
+#Step3= Add "_huyI_BI" to the result of Step2 in terms of final generation
+>>जातीं_हुयी_भी/खातीं_हुयी_भी
+
+
+[[Pres_Prtcpl_rdp_wai1]]
+
+
+<fs af='XX,v,any,any,any,,wai1,wai1' rdp='y'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,wA_huA,wA_huA' rdp='y'> TO  <fs af='XX,v,m,pl,any,,wA_huA,wA_huA' rdp='y'>
+#Step2= Remove "_huA" from TAM field and Separate out  rdp='y' 
+#Step3=  Generate remaining morph feature directly through inverted Hindi morph
+#Step4= For the value of rdp='y'--Make duplicate copy of Step3 result and conjoin the duplicated copy to the result of  Step3 with hyphen
+>>खाते-खाते/जाते-जाते
+
+
+[[Pres_Prog_Asp_wa]]
+
+
+<fs af='XX,v,any,any,any,,wa,wa'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,rahA,rahA'> TO <fs af='XX,v,m,sg,any,,rahA,rahA'>
+#Step2= Root_rahA
+>>खा_रहा/जा_रहा
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,rahA,rahA'>
+>खा/जा
+#Step1=Root_rahA
+>>खा_रहा/जा_रहा
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,rahA,rahA'>
+>खा/जा
+#Step1=Root_rahe
+>>खा_रहे/जा_रहे
+
+
+
+
+[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,rahA,rahA'>
+>खा/जा
+#Step1=Root_rahI
+>>खा_रही/जा_रही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,rahA,rahA'>
+>खा/जा
+#Step1=Root_rahIM
+>>खा_रहीं/जा_रहीं
+
+
+[[Pres_Prog_Asp_e_wa]]
+
+
+<fs af='XX,v,any,any,any,,wa,wa' emph='y'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,rahA,rahA' emph='y'> TO <fs af='XX,v,m,sg,any,,rahA,rahA' emph='y'>
+#Step2= Root_hI_rahA
+>>खा_ही_रहा/जा_ही_रहा
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,rahA,rahA' emph='y'>
+>खा/जा
+#Step1=Root_hI_rahA
+>>खा_ही_रहा/जा_ही_रहा
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,rahA,rahA' emph='y'>
+>खा/जा
+#Step1=Root_hI_rahe
+>>खा_ही_रहे/जा_ही_रहे
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,rahA,rahA' emph='y'>
+>खा/जा
+#Step1=Root_hI_rahI
+>>खा_ही_रही/जा_ही_रही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,rahA,rahA' emph='y'>
+>खा/जा
+#Step1=Root_hI_rahIM
+>>खा_ही_रहीं/जा_ही_रहीं
+
+
+[[Pres_Prog_Asp_e1_wa]]
+
+
+<fs af='XX,v,any,any,any,,wa,wa' emph1='y'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,rahA,rahA' emph1='y'> TO <fs af='XX,v,m,sg,any,,rahA,rahA' emph1='y'>
+#Step2= Root_BI_rahA
+>>खा_भी_रहा/जा_भी_रहा
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,sg,any,,rahA,rahA' emph1='y'>
+>खा/जा
+#Step1=Root_BI_rahA
+>>खा_भी_रहा/जा_भी_रहा
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,m,pl,any,,rahA,rahA' emph1='y'>
+>खा/जा
+#Step1=Root_BI_rahe
+>>खा_भी_रहे/जा_भी_रहे
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,sg,any,,rahA,rahA' emph1='y'>
+>खा/जा
+#Step1=Root_BI_rahI
+>>खा_भी_रही/जा_भी_रही
+
+
+[[Agr_based_feature]]
+
+
+<fs af='XX,v,f,pl,any,,rahA,rahA' emph1='y'>
+>खा/जा
+#Step1=Root_BI_rahIM
+>>खा_भी_रहीं/जा_भी_रहीं
+
+
+[[Pres_Prog_Asp_Aux_A]]
+
+
+<fs af='XX,v,m,sg,1,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,m,sg,1,,hE,hE'> then generate> rAhA+hUz
+>>रहा_हूँ
+
+
+<fs af='XX,v,m,pl,1,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,m,pl,1,,hE,hE'> then generate> rAhe+hEM
+>>रहे_हैं
+
+
+<fs af='XX,v,m,sg,2,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,m,sg,2,,hE,hE'> then generate> rAhA+hE
+>>रहा_है
+
+
+<fs af='XX,v,m,pl,2,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,m,pl,2,,hE,hE'> then generate> rAhe+ho
+>>रहे_हो
+
+
+<fs af='XX,v,m,sg,3,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,m,sg,3,,hE,hE'> then generate> rAhA+hE
+>>रहा_है
+
+
+<fs af='XX,v,m,pl,3,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,m,pl,3,,hE,hE'> then generate> rAhe+hEM
+>>रहे_हैं
+
+
+<fs af='XX,v,f,sg,1,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,f,sg,1,,hE,hE'> then generate> rAhI+hUz
+>>रही_हूँ
+
+
+<fs af='XX,v,f,pl,1,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,f,pl,1,,hE,hE'> then generate> rAhe+hEM
+>>रहे_हैं
+
+
+<fs af='XX,v,f,sg,2,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,f,sg,2,,hE,hE'> then generate> rAhI+hE
+>>रही_है
+
+
+<fs af='XX,v,f,pl,2,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,f,pl,2,,hE,hE'> then generate> rAhI+ho
+>>रही_हो
+
+
+<fs af='XX,v,f,sg,3,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,f,sg,3,,hE,hE'> then generate> rAhI+hE
+>>रही_है
+
+
+<fs af='XX,v,f,pl,3,,A,A'>
+#Root and TAM will be substituted
+>रहा (specific)
+#Step1= iff<fs af='rahA,v,f,sg,3,,hE,hE'> then generate> rAhI+hEM
+>>रही_हैं
+
+
+[[Asp_Habitual_ala]]
+
+
+<fs af='XX,v,any,any,any,,ala,ala'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= Change lexical transferred morph feature <fs af='XX,v,any,any,any,,yA_asp,yA_asp'> TO <fs af='XX,v,any,any,any,,yA,yA' asp="y">
+#Step2=Generate changed morph feature directly through inverted Hindi morph
+>>खाया/जाया
+
+
+[[Adv_Time_e_wai]]
+
+
+<fs af='XX,v,any,any,any,,wai,wai' emph= 'y'>
+#Root and TAM will be substituted
+>खा/जा
+#Step1= If <fs af='XX,v,any,any,any,,we_hI,we_hI' emph= 'y'> then generate Root+we_hI
+>>खाते_ही/जाते_ही
+
+
+[[hE_neg]]
+
+
+<fs af='XX,v,any,sg,1,,hE,hE' neg='y'> 
+#Root and TAM will be substituted
+>है
+#Step1= Separate out neg='y'
+#Step 2= Send remaining morph feature to inverted Hindi morph
+#Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+>>नहीं_हूँ
+
+
+<fs af='XX,v,any,sg,2,,hE,hE' neg='y'> 
+#Root and TAM will be substituted
+>है
+#Step1= Separate out neg='y'
+#Step 2= Send remaining morph feature to inverted Hindi morph
+#Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+>>नहीं_है
+
+
+<fs af='XX,v,any,sg,3,,hE,hE' neg='y'> 
+#Root and TAM will be substituted
+>है
+#Step1= Separate out neg='y'
+#Step 2= Send remaining morph feature to inverted Hindi morph
+#Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+>>नहीं_है
+
+
+<fs af='XX,v,any,pl,1,,hE,hE' neg='y'> 
+#Root and TAM will be substituted
+>है
+#Step1= Separate out neg='y'
+#Step 2= Send remaining morph feature to inverted Hindi morph
+#Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+>>नहीं_हैं
+
+
+<fs af='XX,v,any,pl,2,,hE,hE' neg='y'> 
+#Root and TAM will be substituted
+>>है
+#Step1= Separate out neg='y'
+#Step 2= Send remaining morph feature to inverted Hindi morph
+#Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+>>नहीं_हो
+
+
+<fs af='XX,v,any,pl,3,,hE,hE' neg='y'> 
+#Root and TAM will be substituted
+>है
+#Step1= Separate out neg='y'
+#Step 2= Send remaining morph feature to inverted Hindi morph
+#Step3= Add neg value (neg=nahIM) just before to the result of Step2 with underscore
+>>नहीं_हैं
+
+
+[[[TAM Dict from B_M_M (SL) to Hindi (TL)]]]
+
+
+[SL        TL]
+gA        gA
+e        e
+kara        kara
+ba        nA
+yeke        nA
+ilA        wA_hE
+wa        rahA
+wa1        wA_huA
+wai        we_hI
+wai1        wA_huA
+ala        yA_asp
+yala1        yA1_huA
+yala        yA_huA
+A         hE
+ila        yA
+ila1        yA1
+yale         yA
+yale1        yA1
+WA        WA
+hE        hE
+kA        kA
+ko        ko
+se        se
+meM        meM
+para        para
+
+
+
+
+[[[New Morph Category to Implement]]]
+##Morph category
+##Morph Output
+hE_neg
+ह
+
+
+नहनि/नहनी/नइखे/नैखे/नइखी/नइखि/नइखीं/नइखिं
+<fs af='ह,v,any,sg,1,,hE,hE' neg='y'>
+नहनि/नहनी/नइखे/नैखे
+<fs af='ह,v,any,sg,2,,hE,hE' neg='y'>
+नहनि/नहनी/नइखे/नैखे
+<fs af='ह,v,any,sg,3,,hE,hE' neg='y'>
+नहनि/नहनी/नइखे/नैखे/नइखी/नइखि/नइखीं/नइखिं
+<fs af='ह,v,any,pl,1,,hE,hE' neg='y'>
+नहनि/नहनी/नइखे/नैखे/नइखी/नइखि/नइखीं/नइखिं
+<fs af='ह,v,any,pl,2,,hE,hE' neg='y'>
+नहनि/नहनी/नइखे/नैखे
+<fs af='ह,v,any,pl,3,,hE,hE' neg='y'>
